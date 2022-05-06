@@ -13,7 +13,7 @@ University of North Carolina, Charlotte/
 Charlotte, NC 28223 USA
 
 Email: jzhang77@uncc.edu\
-URL: [kristenjz.github.io](kristenjz.github.io)\
+URL: [kristenjz.github.io](https://kristenjz.github.io/)
 
 Born: 1998—Zhengzhou,Henan Province, China\
 Nationality: Chinese

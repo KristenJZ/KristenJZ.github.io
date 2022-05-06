@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://KristenJZ.github.io/"
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -51,13 +51,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/master/content/"
+    GithubEdit = "https://github.com/KristenJZ/KristenJZ.github.io/edit/master/content/"
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    GithubRepo = "https://github.com/KristenJZ/KristenJZ.github.io"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/KristenJZ/KristenJZ.github.io/master/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
@@ -69,8 +69,8 @@ posts = "/posts/:year/:month/:day/:slug/"
 [params.lang]
 
     [params.lang.author]
-      en = "Your Name"
-      cn = "你的名字"
+      en = "KristenJZ"
+      cn = "张晶"
 
     [params.lang.madeWith]
       en = "Made with"

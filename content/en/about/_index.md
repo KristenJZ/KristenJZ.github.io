@@ -1,72 +1,74 @@
 ---
-title: "Curriculum Vitae"
+title: "About Me"
 type : list-single
 ---
 {{<block class="note">}}
-The following content came from the [Compact Academic CV](https://www.latextemplates.com/template/compact-academic-cv) by [Dario Taraborelli](https://github.com/dartar).
+If you don't want your name to appear on the page, please contact me and I'll delete it as soon as possible.
 {{<end>}}
 
-## Albert Einstein
+## Jing(Kristen) Zhang
 
-Institute for Advanced Study\
-Einstein Drive/
-Princeton, N.J. 08540 USA
+Department of Communcation Studies\
+University of North Carolina, Charlotte/
+Charlotte, NC 28223 USA
 
-Phone: 609-734-8000\
-Mobile: 609-924-8399
+Email: jzhang77@uncc.edu\
+URL: [kristenjz.github.io](kristenjz.github.io)\
 
-Email: a.einstein@ias.edu\
-URL: http://www.ias.edu/spfeatures/einstein/
-
-Born: March 12, 1879—Ulm, Germany\
-Nationality: German/American
-
-### Current position
-Emeritus Professor, Institute for Advanced Study, Princeton 
-
-### Areas of specialisation
-Physics; Relativity Theory
-
-### Appointments held
-
-1903-1908, Swiss Patent Office, Bern\
-1908-1911, University of Bern\
-1911-1912, University of Zürich\
-1912-1914, Charles University of Prague\
-1914-1932, Prussian Academy of Sciences, Berlin\
-1920-1930, University of Leiden\
-1932-1955, Institute for Advanced Study, Princeton
+Born: 1998—Zhengzhou,Henan Province, China\
+Nationality: Chinese
 
 ### Education
-1900, MSc in Physics, ETH Zürich 
-1900, PhD in Physics, ETH Zürich
+- (Incoming) M.A.  in Communication Studies, UNCC, USA
+  - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
+- 2021, B.A. in Communication, Fudan University, China
+  - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
+- Exchange Program, 2019, The University of Sydney, Australia
+- Summer Program
+  - 2020, Certificate in Social Science and Research Training, Peking University, China
 
-### Grants, honours & awards
-1921, Nobel Prize in Physics, Nobel Foundation
+### Research Interests
+Communication technology and society, social media, computational communication, media industry and technology
 
 ### Publications & talks
-#### Journal articles
-1. Einstein, Albert (1901), “Folgerungen aus den Capillaritätserscheinungen (Conclusions Drawn from the Phenomena of Capillarity)", *Annalen der Physik, 4*: 513
-2. Einstein, Albert (1905), “On a Heuristic Viewpoint Concerning the Production and Transforma- tion of Light", *Annalen der Physik, 17*: 132–148.
-1905b Einstein, Albert (1905), A new determination of molecular dimensions. *PhD dissertation*.
-3. Einstein, Albert (1905), “On the Motion—Required by the Molecular Kinetic Theory of Heat—of Small Particles Suspended in a Stationary Liquid", *Annalen der Physik, 17*: 549–560.\
-1905d Einstein, Albert (1905), “On the Electrodynamics of Moving Bodies", *Annalen der Physik* 17:891–921.
-4. Einstein, Albert (1905), “Does the Inertia of a Body Depend Upon Its Energy Content?", *Annalen der Physik, 18*: 639–641.
-5. Einstein, Albert (1915), “Die Feldgleichungen der Gravitation (The Field Equations of Gravitation)", *Koniglich Preussische Akademie der Wissenschaften*: 844–847
-6. Einstein, Albert (1917), “Kosmologische Betrachtungen zur allgemeinen Relativitätstheorie (Cos-mological Considerations in the General Theory of Relativity)", *Koniglich Preussische Akademie der Wissenschaften*
-7. Einstein, Albert (1917), “Zur Quantentheorie der Strahlung (On the Quantum Mechanics of Ra- diation)", *Physikalische Zeitschrift, 18*: 121–128
+#### Conference Presentations
+1. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). *Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*. Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
 
-#### Books
-Einstein, Albert (1954), *Ideas and Opinions*, New York: Random House, ISBN 0-517-00393-7
+2. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). *Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.* Paper presented on the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
 
-#### Newspaper articles
-1. Einstein, Albert, et al. (December 4, 1948), “To the editors", *New York Times*
-2. Einstein, Albert (May 1949), “Why Socialism?", *Monthly Review*.
+3. **Zhang, J**. (October 2020). *News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*. Paper presented at the 2020 International Communication Association (ICA) – post conference: International New Media Forum, Shanghai, China. 
 
-### Teaching
+   ·    This paper won one of the seven Top Student Paper Awards of the post-conference.
 
-...
+### Research Assistant Experiences
 
-### Service to the profession
+**1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://carleton.ca/fpa/2021/sshrc-partnership-grant-global-media-and-internet-concentration-gmic-project/)         		*Present*
 
-...
+·    Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
+
+**2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           							   Jan 2020 – Feb 2020
+
+·   Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
+
+·   Helped design a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
+
+### Teaching Experiences
+
+**Teaching Assistant**, *Fudan University*, School of Journalism        Feb 2020 – Jun 2020
+
+·    On the course of *Introduction to Journalism*
+
+### Assistantships, Grants and Awards
+
+- 2022	   Graduate Assistantship at the University of North Carolina at Charlotte
+
+- 2020       Second Prize Academic Scholarship for Graduates, *Fudan University*
+
+- 2018       Fudan Excellent Student, *Fudan University* | Oct, 2018.
+
+- 2017|2018  National Endeavor Fellowship, *Ministry of Education of China* 
+
+- 2018  Second Prize Academic Scholarship, *Fudan University*
+
+- 2017  Third Prize Academic Scholarship, *Fudan University*
+

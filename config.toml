@@ -1,6 +1,6 @@
 baseURL = "https://KristenJZ.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "Kristen-JZ"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
@@ -64,7 +64,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "hugo-logo.png"
   width = 50.0
   height = 50.0
-  alt = "Hugo-ht"
+  alt = "Kristen-JZ"
 
 [params.lang]
 

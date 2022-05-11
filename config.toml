@@ -64,7 +64,7 @@ posts = "/posts/:year/:month/:day/:slug/"
   url = "hugo-logo.png"
   width = 50.0
   height = 50.0
-  alt = "Kristen-JZ"
+  alt = "张晶：Kristen-JZ"
 
 [params.lang]
 

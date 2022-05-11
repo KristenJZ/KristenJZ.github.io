@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src = "/image/Myself.jpge" width="450">}}
+{{<figure src = "/image/Myself.jpge">}}
 
 I graduated with a Bachelor's degree in Communication from Jounalism School, Fudan University in 2021.  I am now a master student in Communication Studies at the University of North Carolina, Charlotte, working with [Professor Jiang Min](https://pages.charlotte.edu/min-jiang/).
 

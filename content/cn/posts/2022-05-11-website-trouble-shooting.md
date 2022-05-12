@@ -1,7 +1,8 @@
 ---
 title: "小白从零用Hugo搭建个人网站遇到的问题一览"
 date: 2022-05-11T19:37:47+08:00
-type : list-single
+author: "张晶"
+slug: website-building-trouble-shooting
 draft: false
 toc: true
 ---

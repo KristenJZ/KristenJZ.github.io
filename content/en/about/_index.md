@@ -2,6 +2,7 @@
 title: "Curriculum Vitae"
 date: 2022-05-06T13:50:21+08:00
 type : list-single
+toc: true
 ---
 {{<block class="note">}}
 If you don't want your name to appear on the page, please contact me and I'll delete it as soon as possible.

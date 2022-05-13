@@ -17,7 +17,7 @@ Charlotte, NC 28223 USA
 Email: jzhang77@uncc.edu\
 URL: [kristenjz.github.io](https://kristenjz.github.io/)
 
-Born: 1998, Zhengzhou,Henan Province, China\
+Born: 1998—Zhengzhou,Henan Province, China\
 Nationality: Chinese
 
 ### Education
@@ -46,13 +46,12 @@ Communication technology and society, social media, computational communication,
 
 **1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://carleton.ca/fpa/2021/sshrc-partnership-grant-global-media-and-internet-concentration-gmic-project/)         		*Present*
 
-·    Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
+- Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
 
 **2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           							   Jan 2020 – Feb 2020
 
-·   Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
-
-·   Helped design a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
+- Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
+- Helped design a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
 
 ### Teaching Experiences
 

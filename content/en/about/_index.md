@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2022-05-06T13:50:21+08:00
+date: 2022-05-13T13:50:21+08:00
 type : list-single
 toc: true
 ---
@@ -17,7 +17,7 @@ Charlotte, NC 28223 USA
 Email: jzhang77@uncc.edu\
 URL: [kristenjz.github.io](https://kristenjz.github.io/)
 
-Born: 1998—Zhengzhou,Henan Province, China\
+Born: 1998, Zhengzhou,Henan Province, China\
 Nationality: Chinese
 
 ### Education
@@ -58,19 +58,13 @@ Communication technology and society, social media, computational communication,
 
 **Teaching Assistant**, *Fudan University*, School of Journalism        Feb 2020 – Jun 2020
 
-·    On the course of *Introduction to Journalism*
+- On the course of *Introduction to Journalism*
 
 ### Assistantships, Grants and Awards
 
-- 2022	   Graduate Assistantship at the University of North Carolina at Charlotte
-
-- 2020       Second Prize Academic Scholarship for Graduates, *Fudan University*
-
-- 2018       Fudan Excellent Student, *Fudan University* | Oct, 2018.
-
-- 2017|2018  National Endeavor Fellowship, *Ministry of Education of China* 
-
-- 2018  Second Prize Academic Scholarship, *Fudan University*
-
-- 2017  Third Prize Academic Scholarship, *Fudan University*
+- 2022-2024    Graduate Assistantship at the University of North Carolina at Charlotte
+- 2020              Second Prize Academic Scholarship for Graduates, *Fudan University*
+- 2018              Fudan Excellent Student, *Fudan University* (Oct, 2018)
+- 2017&2018  National Endeavor Fellowship, *Ministry of Education of China* 
+- 2017&2018  Academic Scholarship, *Fudan University*
 

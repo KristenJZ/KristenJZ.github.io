@@ -33,8 +33,9 @@ xcrun: error: unable to load libxcrun (dlopen(/Library/Developer/CommandLineTool
 这段让人比较困惑，我就拿到Stackoverflow上查了一下，发现我根本没有安装xcode开发展工具。解决这个问题需要在终端输入：
 
 ```java 
-sudo xcodebuild -license
+xcode-select --install 
 ```
+下载 Xcode Command Line Tools
 
 然后就可以用git了。
 
@@ -72,7 +73,7 @@ sudo xcodebuild -license
 
 2. 方便增加图片的方法：
 
-   可以在themes` -> `static` 中新建一个文件夹， 比如image或者picture之类的，挑自己喜欢的名字。之后再加入图片的话可以在帖子中这样加：
+   可以在`static` （static放在根目录下即可）中新建一个文件夹， 比如image或者picture之类的，挑自己喜欢的名字。之后再加入图片的话可以在帖子中这样加：
    ```java
    {{figure src= "/images/image.jpg" title = "blablabla" caption = "blablabla" width = "xxx"}}
    ```

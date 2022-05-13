@@ -61,7 +61,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
 [params.logo]
   # Change the logo picture as your prefer:
-  url = "hugo-logo.png"
+  url = "image/zj.png"
   width = 50.0
   height = 50.0
   alt = "张晶：Kristen-JZ"

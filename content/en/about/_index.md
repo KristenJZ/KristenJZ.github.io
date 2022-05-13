@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2022-05-13T13:50:21+08:00
+date: 2022-05-06T13:50:21+08:00
 type : list-single
 toc: true
 ---
@@ -17,7 +17,7 @@ Charlotte, NC 28223 USA
 Email: jzhang77@uncc.edu\
 URL: [kristenjz.github.io](https://kristenjz.github.io/)
 
-Born: 1998—Zhengzhou,Henan Province, China\
+Born: 1998, Zhengzhou,Henan Province, China\
 Nationality: Chinese
 
 ### Education

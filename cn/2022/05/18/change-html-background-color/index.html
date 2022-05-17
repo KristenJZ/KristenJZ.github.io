@@ -1,0 +1,70 @@
+<a name=top></a><!doctype html><html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><title>Kristen-JZ</title><link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/css/fonts.css><link href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css rel=stylesheet><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js></script><script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js></script><script src=https://cdn.jsdelivr.net/npm/vega@5.17.0></script><script src=https://cdn.jsdelivr.net/npm/vega-lite@4.17.0></script><script src=https://cdn.jsdelivr.net/npm/vega-embed@6.12.2></script><script>hljs.initHighlightingOnLoad();</script><link rel=icon href=https://KristenJZ.github.io/image/zj.png></head><style>h1{background-color:#4682b4}</style><body><div class=wrapper><header class=header><nav class=nav><a href=/ class=nav-logo><img src=/image/zj.png width=50 height=50 alt=Kristen-JZ></a><ul class=nav-links><li><a href=/cn/about/>关于</a></li><li><a href=/cn/posts/>日志</a></li><li><a href=/>English</a></li></ul></nav></header><main class=content role=main><div style=text-align:center><h1>修改HTML网页背景的方法整理</h1><p>KristenJZ
+/ 2022-05-18</p><hr></div><span class=article-toolbar><a href=https://github.com/KristenJZ/KristenJZ.github.io/edit/master/content/cn/posts/2022-05-18-changehtml-background-color.md style=font-size:24px;color:#000 target=_blank><i class="fa fa-edit" aria-hidden=true title=编辑本页></i></a></span><aside class=toc>Table of Contents:<nav id=TableOfContents><ol><li><a href=#设置单色背景>设置单色背景</a></li><li><a href=#设置图片背景>设置图片背景</a></li><li><a href=#设置渐变背景>设置渐变背景</a></li></ol></nav></aside><div class="body-text list-text"><h2 id=设置单色背景>设置单色背景<a href=#设置单色背景 class=header-anchor arialabel=Anchor> #</a></h2><p>文件中添加标签，并在其中修改背景</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html><span style=color:#bc7a00>&lt;!DOCTYPE html&gt;</span>
+&lt;<span style=color:green;font-weight:700>html</span>&gt;
+&lt;<span style=color:green;font-weight:700>head</span>&gt;
+  
+&lt;<span style=color:green;font-weight:700>style</span>&gt;
+  <span style=color:green;font-weight:700>body</span> {   <span>#说明这部分的背景色是什么颜色</span>
+    <span style=color:green;font-weight:700>background-color</span>:<span style=color:#666>#93B874</span>; <span>#或是red/green等名称</span>
+    }
+  <span style=color:green;font-weight:700>h1</span>{     <span>#说明网页标题区的背景是橙色</span>
+    <span style=color:green;font-weight:700>background-color</span>:<span style=color:green;font-weight:700>orange</span>;
+  }
+  <span style=color:green;font-weight:700>p</span>{			<span>#说明这个段落背景颜色是红色</span>
+    <span style=color:green;font-weight:700>background-color</span>:<span style=color:green;font-weight:700>red</span>;
+  }
+ &lt;/<span style=color:green;font-weight:700>style</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>head</span>&gt;
+  &lt;<span style=color:green;font-weight:700>body</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>body</span>&gt;
+&lt;/<span style=color:green;font-weight:700>html</span>&gt;
+</code></pre></div><h2 id=设置图片背景>设置图片背景<a href=#设置图片背景 class=header-anchor arialabel=Anchor> #</a></h2><p>仍然在中作文章，用background-image:</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html><span style=color:#bc7a00>&lt;!DOCTYPE html&gt;</span>
+&lt;<span style=color:green;font-weight:700>html</span>&gt;
+  &lt;<span style=color:green;font-weight:700>head</span>&gt;
+    
+    &lt;<span style=color:green;font-weight:700>style</span>&gt;
+      <span style=color:green;font-weight:700>body</span>{<span style=color:green;font-weight:700>background-image</span>:<span style=color:green>url</span>(<span style=color:#ba2121>&#34;xxx.png&#34;</span>);
+      }
+    &lt;/<span style=color:green;font-weight:700>style</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>head</span>&gt;
+&lt;/<span style=color:green;font-weight:700>html</span>&gt;
+</code></pre></div><p>如果想实现图片叠加效果：</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html><span style=color:#bc7a00>&lt;!DOCTYPE html&gt;</span>
+&lt;<span style=color:green;font-weight:700>html</span>&gt;
+  &lt;<span style=color:green;font-weight:700>head</span>&gt;
+    
+    &lt;<span style=color:green;font-weight:700>style</span>&gt;
+      <span style=color:green;font-weight:700>body</span>{<span style=color:green;font-weight:700>background-image</span>:<span style=color:green>url</span>(<span style=color:#ba2121>&#34;xxx.png&#34;</span>),<span style=color:#00f>url2</span>(<span style=color:#ba2121>&#34;xxx.gif&#34;</span>);
+      }
+    &lt;/<span style=color:green;font-weight:700>style</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>head</span>&gt;
+&lt;/<span style=color:green;font-weight:700>html</span>&gt;
+</code></pre></div><h2 id=设置渐变背景>设置渐变背景<a href=#设置渐变背景 class=header-anchor arialabel=Anchor> #</a></h2><p>background:linear-gradient(方向或角度#direction/angle，颜色1，颜色2，颜色3)</p><ol><li>垂直渐变：</li></ol><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html><span style=color:#bc7a00>&lt;!DOCTYPE html&gt;</span>
+&lt;<span style=color:green;font-weight:700>html</span>&gt;
+  &lt;<span style=color:green;font-weight:700>head</span>&gt;
+    &lt;<span style=color:green;font-weight:700>style</span>&gt;
+      <span style=color:green;font-weight:700>html</span>{
+        <span style=color:green;font-weight:700>min-height</span>:<span style=color:#666>100</span><span style=color:#b00040>%</span>
+      } #<span style=color:#00f;font-weight:700>设置这个参数的意义在于</span><span>，</span><span style=color:green;font-weight:700>确保渐变效果填充整个页面</span>
+      <span style=color:green;font-weight:700>body</span>{
+          <span style=color:#408080;font-style:italic>/* Chrome 10+, Safari 5.1+ */</span>
+    <span style=color:green;font-weight:700>background</span>: <span style=color:green>-webkit-</span><span style=color:green>linear-gradient</span>(<span style=color:green;font-weight:700>left</span>,<span style=color:#666>#93B874</span>, <span style=color:#666>#C9DCB9</span>); 
+    <span style=color:#408080;font-style:italic>/* Opera 11.1+ */</span>
+    <span style=color:green;font-weight:700>background</span>: <span style=color:green>-o-</span><span style=color:green>linear-gradient</span>(<span style=color:green;font-weight:700>right</span>,<span style=color:#666>#93B874</span>, <span style=color:#666>#C9DCB9</span>); 
+    <span style=color:#408080;font-style:italic>/* Firefox 3.6+ */</span>
+    <span style=color:green;font-weight:700>background</span>: <span style=color:green>-moz-</span><span style=color:green>linear-gradient</span>(<span style=color:green;font-weight:700>to</span> <span style=color:green;font-weight:700>right</span>,<span style=color:#666>#93B874</span>, <span style=color:#666>#C9DCB9</span>); 
+    <span style=color:#408080;font-style:italic>/* 标准语法（一定要放在最后）*/</span>
+    <span style=color:green;font-weight:700>background</span>: <span style=color:green>linear-gradient</span>(<span style=color:#666>#93B874</span>, <span style=color:#666>#C9DCB9</span>); 
+    <span style=color:#408080;font-style:italic>/*最好设置一个背景颜色，万一渐变效果加载失败，背景也不会是空白的*/</span>
+    <span style=color:green;font-weight:700>background-color</span>: <span style=color:#666>#93B874</span>; 
+      }
+    &lt;/<span style=color:green;font-weight:700>style</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>head</span>&gt;
+  &lt;<span style=color:green;font-weight:700>body</span>&gt;
+  &lt;/<span style=color:green;font-weight:700>body</span>&gt;
+&lt;/<span style=color:green;font-weight:700>html</span>&gt;
+</code></pre></div><ol start=2><li><p>其他属性调整渐变效果</p><ul><li><p>举个例子，你不但可以添加2种以上的颜色，还能在每种颜色后面加上百分比，设置每种颜色的间距。</p><pre><code>background: linear-gradient(#93B874 10%, #C9DCB9 70%, #000000 90%);
+</code></pre></li><li><p>给颜色添加透明效果。这会让颜色慢慢褪去。让同一种颜色从彩色变成完全透明。你需要用rgba()功能定义颜色。最后一个值表示透明度，0是完全不透明，1是完全透明。</p><pre><code>background: linear-gradient(to right, rgba(147,184,116,0), rgba(147,184,116,1));
+</code></pre></li></ul></li></ol><p style=color:#777>最后一次修改于 2022-05-18</p></div><a href=#top><i class="fa fa-chevron-up" style=font-size:30px;color:#000></i></a></main><footer class=footer><script src=https://utteranc.es/client.js repo=KristenJZ/KristenJZ.github.io issue-term=pathname theme=github-light crossorigin=anonymous async></script><script type=text/javascript src=/js/math-code.js></script><script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script><script type=text/javascript src=/js/center-img.js></script><ul class=footer-links><li><a href=/cn/posts/index.xml type=application/rss+xml title="RSS feed">订阅</a></li><li><a href=http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank>版权
+<i class="fa fa-cc" aria-hidden=true title="Attribution-NonCommercial-ShareAlike 4.0 International"></i></a></li></ul><div class=copyright-text>©
+张晶
+2021-2022</div></footer>

@@ -17,7 +17,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 1
 [[menu.en]]
     name = "Vitae"
-    url = "/en/about/"
+    url = "/en/vitae/"
     weight = 2
 [[menu.en]]
     name = "Posts"

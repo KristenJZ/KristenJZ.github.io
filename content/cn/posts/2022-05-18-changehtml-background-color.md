@@ -2,7 +2,7 @@
 title: "修改HTML网页背景的方法整理"
 date: 2022-05-18T06:35:14+08:00
 author: "KristenJZ"
-slug:Change-html-background-color
+slug: Change-html-background-color
 draft: false
 toc: true
 ---

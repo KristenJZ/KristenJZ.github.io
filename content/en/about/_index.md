@@ -25,6 +25,7 @@ Nationality: Chinese
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
 - 2021, B.A. in Communication, Fudan University, China
   - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
+  - Relevant courses: Academic writing, Communication research methods, Data analysis and visualization
 - Exchange Program, 2019, The University of Sydney, Australia
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China

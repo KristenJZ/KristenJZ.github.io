@@ -49,7 +49,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    favicon = "image/zj.png"
     # Edit by yourself:
     GithubEdit = "https://github.com/KristenJZ/KristenJZ.github.io/edit/master/content/"
     copyright = "&copy;"

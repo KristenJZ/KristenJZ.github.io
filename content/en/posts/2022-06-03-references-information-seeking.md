@@ -1,5 +1,5 @@
 ---
-title: "The references I will give if I organize a lecture on information seeking"
+title: "Lit: The references I will give if I organize a lecture on information seeking"
 date: 2022-06-03T18:25:19+08:00
 author: "KristenJZ"
 slug: information-seeking-references

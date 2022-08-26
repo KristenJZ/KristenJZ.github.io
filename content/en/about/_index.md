@@ -21,9 +21,10 @@ Born: 1998, Zhengzhou,Henan Province, China\
 Nationality: Chinese
 
 ### Education
-- (Incoming) M.A.  in Communication Studies, UNCC, USA
+- 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, USA
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
 - 2021, B.A. in Communication, Fudan University, China
+  - GPA: 3.6 | Major GPA: 3.81
   - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
   - Relevant courses: Academic writing, Communication research methods, Data analysis and visualization
 - Exchange Program, 2019, The University of Sydney, Australia
@@ -35,7 +36,7 @@ Communication technology and society, social media, computational communication,
 
 ### Publications & talks
 #### Conference Presentations
-1. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). *Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*. Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
+1. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://vimeo.com/722534868/64a926efc3). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
 
 2. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented on the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
 
@@ -45,7 +46,7 @@ Communication technology and society, social media, computational communication,
 
 ### Research Assistant Experiences
 
-**1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://carleton.ca/fpa/2021/sshrc-partnership-grant-global-media-and-internet-concentration-gmic-project/)         		*Present*
+**1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team      		*Present*
 
 - Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
 
@@ -56,9 +57,15 @@ Communication technology and society, social media, computational communication,
 
 ### Teaching Experiences
 
-**Teaching Assistant**, *Fudan University*, School of Journalism        Feb 2020 – Jun 2020
+**Teaching Assistant**
 
-- On the course of *Introduction to Journalism*
+*University of North Carolina at Charlotte*, Department of Communication Studies
+
+- On the course of *Public Speaking*											Aug 2022 - Dec 2022
+
+*Fudan University*, School of Journalism       
+
+- On the course of *Introduction to Journalism*						   Feb 2020 – Jun 2020
 
 ### Assistantships, Grants and Awards
 

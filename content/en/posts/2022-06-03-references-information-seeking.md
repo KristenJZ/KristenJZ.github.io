@@ -4,12 +4,12 @@ date: 2022-06-03T18:25:19+08:00
 author: "KristenJZ"
 slug: information-seeking-references
 draft: false
-toc: false
+toc: true
 ---
 
 Information seeking is an act when people find there is **an interest or knowledge gap in one area** and  then to acquire new information.It's a concept in information science but has gradually become important in communication studies, especially in scientific communication, health communication and other applied communication studies. 
 
-Here I'm gonna give a list of references on information seeking when I wrote my research on the same topic. These references help me a lot while building the concepts and models in the study. Also, I will note each reference to make the contribution clear.
+Here I'm gonna give a list of references on information seeking when I wrote [*my research on the same topic*](https://vimeo.com/722534868/64a926efc3). These references help me a lot while building the concepts and models in the study. Also, I will note each reference to make the contribution clear.
 
 ## The origin of the theory
 

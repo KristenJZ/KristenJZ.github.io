@@ -24,7 +24,7 @@ Nationality: Chinese
 - 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, USA
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
 - 2021, B.A. in Communication, Fudan University, China
-  - GPA: 3.6 | Major GPA: 3.81
+  - GPA: 3.60/4.00 | Major GPA: 3.81/4.00
   - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
   - Relevant courses: Academic writing, Communication research methods, Data analysis and visualization
 - Exchange Program, 2019, The University of Sydney, Australia
@@ -49,23 +49,24 @@ Communication technology and society, social media, computational communication,
 **1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team      		*Present*
 
 - Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
+- Responsible for resolving the research problem "who owns what":
+  - collected archive and data, formed a data collection
+  - going to form a website on "who owns what" on China media
 
-**2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           							   Jan 2020 – Feb 2020
+
+**2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           				            Jan 2020 – Feb 2020
 
 - Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
 - Helped design a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
 
 ### Teaching Experiences
 
-**Teaching Assistant**
+- *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
+  - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students									
 
-*University of North Carolina at Charlotte*, Department of Communication Studies
+- *Fudan University*, School of Journalism, Shanghai, China       
+  - 2020 Spring, *Introduction to Journalism*, Teaching Assistant, 75 students
 
-- On the course of *Public Speaking*											Aug 2022 - Dec 2022
-
-*Fudan University*, School of Journalism       
-
-- On the course of *Introduction to Journalism*						   Feb 2020 – Jun 2020
 
 ### Assistantships, Grants and Awards
 

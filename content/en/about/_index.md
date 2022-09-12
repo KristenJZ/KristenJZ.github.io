@@ -63,10 +63,13 @@ Communication technology and society, social media, computational communication,
 
 - *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
   - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students									
-
 - *Fudan University*, School of Journalism, Shanghai, China       
   - 2020 Spring, *Introduction to Journalism*, Teaching Assistant, 75 students
 
+### Media Practice
+
+- Podcast: [Plastic Bridge Love (In Chinese)](https://plasbridlove.podcast.xyz/)
+  - A culture podcast covering new trends
 
 ### Assistantships, Grants and Awards
 

@@ -63,7 +63,7 @@ Communication technology and society, social media, computational communication,
   - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students
   - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); Using support and creating arguments; Media to use for presentation aids; Keynote speaking; Making outlines.									
 - *Fudan University*, School of Journalism, Shanghai, China       
-  - 2020 Spring, *JOUR120008Introduction to Journalism*, Teaching Assistant, 75 students
+  - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant, 75 students
 
 ### Media Practice
 

@@ -49,19 +49,20 @@ Communication technology and society, social media, computational communication,
 
 - Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
 - Responsible for resolving the research problem "who owns what":
-  - collected archive and data, formed a data collection
+  - collected archive and data, and formed a data collection
   - going to form a website on "who owns what" on China media
 
 **2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           				            Jan 2020 – Feb 2020
 
 - Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
-- Helped design a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
+- Designed a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
+- Acquired over 1000 samples on fans' social media platforms.
 
 ### Teaching Experiences
 
 - *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
   - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students
-  - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); Using support and creating arguments; Media to use for presentation aids; Keynote speaking; Making outlines.									
+  - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); Media to use for presentation aids; Keynote speaking; Making outlines.									
 - *Fudan University*, School of Journalism, Shanghai, China       
   - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant, 75 students
 

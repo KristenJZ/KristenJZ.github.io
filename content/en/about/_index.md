@@ -10,7 +10,7 @@ If you don't want your name to appear on the page, please contact me and I'll de
 
 ## Jing(Kristen) Zhang
 
-Department of Communcation Studies\
+Department of Communication Studies\
 University of North Carolina, Charlotte/
 Charlotte, NC 28223 USA
 
@@ -22,11 +22,13 @@ Nationality: Chinese
 
 ### Education
 - 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, USA
+  - GPA: 4.00/4.00
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
+  - Relevant courses: Public Relations Theory
 - 2021, B.A. in Communication, Fudan University, China
   - GPA: 3.60/4.00 | Major GPA: 3.81/4.00
   - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
-  - Relevant courses: Academic writing, Communication research methods, Data analysis and visualization
+  - Relevant courses: Academic Writing, Communication Research Methods, Data Analysis and Visualization
 - Exchange Program, 2019, The University of Sydney, Australia
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China
@@ -61,8 +63,9 @@ Communication technology and society, social media, computational communication,
 ### Teaching Experiences
 
 - *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
+  - 2023 Spring, *COMM3100 Communication Research Method*, Teaching Assistant,  78 students 
   - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students
-    - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); [Media to use for presentation aids](https://www.youtube.com/watch?v=UhZ1vL6H7Do); [Keynote speaking](https://www.youtube.com/watch?v=60hTb-WOM14); Making outlines.									
+    - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); [Media to use for presentation aids](https://www.youtube.com/watch?v=UhZ1vL6H7Do); [Keynote speaking](https://www.youtube.com/watch?v=60hTb-WOM14).									
 - *Fudan University*, School of Journalism, Shanghai, China       
   - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant, 75 students
 

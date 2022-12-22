@@ -5,17 +5,14 @@ type : nolisting
 toc: true
 ---
 
-{{< columns >}}
-{{< column >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{< endcolumn >}}
-
-{{< column >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{< endcolumn >}}
-
-{{< column >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{< endcolumn >}}
+<div style="width:30%">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+<div style="width:30%">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+<div style="width:30%">
+{{<figure src="/image/Myself.jpg">}}
+</div>
 
 

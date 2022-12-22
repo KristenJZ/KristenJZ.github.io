@@ -7,10 +7,10 @@ toc: true
 
 {{< columns >}}
 
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/media/projects/atus.png" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}

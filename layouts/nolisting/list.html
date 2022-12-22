@@ -1,0 +1,16 @@
+<a name="top"></a>
+{{ partial "header.html" . }}
+
+<main class = "content" role="main">
+<div class="body-text list-text">
+<h1><span class="title">{{ .Title | markdownify }}</span></h1>
+{{ .Content | partial "add-header-anchors" }}
+</div>
+</main>
+{{ partial "footer.html" . }}
+<div style="text-align: center; color: gray; margin-top: -20px; font-size: 19px;
+margin-bottom: 10px">
+{{ if .IsHome}}
+site last updated on {{ .Site.LastChange.Format "2006-01-02" }}
+{{ end }}
+</div>

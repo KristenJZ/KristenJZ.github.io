@@ -6,11 +6,16 @@ toc: true
 ---
 
 {{< columns >}}
+{{< column >}}
+{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{< endcolumn >}}
 
+{{< column >}}
 {{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{< endcolumn >}}
+
+{{< column >}}
 {{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
-{{<figure-a src="/image/Myself.jpg" link="https://atus.hongtaoh.com/" >}}
+{{< endcolumn >}}
+
+

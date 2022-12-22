@@ -32,6 +32,10 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/en/posts/"
     weight = 5
 [[menu.en]]
+    name = "Photography"
+    url = "/en/photograph"
+    weight = 1
+[[menu.en]]
     name = "中文"
     url = "/cn/posts/"
     weight = 6

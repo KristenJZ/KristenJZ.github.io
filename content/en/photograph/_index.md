@@ -8,12 +8,35 @@ toc: true
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/Myself.jpg">}}
 </div>
+
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/Myself.jpg">}}
 </div>
+
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/Myself.jpg">}}
 </div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/Myself.jpg">}}
+</div>
+
 </div>
 
 

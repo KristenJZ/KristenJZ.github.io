@@ -50,25 +50,25 @@ Communication technology and society, social media, computational communication,
 
 **1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team      		*Present*
 
-- Research advisor: Prof. Min Jiang at *The University of North Carolina, Charlotte*
+- Research advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) at *The University of North Carolina, Charlotte*
 - Responsible for resolving the research problem "who owns what":
-  - collected archive and data, and formed a data collection
+  - collected archives and data, and formed a data collection
   - going to form a website on "who owns what" on China media
 
 **2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           				            Jan 2020 – Feb 2020
 
-- Research advisor: Prof. Fang Wu at *Shanghai Jiao Tong University*
+- Research advisor: [Prof. Fang Wu](https://smd.sjtu.edu.cn/teacher/detail/id/175) at *Shanghai Jiao Tong University*
 - Designed a questionnaire to investigate fan communities’ online political discussion and charitable behavior during COVID-19 in China.
 - Acquired over 1000 samples on fans' social media platforms.
 
 ### Teaching Experiences
 
 - *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
-  - 2023 Spring, *COMM3100 Communication Research Method*, Teaching Assistant,  78 students 
-  - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant, 22 students
+  - 2023 Spring, *COMM3100 Communication Research Method*, Teaching Assistant for [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/),  78 students 
+  - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant for [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/), 22 students
     - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); [Media to use for presentation aids](https://www.youtube.com/watch?v=UhZ1vL6H7Do); [Keynote speaking](https://www.youtube.com/watch?v=60hTb-WOM14).									
 - *Fudan University*, School of Journalism, Shanghai, China       
-  - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant, 75 students
+  - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant for [Dr. Cui](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1372/u1ai112758.html), 75 students
 
 ### Media Practice
 

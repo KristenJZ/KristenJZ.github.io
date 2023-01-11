@@ -38,12 +38,13 @@ Communication technology and society, social media, computational communication,
 
 ### Publications & talks
 #### Conference Presentations
-1. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://vimeo.com/722534868/64a926efc3). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
-
-2. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented on the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
-
-3. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). Paper presented at the 2020 International Communication Association (ICA) – post conference: International New Media Forum, Shanghai, China. 
-- This paper won one of the seven Top Student Paper Awards of the post-conference.
+1. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., & Ahn, S. J. (May 2023). *Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*. Paper presented at the 2023 annual conference of the International Communication Association (ICA), Toronto, Canada. The Division of Computational Methods.
+2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://vimeo.com/722534868/64a926efc3). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
+   - Zhang, Jing was the presenter.
+3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented on the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
+4. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). Paper presented at the 2020 International Communication Association (ICA) – post conference: International New Media Forum, Shanghai, China. 
+   - This paper won one of the seven Top Student Paper Awards of the post-conference.
+   - Zhang, Jing was the presenter. 
 
 ### Research Assistant Experiences
 

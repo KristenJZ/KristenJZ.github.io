@@ -82,25 +82,75 @@ Email：sandra.gonzalez.bailon@asc.upenn.edu
 
 主要的研究方法是social network，研究话题包括network下的political participation, 以及非人为因素进行的[information manipulation（如bot等）](https://www.pnas.org/doi/pdf/10.1073/pnas.2013443118)。
 
+3）[Yang Guobin](https://www.asc.upenn.edu/people/faculty/guobin-yang-phd)
 
+email: guobin.yang@asc.upenn.edu
+
+华人大牛，专做 social movement，方法偏质性和文化研究
+
+4）[Ken Winneg](https://www.asc.upenn.edu/people/faculty/ken-winneg-phd)
+
+是Anneberg 传播学院做 panel survey 的负责人，这几年有关注social media 的 political discussion 带来的对美国政治生态的改天。
 
 3. The University of California, Los Angeles 加州大学洛杉矶分校
 
-从综排和专排来看，UCLA似乎还不该出现在这里，因为它其实是一所建系不过两年的小传播学系。但是可以说是明日之星一般的存在，这几年的申请也可以说是神仙打架。这个系极其量化，主要的三个方向：computational communication, cognition&comm, political comm。
+从综排和专排来看，UCLA似乎还不该出现在这里，因为它其实是一所建系不过两年的小传播学系。但是可以说是明日之星一般的存在，这几年的申请也可以说是神仙打架。这个系极其量化，主要的三个方向：computational communication, cognition&comm, political comm。从细分的研究 topic 来看有点千奇百怪，比如做 vocal 研究的[Greg Bryant](https://comm.ucla.edu/person/greg-bryant-2/)，做话语分析的[Steven Clayman](https://comm.ucla.edu/person/steven-clayman-2/)， 当然话语分析本身就是 UCLA 社会学的传统。
+
+1）[Tim Groeling](http://www.sscnet.ucla.edu/comm/groeling/web/Home.html)
+
+Dr. Groeling 做的是美国政党如何利用 journalistic norm 来发展自己的 brand name 这样的主题，但是现在已经是比较低产的时间了，主要做一些 lecture 和写书。
+
+2）[Georgia Kernell](http://www.georgiakernell.org/)
+
+主要做的是政党选举之类的内容，目前还是 AP 所以也在高产，在 UCLA 负责了一个Party Organizations Lab 会对全球各地的政党行为进行 code，但是看起来主要是和 UCLA 的本科生在合作去做。
+
+3）[Stuart Soroka](https://www.snsoroka.com/)
+
+做的主要有政治与娱乐、政治和情感表达、政治与新闻报道之类的内容。虽然已经是 full professor 了但是一直在发表上比较勤奋。
+
+4）[Lynn Vavreck](https://www.lynnvavreck.com/)
+
+关注政治广告和选举问题。方法上质性量化都有，量化上主要就是 panel survey.
 
 4. Northwestern University 西北大学
 
-西北大学是我的梦校，比起政治传播来说，它最为知名的项目应当是MTS(Media, Technology, and Society)，这个项目汇集来自不同学科的老师，是我最欣赏的传播学项目之一，其中的一些老师有在做政治传播相关的内容。
+西北大学是我的梦校，他们的传播学 phd 项目分为 PHD in rhetoric and public culture, phd in communication and disorders（以上两个都偏质性研究，研究话题五花八门），和它最为知名的项目MTS(Media, Technology, and Society)，这个项目汇集来自不同学科的老师，是我最欣赏的传播学项目之一，其中的一些老师有在做政治传播相关的内容。据说，这个项目只会录取少量的中国学生（我翻了一下目前应该是没有大陆本科过去的学生），如果计算机方向做得好，它的孪生项目TSB（Technology and Social Behavior）是一个传播学+计算机的双学位项目，也会更容易录取中国学生, funding给的也会更多。
 
-据说，这个项目只会录取少量的中国学生，如果计算机方向做得好，它的孪生项目TSB（Technology and Social Behavior）是一个传播学+计算机的双学位项目，也会更容易录取中国学生, funding给的也会更多。
+1）[TJ Billard](https://www.thomasjbillard.com/)
 
-5. Cornell University 康奈尔大学
+从主页不难看出是 transgender 的老师，关注 transgender 和政治的联结，包括主流媒体对 transgender 的报道，和transgender 社群的政治意义，在方法上有一定的人类学传统。
 
-在我年少不经事的年代，曾经一不小心看到过康奈尔传播学PhD的funding package（当时是$33000/year），我直接大吃一惊。
+2）[Erik Nisbet](https://communication.northwestern.edu/faculty/erik-nisbet.html)
+
+email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
+
+擅长跨文化比较研究，有做类似于俄罗斯之类的话题的研究。这几年有关注 misinformation 这个大的转向。
+
+3）[James Schwoch](https://communication.northwestern.edu/faculty/james-schwoch.html)
+
+关注全球媒介，会用媒介比较和媒介史的方法来看问题。看起来是非常需要阅读功底的 professor。这几年产量不高，想来进入了退休期。
+
+4）[Aaron Shaw](http://aaronshaw.org/)
+
+重磅出现 Aaron Shaw，主要做 collective action和 collective intelligence（围绕 online community），比如 wikipedia 这些。方法上计算机传统很重，同时他也在负责 HCI lab。数十年都在做这个核心主题，是我非常欣赏的老师。
+
+5. [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
+
+在我年少不经事的年代，曾经一不小心看到过康奈尔传播学PhD的funding package（当时是$33000/year），我直接大吃一惊。但其实 Cornell的传播学 PHD 是一个非常小的项目，在录取上来说对中国人也相对比较友好，我翻到不止一两个中国人PHD student。
+
+1）[Michael W. Macy](https://research.cornell.edu/researchers/michael-w-macy)
+
+偏计算社会学，会做一点点的 partisan emotion 之类的东西，是 citation 两万多的大牛。
+
+2）[**Nathan Matias**](https://cals.cornell.edu/dr-j-nathan-matias)
+
+email: nathan.matias@cornell.edu
+
+关注网络平台，主管了一个 [CAT Lab(Citizen and Technology Lab)](https://citizensandtech.org/about-cat-lab/)，关注技术对Public interest 的影响，做的话题很多，类似 online harrassment, online community 等等。这个 lab 招人的时候会倾向于 social psychology 取向的传播学学生。
 
 6. University of Michigan-Ann Arbor 密歇根大学-安娜堡
 
-这是一个很大的项目，方向跨度很大。因此也自然会有政治传播方向。
+这是一个很大的项目，方向跨度很大。因此也自然会有政治传播方向。该校的 China studies 非常强，可以考虑一些合作。
 
 7. University of South California 南加州大学 Annenberg School
 
@@ -126,11 +176,11 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。
 
-这里政治传播的大佬：Daniel Kreiss, Deen Freelon。发过Nature。
+这里政治传播有一些大佬：Daniel Kreiss, Deen Freelon。发过Nature。
 
 3. Rutgers University 罗格斯大学 又名 新泽西州立大学
 
-同样是我非常喜欢的学校，一位复旦相熟的语言学学姐在这里读博之后了解到了这所学校，她在2019年拿到了$27000的语言学PhDfunding package，再过两年就要毕业了。这所学校很大方，离NY很近（开车30min的距离，过个河的问题），据说是可以给到传播学PhD学生3w刀的funding package，这不赶超康奈尔！
+同样是我非常喜欢的学校，一位复旦相熟的语言学学姐在这里读博之后我了解到了这所学校，她在2019年拿到了$27000的语言学PhDfunding package，再过两年就要毕业了。这所学校很大方，离NY很近（开车30min的距离，过个河的问题），据说是可以给到传播学PhD学生3w刀的funding package，这不赶超康奈尔！
 
 据豆瓣上一位毕业于这里的老师说，这里的申请需要提前选好track（三个track：media studies, comm, information science），所以这里其实是和信息科学并置的项目，会从这边取经到不少；同时，这里可以自由地换方向。
 

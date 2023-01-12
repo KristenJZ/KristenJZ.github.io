@@ -24,7 +24,7 @@ Nationality: Chinese
 - 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, USA
   - GPA: 4.00/4.00
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
-  - Relevant courses: Public Relations Theory
+  - Relevant courses: Public Relations Theory, Technology and Criminal Justice, 
 - 2021, B.A. in Communication, Fudan University, China
   - GPA: 3.60/4.00 | Major GPA: 3.81/4.00
   - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
@@ -32,9 +32,10 @@ Nationality: Chinese
 - Exchange Program, 2019, The University of Sydney, Australia
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China
+    - Coursework: Principles of Applied Statistics for Social Sciences, Structural Equation Models, Stata and its Applications
 
 ### Research Interests
-Communication technology and society, social media, computational communication, media industry and technology
+Communication Technology and Society, Social Media, Computational Methods, media industry, Political Discussion
 
 ### Publications & talks
 #### Conference Presentations

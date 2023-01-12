@@ -68,7 +68,7 @@ Communication technology and society, social media, computational communication,
   - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant to [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/), 22 students
     - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); [Media to use for presentation aids](https://www.youtube.com/watch?v=UhZ1vL6H7Do); [Keynote speaking](https://www.youtube.com/watch?v=60hTb-WOM14).									
 - *Fudan University*, School of Journalism, Shanghai, China       
-  - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant for [Dr. Cui](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1372/u1ai112758.html), 75 students
+  - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant to [Dr. Cui](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1372/u1ai112758.html), 75 students
 
 ### Media Practice
 

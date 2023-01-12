@@ -38,10 +38,10 @@ Communication technology and society, social media, computational communication,
 
 ### Publications & talks
 #### Conference Presentations
-1. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., & Ahn, S. J. (May 2023). *Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*. Paper presented at the 2023 annual conference of the International Communication Association (ICA), Toronto, Canada. The Division of Computational Methods.
+1. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., & Ahn, S. J. (May 2023). *Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*. Paper presented at the 2023 annual conference of the International Communication Association (73rd ICA), Toronto, Canada. The Division of Computational Methods.
 2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://vimeo.com/722534868/64a926efc3). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
    - Zhang, Jing was the presenter.
-3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented on the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
+3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
 4. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). Paper presented at the 2020 International Communication Association (ICA) – post conference: International New Media Forum, Shanghai, China. 
    - This paper won one of the seven Top Student Paper Awards of the post-conference.
    - Zhang, Jing was the presenter. 
@@ -64,8 +64,8 @@ Communication technology and society, social media, computational communication,
 ### Teaching Experiences
 
 - *University of North Carolina at Charlotte*, Department of Communication Studies, Charlotte, NC
-  - 2023 Spring, *COMM3100 Communication Research Method*, Teaching Assistant for [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/),  78 students 
-  - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant for [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/), 22 students
+  - 2023 Spring, *COMM3100 Communication Research Method*, Teaching Assistant to [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/),  78 students 
+  - 2022 Fall, *COMM1101 Public Speaking*, Teaching Assistant to [Dr. Stamper](https://pages.charlotte.edu/brandy-stamper/), 22 students
     - Created [a playlist of tutorial videos on Youtube](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) to introduce and explain public speaking strategies: [Attention-getting strategies](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj); [Using support and creating arguments](https://www.youtube.com/watch?v=a_aNaDyEdEg); [Media to use for presentation aids](https://www.youtube.com/watch?v=UhZ1vL6H7Do); [Keynote speaking](https://www.youtube.com/watch?v=60hTb-WOM14).									
 - *Fudan University*, School of Journalism, Shanghai, China       
   - 2020 Spring, *JOUR120008 Introduction to Journalism*, Teaching Assistant for [Dr. Cui](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1372/u1ai112758.html), 75 students

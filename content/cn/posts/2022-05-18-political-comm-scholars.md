@@ -1,6 +1,6 @@
 ---
 title: "总结：软科专排UStop50含政治传播方向项目与老师总结"
-date: 2022-05-18T19:49:21+08:00
+date: 2023-01-11T19:49:21+08:00
 author: "KristenJZ"
 slug: ARWU-top50-political-comm-faculty
 draft: false

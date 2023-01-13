@@ -35,7 +35,7 @@ Nationality: Chinese
     - Coursework: Principles of Applied Statistics for Social Sciences, Structural Equation Models, Stata and its Applications
 
 ### Research Interests
-Communication Technology and Society, Social Media, Computational Methods, media industry, Political Discussion
+Communication Technology and Society, Social Media, Computational Methods, Media Industry, Political Activism
 
 ### Publications & talks
 #### Conference Presentations
@@ -43,7 +43,7 @@ Communication Technology and Society, Social Media, Computational Methods, media
 2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://vimeo.com/722534868/64a926efc3). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
    - Zhang, Jing was the presenter.
 3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
-4. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). Paper presented at the 2020 International Communication Association (ICA) – post conference: International New Media Forum, Shanghai, China. 
+4. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). Paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China. 
    - This paper won one of the seven Top Student Paper Awards of the post-conference.
    - Zhang, Jing was the presenter. 
 
@@ -78,9 +78,9 @@ Communication Technology and Society, Social Media, Computational Methods, media
 
 ### Assistantships, Grants, and Awards
 
-- 2022-2024    Graduate Assistantship at the University of North Carolina at Charlotte
-- 2020              Second Prize Academic Scholarship for Graduates, *Fudan University*
+- 2022-2024    Graduate Assistantship, *University of North Carolina at Charlotte*
+- 2020              Outstanding Graduate Scholarship, *Fudan University*
 - 2018              Fudan Excellent Student, *Fudan University* (Oct, 2018)
 - 2017&2018  National Endeavor Fellowship, *Ministry of Education of China* 
-- 2017&2018  Academic Scholarship, *Fudan University*
+- 2017&2018  Outstanding Student Scholarship, *Fudan University*
 

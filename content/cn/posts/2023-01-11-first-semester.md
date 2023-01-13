@@ -55,7 +55,7 @@ Comm theory 这门课，我得说是我上个学期最中心的故事。
 
 说到上文中和 Dr. Basinger 吐槽的一次，其实来到这里读硕士后我一直有发表焦虑，我很想发表文章，但是看起来作业占据了我所有的时间，我的研究遥遥无期。我这学期主要在和 [Dr. Jiang](https://pages.charlotte.edu/min-jiang/)做[GMICP](https://gmicp.org/project/china/) 的 dataset 的收集，也就是说并不是写作的工作。当我和 Dr. Basinger 讲这些的时候，Dr. B说了一些话宽慰到了我，她说你觉得我是一个挺成功的研究者吗，我说是的，她说那你相信我，我申请PHD 的时候没有任何会议论文、journal ，但是我还是申请到了 UIUC，所以我觉得你也可以。因此我之后决定 slow down 一些，不要对发表太有焦虑，慢慢都会有的。
 
-我第一学期的主要研究是和[郝鸿涛](https://hongtaoh.com/)一起做的 ICA scholars 性别、种族和affiliation 代表性的分析，我主要参与的是编码的工作，非常感谢合作者们。在2023年1月11日，我也收到了ICA 年会 accept 的好消息，这也让我觉得第一学期没有浪费时间。
+我第一学期的主要研究是和[郝鸿涛](https://hongtaoh.com/)一起做的 ICA scholars 性别、种族和affiliation 代表性的分析，我主要参与的是编码的工作，非常感谢合作者们。在研究进行比较紧张的十月份，我正在和上文提到的 COMM theory 课程作斗争，所以后面没能参与特别多，也在此感谢我靠谱的合作者们。在2023年1月11日，我们也收到了ICA 年会 accept 的好消息，这也让我觉得第一学期没有浪费时间。
 
 ## 认识了很多人
 

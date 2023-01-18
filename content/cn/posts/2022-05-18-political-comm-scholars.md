@@ -62,7 +62,7 @@ toc: true
 
 2. [University of Pennsylvania 宾夕法尼亚大学 Annenberg School](https://www.asc.upenn.edu/graduate)
 
-政治传播殿堂了。东西两所Annenberg School是无数传播学子心中的殿堂，其中，东边这所Annenberg School以政治传播、全球传播等话题闻名。
+传播学殿堂了。东西两所Annenberg School是无数传播学子心中的殿堂，其中，东边这所Annenberg School以政治传播、全球传播等话题闻名。
 
 因为是大学院，有很多的[research center/lab](https://www.asc.upenn.edu/research/centers)，更加有学术共同体的感觉，和政治传播这部分比较相关的有：Computational social science lab, democracy&information lab, DIMENET, ISCAP(Institute for the study of citizens and politics)。下面的很多faculty都在这些center/lab中有所建树。
 
@@ -90,7 +90,7 @@ email: guobin.yang@asc.upenn.edu
 
 4）[Ken Winneg](https://www.asc.upenn.edu/people/faculty/ken-winneg-phd)
 
-是Anneberg 传播学院做 panel survey 的负责人，这几年有关注social media 的 political discussion 带来的对美国政治生态的改天。
+是Anneberg 传播学院做 panel survey 的负责人，这几年有关注social media 的 political discussion 带来的对美国政治生态的改变。
 
 3. The University of California, Los Angeles 加州大学洛杉矶分校
 

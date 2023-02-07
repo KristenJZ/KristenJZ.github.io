@@ -21,15 +21,17 @@ Born: 1998, Zhengzhou, Henan Province, China\
 Nationality: Chinese
 
 ### Education
-- 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, USA
+- 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, NC
   - GPA: 4.00/4.00
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
-  - Relevant courses: Public Relations Theory, Technology and Criminal Justice, 
+  - Relevant Coursework: Communication Theory (A), Public Relations Theory (A)
 - 2021, B.A. in Communication, Fudan University, China
   - GPA: 3.60/4.00 | Major GPA: 3.81/4.00
-  - Advisor: [Prof. Baohua Zhou](https://fudan.academia.edu/BZhou)
-  - Relevant courses: Academic Writing, Communication Research Methods, Data Analysis and Visualization
+  - Advisor: [Prof. Baohua Zhou](http://www.xwxy.fudan.edu.cn/dm/Show.aspx?info_lb=4&flag=4&info_id=7)
+  - Relevant Coursework: Academic Writing (A), Communication Research Methods (A), Data Analysis and Visualization (A)
 - Exchange Program, 2019, The University of Sydney, Australia
+  - Relevant Coursework: Communication and Social Change in China (HD, equally A in Australian academic system)
+
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China
     - Coursework: Principles of Applied Statistics for Social Sciences, Structural Equation Models, Stata and its Applications
@@ -40,21 +42,20 @@ Communication Technology and Society, Social Media, Computational Methods, Media
 ### Publications & talks
 #### Conference Presentations
 1. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., & Ahn, S. J. (May 2023). [*Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*](https://kristenjz.github.io/file/ICA2023_CompMethods.pdf). Paper presented at the 2023 annual conference of the International Communication Association (73rd ICA), Toronto, Canada. The Division of Computational Methods.
-2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (July 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://kristenjz.github.io/file/IAMCR_2022_ScienceComm.pdf). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
+2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (Jul 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://kristenjz.github.io/file/IAMCR_2022_ScienceComm.pdf). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
    - [Zhang, Jing was the presenter](https://vimeo.com/722534868/64a926efc3).
-3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (December 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
-4. **Zhang, J**. (October 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://kristenjz.github.io/file/ICApost2020_NewMedia.pdf). Paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China. 
+3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (Dec 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
+4. **Zhang, J**. (Oct 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://kristenjz.github.io/file/ICApost2020_NewMedia.pdf). Paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China. 
    - This paper won one of the seven Top Student Paper Awards of the post-conference.
    - [Zhang, Jing was the presenter](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). 
 
 ### Research Assistant Experiences
 
-**1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team      		*Present*
+**1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team     Aug 2022 –*Present*
 
 - Research advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) at *The University of North Carolina, Charlotte*
 - Responsible for resolving the research problem "who owns what":
   - collected archives and data, and formed a data collection
-  - going to form a website on "who owns what" on China media
 
 **2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           				            Jan 2020 – Feb 2020
 
@@ -73,8 +74,13 @@ Communication Technology and Society, Social Media, Computational Methods, Media
 
 ### Media Practice
 
-- Podcast: [Plastic Bridge Love (In Chinese)](https://plasbridlove.podcast.xyz/)
+- Podcast Host: [Plastic Bridge Love (In Chinese)](https://plasbridlove.podcast.xyz/)																Nov 2021 – *Present*
   - A culture podcast covering new trends
+  - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Review, Women Period.
+- Journalist and News Editor: People’s Network Shanghai Channel                                      Summer 2018
+  - Published 15 news articles.
+  - Topics covering Openning up 40’s anniversary, Old restaurants in Shanghai.
+
 
 ### Assistantships, Grants, and Awards
 
@@ -83,4 +89,16 @@ Communication Technology and Society, Social Media, Computational Methods, Media
 - 2018              Fudan Excellent Student, *Fudan University* (Oct, 2018)
 - 2017&2018  National Endeavor Fellowship, *Ministry of Education of China* 
 - 2017&2018  Outstanding Student Scholarship, *Fudan University*
+
+### Skills
+
+- Programming:
+  - Statistical Programming: SPSS, AMOS, Stata
+  - Others: LaTex, R Studio
+
+### Other Interests
+
+- Reading
+- Photography
+- Movies
 

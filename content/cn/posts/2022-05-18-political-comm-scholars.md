@@ -134,6 +134,8 @@ email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
 
 重磅出现 Aaron Shaw，主要做 collective action和 collective intelligence（围绕 online community），比如 wikipedia 这些。方法上计算机传统很重，同时他也在负责 HCI lab。数十年都在做这个核心主题，是我非常欣赏的老师。
 
+5)另外值得一提的是 Stanford 2023年毕业的PHD 学生[Lu Yingdan](https://yingdanlu.com/)即将入职西北大学作为一名 AP，做的也是计算社会科学和政治传播的方向
+
 5. [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 
 在我年少不经事的年代，曾经一不小心看到过康奈尔传播学PhD的funding package（当时是$33000/year），我直接大吃一惊。但其实 Cornell的传播学 PHD 是一个非常小的项目，在录取上来说对中国人也相对比较友好，我翻到不止一两个中国人PHD student。

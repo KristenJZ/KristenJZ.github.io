@@ -55,7 +55,9 @@ Communication Technology and Society, Social Media, Computational Methods, Media
 
 - Research advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) at *The University of North Carolina, Charlotte*
 - Responsible for resolving the research problem "who owns what":
-  - collected archives and data, and formed a data collection
+  - collected archives and data, and formed a data collection;
+  - IRB submission;
+  - conducted empirical studies.
 
 **2)**  **Research Assistant,** *A national survey on fans practice, network connectedness and social participation of teenagers in Gen Z*           				            Jan 2020 – Feb 2020
 
@@ -76,7 +78,7 @@ Communication Technology and Society, Social Media, Computational Methods, Media
 
 - Podcast Host: [Plastic Bridge Love (In Chinese)](https://plasbridlove.podcast.xyz/)																Nov 2021 – *Present*
   - A culture podcast covering new trends
-  - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Review, Women Period.
+  - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Reviews, Women Period.
 - Journalist and News Editor: People’s Network Shanghai Channel                                      Summer 2018
   - Published 15 news articles.
   - Topics covering Openning up 40’s anniversary, Old restaurants in Shanghai.

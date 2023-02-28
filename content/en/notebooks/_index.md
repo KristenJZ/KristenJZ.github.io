@@ -20,9 +20,9 @@ I applied to the computational social science summer program made by SICSS in Ap
 
 ## Project
 
-### 1. Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals
+### 1. Composition of and Collaboration Among Communication Scholars in Seventy Years of ICA Journals (1951-2022)
 
-**Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals.**
+**Addressing whiteness in the composition and collaboration of communication scholars of ICA journals**
 
 [Haley R Hatfield](http://haleyrhatfield.com/), [Hongtao Hao](https://hongtaoh.com/), [Jing Zhang](https://kristenjz.github.io/), Matthew S Klein, Yijie Fu, Jaemin Kim, Jongmin Lee, [Sun Joo (Grace) Ahn](https://grady.uga.edu/faculty/sun-joo-grace-ahn/)
 
@@ -30,5 +30,5 @@ The earlier version of this paper which deals with data from 2000 to 2022 was ac
 
 {{<figure src="/image/collaboration.png">}}
 
-[github repository](https://github.com/hongtaoh/ica_authors) | data | pdf
+[github repository](https://github.com/hongtaoh/ica_authors) | [data](https://osf.io/8bszj/?view_only=4f7ab87e834045d08eddf4dafb0ceffa) | pdf
 

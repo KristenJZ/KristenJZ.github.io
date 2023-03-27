@@ -148,11 +148,17 @@ email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
 
 email: nathan.matias@cornell.edu
 
-关注网络平台，主管了一个 [CAT Lab(Citizen and Technology Lab)](https://citizensandtech.org/about-cat-lab/)，关注技术对Public interest 的影响，做的话题很多，类似 online harrassment, online community 等等。这个 lab 招人的时候会倾向于 social psychology 取向的传播学学生。
+关注网络平台，主管了一个 [CAT Lab(Citizen and Technology Lab)](https://citizensandtech.org/about-cat-lab/)，关注技术对Public interest 的影响，做的话题很多，类似 online harassment, online community 等等。这个 lab 招人的时候会倾向于 social psychology 取向的传播学学生。
 
 6. University of Michigan-Ann Arbor 密歇根大学-安娜堡
 
-这是一个很大的项目，方向跨度很大。因此也自然会有政治传播方向。该校的 China studies 非常强，可以考虑一些合作。
+这是一个很大的项目，方向跨度很大，方法上质化量化兼具。在该校的官网上，说明了该校的主要方向有：Critical media studies, media psychology, 和political communication，此外还有一系列的[field of study](https://lsa.umich.edu/comm/people/fields-of-study.html)，里面有一些奇奇怪怪的方向比如睡眠研究之类的。与此同时，该校的 China studies 非常强，可以考虑一些合作，作为中国的政治传播研究学者来说是有必要看一下这所学校的。
+
+和政治传播相关的主要 field of study 以及学者收录如下：
+
+1）[Muzammil M. Hussain](https://lsa.umich.edu/comm/people/regular-faculty/mzmmlh.html)
+
+
 
 7. University of South California 南加州大学 Annenberg School
 

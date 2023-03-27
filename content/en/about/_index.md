@@ -21,7 +21,7 @@ Born: 1998, Zhengzhou, Henan Province, China\
 Nationality: Chinese
 
 ### Education
-- 2024(expected), M.A.  in Communication Studies, University of North Carolina at Charlotte, NC
+- 2024(expected), M.A. in Communication Studies, University of North Carolina at Charlotte, NC
   - GPA: 4.00/4.00
   - Advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) 
   - Relevant Coursework: Communication Theory (A), Public Relations Theory (A)
@@ -31,21 +31,21 @@ Nationality: Chinese
   - Relevant Coursework: Academic Writing (A), Communication Research Methods (A), Data Analysis and Visualization (A)
 - Exchange Program, 2019, The University of Sydney, Australia
   - Relevant Coursework: Communication and Social Change in China (HD, equally A in Australian academic system)
-
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China
     - Coursework: Principles of Applied Statistics for Social Sciences, Structural Equation Models, Stata and its Applications
 
 ### Research Interests
-Communication Technology and Society, Social Media, Computational Methods, Media Industry, Political Activism
+Communication Technology and Society, Social Media, Computational Methods, Political Activism
 
 ### Publications & talks
 #### Conference Presentations
-1. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., & Ahn, S. J. (May 2023). [*Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*](https://kristenjz.github.io/file/ICA2023_CompMethods.pdf). Paper presented at the 2023 annual conference of the International Communication Association (73rd ICA), Toronto, Canada. The Division of Computational Methods.
-2. **Zhang, J.**, Liu, R.W., Cui, D., & Wu, F. (Jul 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://kristenjz.github.io/file/IAMCR_2022_ScienceComm.pdf). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
+1. **Zhang, J.**, Liu, R.W. (June 2023). *Why and how do people consume video game live streaming on the platform? An exploratory study linking affordance-based gratification to user engagement.* Paper presented at the 2023 annual conference of the International Association for Media and Communication Research (IAMCR), OCP, online. The Division of Digital Audience.
+2. Hatfield, H.R., Hao, H., **Zhang, J.**, Klein, M.S., Fu, Y., Kim, J., Lee, J., Ahn, S. J. (May 2023). [*Composition of and Collaboration Among Communication Scholars in Twenty Years of ICA Journals (2000-2022)*](https://kristenjz.github.io/file/ICA2023_CompMethods.pdf). Paper presented at the 2023 annual conference of the International Communication Association (73rd ICA), Toronto, Canada. The Division of Computational Methods.
+3. **Zhang, J.**, Liu, R.W., Cui, D., Wu, F. (Jul 2022). [*Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China*](https://kristenjz.github.io/file/IAMCR_2022_ScienceComm.pdf). Paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.
    - [Zhang, Jing was the presenter](https://vimeo.com/722534868/64a926efc3).
-3. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., & Wu, F. (Dec 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
-4. **Zhang, J**. (Oct 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://kristenjz.github.io/file/ICApost2020_NewMedia.pdf). Paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China. 
+4. Xu, D., Cui, D., **Zhang, J.,** Liu, R.W., Wu, F. (Dec 2021). [*Living the fantasy on Xiaohongshu: Embodied spatial practices of urban lifestyles.*](https://docs.google.com/presentation/d/1SbGMRtj8oXnirvR3hworf49nf1S7SDIp/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true) Paper presented at the International Conference on Global Cultural and Creative Industries – Development of Cultural and Creative Industries in the Shared World, USC-SJTU Institute of Cultural and Creative Industries, Shanghai, China.
+5. **Zhang, J**. (Oct 2020). [*News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China*](https://kristenjz.github.io/file/ICApost2020_NewMedia.pdf). Paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China. 
    - This paper won one of the seven Top Student Paper Awards of the post-conference.
    - [Zhang, Jing was the presenter](https://docs.google.com/presentation/d/1Pf9r2S-rcfJfF05sZNk6xYyp_KBu7xKN/edit?usp=sharing&ouid=101612066207925813842&rtpof=true&sd=true). 
 
@@ -81,7 +81,7 @@ Communication Technology and Society, Social Media, Computational Methods, Media
   - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Reviews, Women Period.
 - Journalist and News Editor: People’s Network Shanghai Channel                                      Summer 2018
   - Published 15 news articles.
-  - Topics covering Openning up 40’s anniversary, Old restaurants in Shanghai.
+  - Topics cover Opening up 40’s anniversary, and old restaurants in Shanghai.
 
 
 ### Assistantships, Grants, and Awards

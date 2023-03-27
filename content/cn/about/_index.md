@@ -11,7 +11,7 @@ toc: true
 
 ## 我是谁
 
-张晶，Kristen，河南郑州人，生于1998年的冬天，女。
+张晶，英文名Kristen，河南郑州人，生于1998年的冬天，女。
 
 ## 我的联系方式
 ### 邮箱
@@ -26,7 +26,7 @@ toc: true
 
 ## 我的经历
 
-在河南省郑州市读书读到了18岁，整体是一个曲线上升的过程，小时候成绩一直很好，是优绩主义的胜利者。在[郑州外国语学校]([http://www.zzfls.com.cn](http://www.zzfls.com.cn/))读了三年的高中，第一年感受到了和同龄人智商的差距非常痛苦，最后在文理分科时选了文科试图保留一些智商的优越感。2016年高考去了上海，阴差阳错在[复旦大学新闻学院]([http://www.xwxy.fudan.edu.cn](http://www.xwxy.fudan.edu.cn/))度过了本科时光，认识了很多好朋友和优秀的老师。2019年在[悉尼大学](https://www.sydney.edu.au/)进行了为期半年的交换，在那里帮[Joyce Nip](https://www.sydney.edu.au/arts/about/our-people/academic-staff/joyce-nip.html)老师做了一些微不足道的工作。2021年毕业于复旦大学新闻学院，拿了自己的传播学本科学位。2021年12月，在[崔迪](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/jzyg/node816/node904/u1ai107548.html)老师、[苗伟山](https://scholar.google.com/citations?user=e7aipDYAAAAJ&hl=en)老师的帮助下，联系到了[北卡罗来纳夏洛特分校](https://www.charlotte.edu/)的[蒋敏](https://pages.charlotte.edu/min-jiang/)老师，即将在那里度过2年的硕士生活。
+在河南省郑州市读书读到了18岁，整体是一个曲线上升的过程，小时候成绩一直很好，是优绩主义的胜利者。在[郑州外国语学校](http://www.zzfls.com.cn/)读了三年的高中，第一年感受到了和同龄人智商的差距非常痛苦，最后在文理分科时选了文科试图保留一些智商的优越感。2016年高考去了上海，阴差阳错在[复旦大学新闻学院](http://www.xwxy.fudan.edu.cn/n1339/index.html)度过了本科时光，认识了很多好朋友和优秀的老师。2019年在[悉尼大学](https://www.sydney.edu.au/)进行了为期半年的交换，在那里帮[Joyce Nip](https://www.sydney.edu.au/arts/about/our-people/academic-staff/joyce-nip.html)老师做了一些微不足道的工作。2021年毕业于复旦大学新闻学院，拿了自己的传播学本科学位。2021年12月，在[崔迪](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/jzyg/node816/node904/u1ai107548.html)老师、[苗伟山](https://scholar.google.com/citations?user=e7aipDYAAAAJ&hl=en)老师的帮助下，联系到了[北卡罗来纳夏洛特分校](https://www.charlotte.edu/)的[蒋敏](https://pages.charlotte.edu/min-jiang/)老师，即将在那里度过2年的硕士生活。
 
 ## 关于我自己
 

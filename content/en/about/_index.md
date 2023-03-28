@@ -30,7 +30,7 @@ Nationality: Chinese
   - Advisor: [Prof. Baohua Zhou](http://www.xwxy.fudan.edu.cn/dm/Show.aspx?info_lb=4&flag=4&info_id=7)
   - Relevant Coursework: Academic Writing (A), Communication Research Methods (A), Data Analysis and Visualization (A)
 - Exchange Program, 2019, The University of Sydney, Australia
-  - Relevant Coursework: Communication and Social Change in China (HD, equally A in Australian academic system)
+  - Relevant Coursework: Communication and Social Change in China (HD, equally A in the Australian academic system)
 - Summer Program
   - 2020, Certificate in Social Science and Research Training, Peking University, China
     - Coursework: Principles of Applied Statistics for Social Sciences, Structural Equation Models, Stata and its Applications
@@ -54,7 +54,7 @@ Communication Technology and Society, Social Media, Computational Methods, Polit
 **1)**  **Research Assistant,** [*Global Media & Internet Concentration*](https://gmicp.org/project/china/) China Research Team     Aug 2022 –*Present*
 
 - Research advisor: [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/) at *The University of North Carolina, Charlotte*
-- Responsible for resolving the research problem "who owns what":
+- Responsible for resolving the research question of media ownership:
   - collected archives and data, and formed a data collection;
   - IRB submission;
   - conducted empirical studies.
@@ -78,7 +78,7 @@ Communication Technology and Society, Social Media, Computational Methods, Polit
 
 - Podcast Host: [Plastic Bridge Love (In Chinese)](https://plasbridlove.podcast.xyz/)																Nov 2021 – *Present*
   - A culture podcast covering new trends
-  - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Reviews, Women Period.
+  - Topics covering Dating App, Language Learning, Shanghai Lockdown, Book Reviews, Women Period, Transgender Study, etc.
 - Journalist and News Editor: People’s Network Shanghai Channel                                      Summer 2018
   - Published 15 news articles.
   - Topics cover Opening up 40’s anniversary, and old restaurants in Shanghai.

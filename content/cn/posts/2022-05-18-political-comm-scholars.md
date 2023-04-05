@@ -56,7 +56,7 @@ toc: true
 - [对video分析处理的大数据框架](http://jenpan.com/jen_pan/douyin.pdf)
 - [在线互联网大型实验方法与method写作](http://jenpan.com/jen_pan/resume.pdf)
   - 特别是在中国的语境下的：
-  - [*Experiments on Political Activity GovernmentsWant to Keep Hidden*](https://www.cambridge.org/core/books/abs/advances-in-experimental-political-science/experiments-on-political-activity-governmentswant-to-keep-hidden/6C8073D50DC31A3DD3A93DBACD2A8246)
+  - [*Experiments on Political Activity Governments Want to Keep Hidden*](https://www.cambridge.org/core/books/abs/advances-in-experimental-political-science/experiments-on-political-activity-governmentswant-to-keep-hidden/6C8073D50DC31A3DD3A93DBACD2A8246)
 
 特别值得注意的是，由于Jennifer Pan是哈佛政治学出身，理论功底是很扎实的，如果需要补现代性与comparative politics的理论，可以参考[她的博客](http://jenpan.com/resources/#modernization)。
 
@@ -134,7 +134,7 @@ email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
 
 重磅出现 Aaron Shaw，主要做 collective action和 collective intelligence（围绕 online community），比如 wikipedia 这些。方法上计算机传统很重，同时他也在负责 HCI lab。数十年都在做这个核心主题，是我非常欣赏的老师。
 
-5)另外值得一提的是 Stanford 2023年毕业的PHD 学生[Lu Yingdan](https://yingdanlu.com/)即将入职西北大学作为一名 AP，做的也是计算社会科学和政治传播的方向
+5）另外值得一提的是 Stanford 2023年毕业的PHD 学生[Lu Yingdan](https://yingdanlu.com/)即将入职西北大学作为一名 AP，做的也是计算社会科学和政治传播的方向
 
 5. [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 
@@ -152,19 +152,63 @@ email: nathan.matias@cornell.edu
 
 6. University of Michigan-Ann Arbor 密歇根大学-安娜堡
 
-这是一个很大的项目，方向跨度很大，方法上质化量化兼具。在该校的官网上，说明了该校的主要方向有：Critical media studies, media psychology, 和political communication，此外还有一系列的[field of study](https://lsa.umich.edu/comm/people/fields-of-study.html)，里面有一些奇奇怪怪的方向比如睡眠研究之类的。与此同时，该校的 China studies 非常强，可以考虑一些合作，作为中国的政治传播研究学者来说是有必要看一下这所学校的。
+这是一个很大的项目，方向跨度很大，方法上质化量化兼具。在该校的官网上，说明了该校的主要方向有：Critical media studies, media psychology, 和political communication等等，此外还有一系列的[field of study](https://lsa.umich.edu/comm/people/fields-of-study.html)，里面有一些奇奇怪怪的方向比如睡眠研究、声音研究之类的。与此同时，该校的 China studies 非常强，可以考虑一些合作，作为中国的政治传播研究学者来说是有必要看一下这所学校的。
 
 和政治传播相关的主要 field of study 以及学者收录如下：
 
-1）[Muzammil M. Hussain](https://lsa.umich.edu/comm/people/regular-faculty/mzmmlh.html)
+1）[**Muzammil M. Hussain**](https://lsa.umich.edu/comm/people/regular-faculty/mzmmlh.html)
 
+有做大量的 digital politics and policy 的研究，同时有比媒的背景，比如最近的 grant 有关于 China, India 和Middle West 的technical 政策研究，同时他主持了一个在Umich 很大的 lab–[The Big-Dig Research Lab](https://big-dig.net/)， 项目有招收中国人，比如目前在昆山杜克大学任教的[Liang Fan](https://fan-liang.com/)，我个人觉得之前的学生做的东西多少有一点 socio-techo 的取向。目前该 lab 在做的项目主要是关于 high-tech innovation diffusion in university-industry relationships 的，没有那么政治传播了。
 
+2）[Josh Pasek](http://joshpasek.com/)
+
+这位老师毕业于 Stanford，主要做的是一些社交媒体对美国政治选举的影响，主要用的是 panel survey和大数据的方法。他有开发一些 R包，似乎在研究美国议题的政治传播界影响还不错。
+
+3）[Sol Hart](https://lsa.umich.edu/comm/people/regular-faculty/solhart.html)
+
+同是政治传播，但整体上做的会比较偏向 civic engagement 的取向，特别是做了很多政治新闻对气候的影响，我个人觉得取向上偏 science comm。
+
+4）[**Brian Weeks**](https://lsa.umich.edu/comm/people/regular-faculty/beweeks.html)
+
+做的也是比较传统的政治传播，比如个人如何了解到数字媒体上的政治信息、政党和政治虚假消息之间的关系、情感（特别是愤怒）对于人们暴露于政治内容和效用的影响。他主持了一个 [Politics and Communication Lab](https://sites.lsa.umich.edu/pac-lab/)，组里是有招过中国学生的，他们组做的内容包括一些政治的表达、选择性接触等等，发的期刊都是很优秀的期刊，从过去学生的placement 看起来也都去了 tier2的公立大学。
 
 7. University of South California 南加州大学 Annenberg School
 
-西边这所Annenberg School放在最后说吧。作为传播学QS常年Rank1的大学院，自然也是神仙打架。
+西边这所Annenberg School放在最后说吧。作为传播学QS常年Rank1的大学院，自然也是神仙打架。方向上看起来并没有非常押宝计算传播学，同时能看出来还是有很多质化研究打底，我能看出来这是一个挺 GT 控的学校，比如申请上要求托福最好达到114。
 
-此外，NYU的Department of Media, Culture & Communcation也应该属于Tier 1这一档，但是他主要是以定性研究为主，可以徜徉在知识的海洋，比如[Angela Xiao Wu](https://steinhardt.nyu.edu/people/angela-xiao-wu)在西北毕业后就在这里教媒介史。
+1）[Mike Ananny](http://mike.ananny.org/)
+
+看到他主要做的是两个取向的内容，一是算法相关的，另一个就是报纸（包括社交媒体）对公众的参与的影响，后面这部分可以说是政治传播相关的。
+
+2）[Jonathan D. Aronson](https://annenberg.usc.edu/faculty/jonathan-d-aronson)
+
+我个人觉得他做的政治传播会比较偏向 Internet governance 和 global communication 取向，然后这几年也一直是在写书为主，发表量逐渐减少。
+
+3）[Nicholas J. Cull](https://annenberg.usc.edu/faculty/jonathan-d-aronson)
+
+主要做外交和双边关系这样的内容，看到的涉及到的国家有乌克兰、前苏联、俄罗斯、迪拜、英国等等，看起来这几年的作品主要都是大牛高屋建瓴的著作，很少带学生了，我个人猜测是不太会带学生了。
+
+4）[Emilio Ferrara](http://www.emilio.ferrara.name/)
+
+USC 这个系里少有的做计算传播学的老师，他有一个比较大的 team，里面有 CS 的学生也有传播学的学生，从他这几年的 pub 来看，里面有不少关于社交媒体和政治冲突、社交媒体上的政治分隔、fairness等等这样的内容，组是很大的组，看起来他们有一些专门的 dataset，长期去爬取的 dataset，进了这个组应该引用量不会少。
+
+5）[Thomas A. Hollihan](https://annenberg.usc.edu/faculty/thomas-hollihan)
+
+做过很多双边关系的研究，目前是 USC 的 US-China Institute 的 executive commitee. 我看了一下这几年的研究，做了很多朝鲜、中国、还有社交媒体上关于中国的叙事的研究，总体产量不是非常高。
+
+6）[Randall A. Lake](https://annenberg.usc.edu/faculty/randall-lake)
+
+很可惜，只在学校的主页上判断出来这位老师做过一些公共关系、公共政策、公共记忆相关的研究，但是没能在网上找到太多他其他的研究。
+
+7）[Jay Wang](https://china.usc.edu/profile/wang-jian-jay-%E7%8E%8B%E5%9D%9A)
+
+不仅工作于传播学系，也在 USC US-China Institute 工作，主要做公共政策和外宣相关的研究，我看了一下似乎这几年也不怎么发表期刊了，主要是在写书为主。
+
+8）[Ernest J. Wilson Ⅲ](https://www.ernestjwilson.com/)
+
+同时工作于传播学系和政治科学系，主要做一些公共政策方面的研究，我在他的主页上发现他有做一些中非关系相关的研究。
+
+此外，NYU的Department of Media, Culture & Communcation也应该属于Tier 1这一档，但是他主要是以定性研究为主，可以徜徉在知识的海洋，比如[Angela Xiao Wu](https://steinhardt.nyu.edu/people/angela-xiao-wu)在西北毕业后就在这里教媒介史，但是目前也有在做一些中国相关的研究。
 
 ## Tier 2 University
 
@@ -180,11 +224,11 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 2. University of North Carolina, Chapel Hill 北卡罗来纳大学-教堂山分校
 
-同样是我非常喜欢的学校和项目，喜欢的理由有两点：1）北卡蓝，谁不想穿北卡蓝学士服呢？2）议程设置研究发源地。
+同样是我非常喜欢的学校和项目，喜欢的理由有两点：1）北卡蓝，谁不想穿北卡蓝学士服呢？2）议程设置研究发源地，传播学经典理论打卡地。
 
 和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。
 
-这里政治传播有一些大佬：Daniel Kreiss, Deen Freelon。发过Nature。
+这里政治传播有一些大佬：Daniel Kreiss, Deen Freelon，发过Nature。
 
 3. Rutgers University 罗格斯大学 又名 新泽西州立大学
 
@@ -198,17 +242,21 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 5. Ohio State University 俄亥俄州立大学
 
-这个rank3的州立大学的传播学院，非常非常有名，很大。但是据说录取国际生一定要提交托福成绩且托福口语必须达到28分，让人望而生畏。
+这个rank3的州立大学的传播学院，非常有名，很大。但是据说录取国际生一定要提交托福成绩且托福口语必须达到28分，让人望而生畏。
 
 6. Michigan State University 密歇根州立大学
 
 7. University of Wisconsin-Madison 威斯康星大学-麦迪逊
+
+   政治传播研究的重镇之地。
 
 8. UC Davis 加州大学戴维斯分校
 
 9. UC Santa Babara 加州大学圣塔芭芭拉分校
 
 10. University of Missouri 密苏里大学 Department of Communication
+
+    
 
     
 
@@ -276,7 +324,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 22. Florida State University
 
-23. University of Central Florida, NIcholson School of Communication and Media
+23. University of Central Florida, Nicholson School of Communication and Media
 
 
 

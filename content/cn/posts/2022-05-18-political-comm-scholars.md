@@ -339,7 +339,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 1. CUHK
 2. CityU
 3. BUHK
-4. NTU
+4. NTU 
 5. NUS
 6. University of Amsterdam 阿姆斯特丹大学
 

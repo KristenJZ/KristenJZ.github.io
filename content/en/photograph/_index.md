@@ -69,7 +69,7 @@ toc: true
 </div>
 
 
-# FLORIDA, Tampa & Miami, December 2022
+# Florida, Tampa & Miami, December 2022
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">
@@ -126,7 +126,7 @@ toc: true
 </div>
 </div>
 
-# GEOGIRA, Atlanta, September 2022
+# Georgia, Atlanta, September 2022
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">

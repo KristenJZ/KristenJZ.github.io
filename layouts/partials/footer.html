@@ -1,4 +1,24 @@
 <footer class="footer">
+{{ if .IsHome }}
+<div class="social-icons">
+
+
+          <a href="https://www.linkedin.com/in/di-zhang-343b64146/" target="_blank">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+
+
+          <a href="https://scholar.google.com/citations?hl=en&amp;user=O-yNnmkAAAAJ" target="_blank">
+            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
+          </a>
+
+
+          <a href="https://github.com/zhangdistephen" target="_blank">
+            <i class="fab fa-github"></i>
+          </a>
+
+        </div>
+              {{ end }}
 {{ if not .IsSection }}
 <script src="https://utteranc.es/client.js"
         repo="KristenJZ/KristenJZ.github.io"

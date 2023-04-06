@@ -3,17 +3,20 @@
 <div class="social-icons">
 
 
-          <a href="https://www.linkedin.com/in/di-zhang-343b64146/" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
+          <a href="https://twitter.com/KristenJZhang1" target="_blank">
+            <i class="fab fa-twitter"></i>
           </a>
 
 
-          <a href="https://scholar.google.com/citations?hl=en&amp;user=O-yNnmkAAAAJ" target="_blank">
+          <a href="#" target="_blank">
             <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
           </a>
 
+          <a href="mailto:jzhang77@uncc.edu" target="_blank">
+            <i class="fa fa-envelope" style="font-size:1.6rem"></i>
+          </a>
 
-          <a href="https://github.com/zhangdistephen" target="_blank">
+          <a href="https://github.com/KristenJZ" target="_blank">
             <i class="fab fa-github"></i>
           </a>
 
@@ -31,19 +34,6 @@
 
   {{ partial "foot_custom.html" . }}
      <ul class="footer-links">
-      {{ if .IsHome }}
-       <li>
-        <a href="https://gohugo.io/" class="footer-links-kudos" target="_blank">Made with <img src="/media/hugo-logo.png" width="22" height="22"></a>
-       </li>
-       {{ with .Site.Params.GithubRepo}}
-       <li>
-        <a href='{{ . }}' class="footer-links-kudos" target="_blank"> 
-          {{ default (index $.Site.Params.Lang.sourceCode $.Site.Params.defaultLang) (index $.Site.Params.lang.sourceCode $.Section) }} 
-          <i class="fa fa-github" style="font-size: 24px"></i>
-        </a>
-       </li>
-       {{ end }}
-       {{ end }}
        {{ if not .IsHome }}
        {{ with .Site.Params.singleLang }}
        <li><a href="/{{ $.Site.Params.blogDirName }}/index.xml" type="application/rss+xml" title="RSS feed">

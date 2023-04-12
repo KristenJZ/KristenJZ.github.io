@@ -15,7 +15,7 @@ toc: true
 
 传播学在社科中也是一个非常小的方向，顶级名校HYP也没有开设传播学专业。以下总结的Tier1，只是我个人结合专排、综排与名声，从申请难度来看，总结的Tier1 Univerisities，以下这些包含政治传播方向的传播项目会是每年申请的香饽饽，竞争会十分激烈。
 
-1. [Stanford University 斯坦福大学](https://comm.stanford.edu/faculty/)
+1. #### [Stanford University 斯坦福大学](https://comm.stanford.edu/faculty/)
 
 其实斯坦福的传播学系是一个非常小的系，量化这边主要做的方向也只有political comm和media psychology。但没办法，拜托，这可是斯坦福诶。在亚裔学生这块，目前有两个中国学生和4-5个韩国学生，中国学生基本上都在做political comm，韩国学生做VR之类的media psychology的会比较多。目前在清华大学政治学系任教的[张开平](https://www.sss.tsinghua.edu.cn/info/1045/4029.htm)老师在这里获得了她的传播学PhD学位。
 
@@ -60,7 +60,7 @@ toc: true
 
 特别值得注意的是，由于Jennifer Pan是哈佛政治学出身，理论功底是很扎实的，如果需要补现代性与comparative politics的理论，可以参考[她的博客](http://jenpan.com/resources/#modernization)。
 
-2. [University of Pennsylvania 宾夕法尼亚大学 Annenberg School](https://www.asc.upenn.edu/graduate)
+2. #### [University of Pennsylvania 宾夕法尼亚大学 Annenberg School](https://www.asc.upenn.edu/graduate)
 
 传播学殿堂了。东西两所Annenberg School是无数传播学子心中的殿堂，其中，东边这所Annenberg School以政治传播、全球传播等话题闻名。
 
@@ -92,7 +92,7 @@ email: guobin.yang@asc.upenn.edu
 
 是Anneberg 传播学院做 panel survey 的负责人，这几年有关注social media 的 political discussion 带来的对美国政治生态的改变。
 
-3. The University of California, Los Angeles 加州大学洛杉矶分校
+3. #### The University of California, Los Angeles 加州大学洛杉矶分校
 
 从综排和专排来看，UCLA似乎还不该出现在这里，因为它其实是一所建系不过两年的小传播学系。但是可以说是明日之星一般的存在，这几年的申请也可以说是神仙打架。这个系极其量化，主要的三个方向：computational communication, cognition&comm, political comm。从细分的研究 topic 来看有点千奇百怪，比如做 vocal 研究的[Greg Bryant](https://comm.ucla.edu/person/greg-bryant-2/)，做话语分析的[Steven Clayman](https://comm.ucla.edu/person/steven-clayman-2/)， 当然话语分析本身就是 UCLA 社会学的传统。
 
@@ -112,7 +112,7 @@ Dr. Groeling 做的是美国政党如何利用 journalistic norm 来发展自己
 
 关注政治广告和选举问题。方法上质性量化都有，量化上主要就是 panel survey.
 
-4. Northwestern University 西北大学
+4. #### Northwestern University 西北大学
 
 西北大学是我的梦校，他们的传播学 phd 项目分为 PHD in rhetoric and public culture, phd in communication and disorders（以上两个都偏质性研究，研究话题五花八门），和它最为知名的项目MTS(Media, Technology, and Society)，这个项目汇集来自不同学科的老师，是我最欣赏的传播学项目之一，其中的一些老师有在做政治传播相关的内容。据说，这个项目只会录取少量的中国学生（我翻了一下目前应该是没有大陆本科过去的学生），如果计算机方向做得好，它的孪生项目TSB（Technology and Social Behavior）是一个传播学+计算机的双学位项目，也会更容易录取中国学生, funding给的也会更多。
 
@@ -136,7 +136,7 @@ email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
 
 5）另外值得一提的是 Stanford 2023年毕业的PHD 学生[Lu Yingdan](https://yingdanlu.com/)即将入职西北大学作为一名 AP，做的也是计算社会科学和政治传播的方向
 
-5. [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
+5. #### [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 
 在我年少不经事的年代，曾经一不小心看到过康奈尔传播学PhD的funding package（当时是$33000/year），我直接大吃一惊。但其实 Cornell的传播学 PHD 是一个非常小的项目，在录取上来说对中国人也相对比较友好，我翻到不止一两个中国人PHD student。
 
@@ -150,7 +150,7 @@ email: nathan.matias@cornell.edu
 
 关注网络平台，主管了一个 [CAT Lab(Citizen and Technology Lab)](https://citizensandtech.org/about-cat-lab/)，关注技术对Public interest 的影响，做的话题很多，类似 online harassment, online community 等等。这个 lab 招人的时候会倾向于 social psychology 取向的传播学学生。
 
-6. University of Michigan-Ann Arbor 密歇根大学-安娜堡
+6. #### University of Michigan-Ann Arbor 密歇根大学-安娜堡
 
 这是一个很大的项目，方向跨度很大，方法上质化量化兼具。在该校的官网上，说明了该校的主要方向有：Critical media studies, media psychology, 和political communication等等，此外还有一系列的[field of study](https://lsa.umich.edu/comm/people/fields-of-study.html)，里面有一些奇奇怪怪的方向比如睡眠研究、声音研究之类的。与此同时，该校的 China studies 非常强，可以考虑一些合作，作为中国的政治传播研究学者来说是有必要看一下这所学校的。
 
@@ -172,7 +172,7 @@ email: nathan.matias@cornell.edu
 
 做的也是比较传统的政治传播，比如个人如何了解到数字媒体上的政治信息、政党和政治虚假消息之间的关系、情感（特别是愤怒）对于人们暴露于政治内容和效用的影响。他主持了一个 [Politics and Communication Lab](https://sites.lsa.umich.edu/pac-lab/)，组里是有招过中国学生的，他们组做的内容包括一些政治的表达、选择性接触等等，发的期刊都是很优秀的期刊，从过去学生的placement 看起来也都去了 tier2的公立大学。
 
-7. University of South California 南加州大学 Annenberg School
+7. #### University of South California 南加州大学 Annenberg School
 
 西边这所Annenberg School放在最后说吧。作为传播学QS常年Rank1的大学院，自然也是神仙打架。方向上看起来并没有非常押宝计算传播学，同时能看出来还是有很多质化研究打底，我能看出来这是一个挺 GT 控的学校，比如申请上要求托福最好达到114。
 
@@ -214,27 +214,77 @@ USC 这个系里少有的做计算传播学的老师，他有一个比较大的 
 
 下面依然是我自己划分的Tier 2，长期以来学术声誉很好，多为公立大U。没有上tier 1的更多原因也许是区位和综排。
 
-1. Univerisity of Illinois at Urbana-Champaign 伊利诺伊大学香槟分校 College of Media
+1. #### Univerisity of Illinois at Urbana-Champaign 伊利诺伊大学香槟分校 College of Media
 
-UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里有两个并置的学院，department of comm和Institute of Communications Research。两者的区分摘自[网友松间在豆瓣Woman in Social Science小组的分享这一段](https://m.douban.com/group/topic/258742771/?_i=43774724792cdfd&dt_platform=wechat_friends&dt_dapp=1?bid=a-3Ri9yABLU)。
+UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里有两个并置的学院， department of comm和Institute of Communications Research。两者的区分摘自[网友松间在豆瓣Woman in Social Science小组的分享这一段](https://m.douban.com/group/topic/258742771/?_i=43774724792cdfd&dt_platform=wechat_friends&dt_dapp=1?bid=a-3Ri9yABLU)。
 
 > Department of comm这边，系里量化质化兼顾；系里有来自西北、威斯康星、奥斯汀、密歇根的年轻老师，是很不错的去处。而[ICR这边](https://media.illinois.edu/institute-communications-research/admission-requirements)，整体上也是方法兼顾，又毕业自MIT STS的老师Chan，西北的Taneja，其中media psychology/cognition是这里的强项，和UCSB有很多联系。如UCSB的新老师Kristy Hamilton是UIUC的博士，UIUC的新老师Jacob Fisher也来自UCSB，学生中中国人比例很高，属于华人友好学校了。
 
 一位联系和接触过的[学姐Zhang Mengqing](https://media.illinois.edu/maggie-mengqing-zhang)在ICR读政治传播相关的PhD，她本科毕业于清华大学新闻学院，硕士毕业于香港中文大学。
 
-2. University of North Carolina, Chapel Hill 北卡罗来纳大学-教堂山分校
+这里我将 Department of Comm 和ICR 的老师分别列出：
+
+1）Department of Communication：总的来说看起来这个学院并没有对政治传播的格外注重，反而是修辞取向和健康传播的取向比较强，即使是做 computational political comm 的学者也被归类到了 rhetoric 的下面。
+
+① [Scott L. Althaus](https://clinecenter.illinois.edu/people/salthaus) 同属political science 和传播学系，是 citation 六千多的大牛，做的主要是社交媒体和政治话题的内容，然后看起来这几年还是在高产期，有对 computational methods 的关注。
+
+②[Stewart Coles](http://www.stewartcoles.com/) 主要做的是media representation 和偏见、政治支持等的话题，也做了一些 social movement 中的层级等的话题。
+
+③ [Dr. John M Murphy](https://communication.illinois.edu/directory/profile/jmmurphy) 做的主要是美国政治选举的内容，主要是修辞取向，写的文章也都是修辞取向的说服话题。
+
+④ [NED O'GORMAN](https://nogorman.org/)做的内容主要是历史取向的政治话题，比如对于冷战的历史的观点，针对20世纪的美国史，我觉得在美国的政治传播传统里面是非常独特的一支。
+
+⑤ [Emily Van Duyn](https://communication.illinois.edu/directory/profile/evd)主要关注的话题是人们如何在社交媒体上讨论政治，以及数字媒体如何成为一个让人们讨论政治的空间，因此也会关注一些假新闻之类的话题，同时，有看到她做一些女性的政治表达之类的，但看起来并非主要的关注点。
+
+⑥ [JungHwan Yang](http://www.junghwanyang.com/) 应该是这个department 唯一用computational methods在政治传播这一话题的人，在他读博期间，有做很多citizen cluster 和政治表达的内容，也可能那几年 Trump 的话题流行，所以也做了很多选举的研究。还有一些有趣的话题，比如[因为政治倾向不同而取关朋友](https://www.sciencedirect.com/science/article/pii/S0747563216309086)等等。很厉害也很卷的韩国AP，已经有了1500之多的 citation。
+
+2）ICR(全称Institute of Communications Research)：我的感觉是这个学院更有注重 PR 的感觉，另一个重要的取向是media studies。
+
+① [Rachel Kuo](https://www.rachelkuo.com/) 这几年看到她做了很多亚裔参与美国social movement 的话题，方法上是非常质化和修辞的（顺理成章是在NYU 读的 PHD），目前她 google scholar上引用量最高的文章是#CommunicationSoWhite。因为也有做相关的项目，所以特地看了一下她的文章。
+
+② [Mira Sotirovic](http://publish.illinois.edu/mirasotirovic/) 这位老师做的主要是关于美国的政治宣传与民主的话题，比较值得一提的是她应该是我在搜索的过程中第一次看到做[political knowledge 的话题](https://psycnet.apa.org/record/2004-14950-014)，感觉是各方面都非常有借鉴意义的。
+
+2. #### University of North Carolina, Chapel Hill 北卡罗来纳大学-教堂山分校
 
 同样是我非常喜欢的学校和项目，喜欢的理由有两点：1）北卡蓝，谁不想穿北卡蓝学士服呢？2）议程设置研究发源地，传播学经典理论打卡地。
 
-和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。
+和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化，用的方法大多是民族志或修辞传统，也有一些 critical methods 存在，总体来说没有看到任何量化的痕迹。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。当然这个学院也有慷慨地表示一些学生（每年5个）可以拿到每年20000D 的 stipend（我谢谢他们）。
 
-这里政治传播有一些大佬：Daniel Kreiss, Deen Freelon，发过Nature。
+1）department of communication
 
-3. Rutgers University 罗格斯大学 又名 新泽西州立大学
+我个人是没有看到这个学院有做什么政治传播的，有接近的方向比如做 political economy 的，比如做劳工问题的[Michael Palm](https://comm.unc.edu/people/department-faculty/michael-palm/)和做技术和 criminal justice相关的[Torin Monahan](https://www.torinmonahan.com/)。
+
+2）Hussman School of Journalism and Media
+
+① [Deb Aikat](http://hussman.unc.edu/directory/faculty/deb-aikat#biography) 看到第一个就有大佬云集的感觉，这位老师主要有做 agenda melding相关的内容，与此同时特别与政治传播相关的是他关于印度的一些研究，如[press censorship](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pvt7aBYAAAAJ&sortby=pubdate&citation_for_view=pvt7aBYAAAAJ:NMxIlDl6LWMC)和印度的 feminism activism 相关的文章。比较奇怪的是，他已经很久没有发过期刊了。
+
+② **[Daniel Kreiss](https://danielkreiss.com/)**政治传播大佬，非常擅长用计算传播的方法解决政治问题，看到这几年做的主要议题有 hashtagactivism（主要做的是性别与种族方面的），与此同时，做了一些 [foreign propaganda ](https://danielkreiss.files.wordpress.com/2021/04/mcgregorbarrettkreiss_questionablylegal.pdf)的研究。
+
+③ **[Deen Freelon](http://dfreelon.org/)** 常和上文的 Dr. Kreiss 合作的 Dr. Freelon 也应该同步出现在这里。非常喜欢两人2020年的研究——发表于*Science*的 [Online activism from left to right](http://dfreelon.org/publications/2020_False_equivalencies_Online_activism_from_left_to_right.pdf)，其中关于 clickactivism 的一些讨论是非常发人深省的。除此之外，从这几年的研究可以看出，非常关注 disinformation 的问题，以及authoritarian国家媒体（特别是Russia）的政治形象等等的问题。
+
+④ [Shannon McGregor](http://www.shannoncmcgregor.com/) 主要研究社交媒体平台如何影响人们的政治行为，方法上也是偏大数据多一些，看起来和上面两位大佬（特别是 Kreiss）有很多的合作，值得一提的是她有很多关于 platform 的讨论，也是非常有价值的。
+
+⑤ [Zhao Xinyan](https://evazhaoxy.wixsite.com/zhao) 这位老师是我今年刚注意到的，是从2020年才来到 UNC 入职，在马里兰传统下必然是主要做 crisis comm，但是会有一些涉及到 crisis 期间的政治传播 framing，如2023年刚刚发表的 [Dynamics of Networked Framing](https://journals.sagepub.com/doi/epub/10.1177/10776990211072508) 这一篇就涉及到了 government media。
+
+3. #### Rutgers University 罗格斯大学 又名 新泽西州立大学
 
 同样是我非常喜欢的学校，一位复旦相熟的语言学学姐在这里读博之后我了解到了这所学校，她在2019年拿到了$27000的语言学PhDfunding package，再过两年就要毕业了。这所学校很大方，离NY很近（开车30min的距离，过个河的问题），据说是可以给到传播学PhD学生3w刀的funding package，这不赶超康奈尔！
 
-据豆瓣上一位毕业于这里的老师说，这里的申请需要提前选好track（三个track：media studies, comm, information science），所以这里其实是和信息科学并置的项目，会从这边取经到不少；同时，这里可以自由地换方向。
+据豆瓣上一位毕业于这里的老师说，这里的申请需要提前选好track（三个track：media studies, comm, information science），所以这里其实是和信息科学并置的项目，学院的名字也叫 School of Communication and Information, 相信如果在这里求学 communication 的话会从信息学院这边取经到不少；同时，这里可以自由地换方向。
+
+打开faculty 的页面来看，并没有看到太多的政治传播的 area（甚至可以说是没有）。是仔细翻开每个人的主页看有没有做政治传播相关的研究发现的以下老师们：
+
+① [Jack Bratich](https://comminfo.rutgers.edu/bratich-jack) 做的话题主要有Cyber-demagoguery and Populism，还有civil society 相关的内容，主要用政治理论应用于 social movement，social media等话题，主要的方法是质化的研究。
+
+② [Lauren Feldman](https://comminfo.rutgers.edu/feldman-lauren) 在climate change的话题上做了大量的研究，但是值得注意的是在2019-2021之间，她做了一个项目是 accuracy and fairness of algorithms 对于 misinformation in online political news 的影响。
+
+③ [Kiran Garimella](https://comminfo.rutgers.edu/garimella-kiran) 纯计算机方法的老师，但是在研究方向上我有注意到，他的 PHD 生涯主要是在做社交媒体上的政治极化的话题，同时也做了很多 misinformation 的内容，力图达到一种 computational demography，我还是蛮喜欢这个取向的。
+
+④ [David Greenberg](https://greenberg.rutgers.edu/) 主要研究美国的政治历史，看起来现在完全只是出书了，没有什么发表在做。
+
+⑤ [Katherine (Katya) Ognyanova](https://comminfo.rutgers.edu/ognyanova-katherine-katya) 这位老师主要在做一些政治知识、misinformation 对政治信任的影响，这些话题都是非常有趣的话题，方法上主要是量化和计算传播的方法。
+
+⑥ [Khadijah White](http://www.khadijahwhite.com/) 是黑人的老师，也主要在做一些政治表达、race and gender inequality 的内容，也涉及到一些黑人的 social movement & activism。
 
 4. Pensylvania State University 宾夕法尼亚州立大学 College of Communications
 
@@ -252,7 +302,17 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 8. UC Davis 加州大学戴维斯分校
 
-9. UC Santa Babara 加州大学圣塔芭芭拉分校
+9. #### UC Santa Babara 加州大学圣塔芭芭拉分校
+
+   我的老师 [Dr. Endacott](https://camilleendacott.com/)毕业于这所学校，然后她每次上课都向我大力推荐办公室门口就是阳光海滩的 UCSB，而且向我承诺自从2022年罢工后，他们的工资已经高很多很多了（但我并不知道确切的数字）。我有印象 UCSB 是人际传播非常牛的学校，在我搜索的过程中也证明确实如此，基本上每个老师都会做一点人际传播的内容。但也并非没有政治传播的老师，如：
+
+   ① [Andrew Flanagin](https://www.comm.ucsb.edu/people/andrew-flanagin) 不能纯然说是做政治传播的老师，但确实有关注 collective action 和 social media相关的内容，看了这几年的发表，有不少关于 information sharing和 misinformation 的内容。
+
+   ② [Daniel Lane](http://www.daniel-lane.com/)这位老师主持了一个 [UCSB Digital Political Inequality Lab](https://www.dpilab.org/), 主要关注青年人在社交媒体上的政治表达，组里应该没有过中国学生，可能有过韩国学生。
+
+   ③ [Muniba Saleem](https://www.comm.ucsb.edu/people/muniba-saleem) 这位老师以前也是做人际传播的一员，她关于 video game violence 的研究非常高引，这几年有一点做政治传播，已经发表了一些 racial resentment 和政治表达相关的东西，与此同时，她的主页中有写到她在做 social media 对 collective action 的影响，hate speech ，以及 Media exposure 对移民群体的political integration 的影响。
+
+   ④ [Michael Stohl](https://www.comm.ucsb.edu/people/michael-stohl)这位老师既做 org comm，也做 political comm，在政治传播这部分只做恐怖主义相关的话题。
 
 10. University of Missouri 密苏里大学 Department of Communication
 

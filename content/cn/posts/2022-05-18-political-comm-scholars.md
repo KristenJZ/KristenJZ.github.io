@@ -15,7 +15,7 @@ toc: true
 
 传播学在社科中也是一个非常小的方向，顶级名校HYP也没有开设传播学专业。以下总结的Tier1，只是我个人结合专排、综排与名声，从申请难度来看，总结的Tier1 Univerisities，以下这些包含政治传播方向的传播项目会是每年申请的香饽饽，竞争会十分激烈。
 
-1. #### [Stanford University 斯坦福大学](https://comm.stanford.edu/faculty/)
+#### 1. [Stanford University 斯坦福大学](https://comm.stanford.edu/faculty/)
 
 其实斯坦福的传播学系是一个非常小的系，量化这边主要做的方向也只有political comm和media psychology。但没办法，拜托，这可是斯坦福诶。在亚裔学生这块，目前有两个中国学生和4-5个韩国学生，中国学生基本上都在做political comm，韩国学生做VR之类的media psychology的会比较多。目前在清华大学政治学系任教的[张开平](https://www.sss.tsinghua.edu.cn/info/1045/4029.htm)老师在这里获得了她的传播学PhD学位。
 
@@ -60,7 +60,7 @@ toc: true
 
 特别值得注意的是，由于Jennifer Pan是哈佛政治学出身，理论功底是很扎实的，如果需要补现代性与comparative politics的理论，可以参考[她的博客](http://jenpan.com/resources/#modernization)。
 
-2. #### [University of Pennsylvania 宾夕法尼亚大学 Annenberg School](https://www.asc.upenn.edu/graduate)
+#### 2. [University of Pennsylvania 宾夕法尼亚大学 Annenberg School](https://www.asc.upenn.edu/graduate)
 
 传播学殿堂了。东西两所Annenberg School是无数传播学子心中的殿堂，其中，东边这所Annenberg School以政治传播、全球传播等话题闻名。
 
@@ -92,7 +92,7 @@ email: guobin.yang@asc.upenn.edu
 
 是Anneberg 传播学院做 panel survey 的负责人，这几年有关注social media 的 political discussion 带来的对美国政治生态的改变。
 
-3. #### The University of California, Los Angeles 加州大学洛杉矶分校
+#### 3. The University of California, Los Angeles 加州大学洛杉矶分校
 
 从综排和专排来看，UCLA似乎还不该出现在这里，因为它其实是一所建系不过两年的小传播学系。但是可以说是明日之星一般的存在，这几年的申请也可以说是神仙打架。这个系极其量化，主要的三个方向：computational communication, cognition&comm, political comm。从细分的研究 topic 来看有点千奇百怪，比如做 vocal 研究的[Greg Bryant](https://comm.ucla.edu/person/greg-bryant-2/)，做话语分析的[Steven Clayman](https://comm.ucla.edu/person/steven-clayman-2/)， 当然话语分析本身就是 UCLA 社会学的传统。
 
@@ -112,7 +112,7 @@ Dr. Groeling 做的是美国政党如何利用 journalistic norm 来发展自己
 
 关注政治广告和选举问题。方法上质性量化都有，量化上主要就是 panel survey.
 
-4. #### Northwestern University 西北大学
+#### 4. Northwestern University 西北大学
 
 西北大学是我的梦校，他们的传播学 phd 项目分为 PHD in rhetoric and public culture, phd in communication and disorders（以上两个都偏质性研究，研究话题五花八门），和它最为知名的项目MTS(Media, Technology, and Society)，这个项目汇集来自不同学科的老师，是我最欣赏的传播学项目之一，其中的一些老师有在做政治传播相关的内容。据说，这个项目只会录取少量的中国学生（我翻了一下目前应该是没有大陆本科过去的学生），如果计算机方向做得好，它的孪生项目TSB（Technology and Social Behavior）是一个传播学+计算机的双学位项目，也会更容易录取中国学生, funding给的也会更多。
 
@@ -136,7 +136,7 @@ email: [erik.nisbet@northwestern.edu](mailto:erik.nisbet@northwestern.edu)
 
 5）另外值得一提的是 Stanford 2023年毕业的PHD 学生[Lu Yingdan](https://yingdanlu.com/)即将入职西北大学作为一名 AP，做的也是计算社会科学和政治传播的方向
 
-5. #### [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
+#### 5. [Cornell University 康奈尔大学](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 
 在我年少不经事的年代，曾经一不小心看到过康奈尔传播学PhD的funding package（当时是$33000/year），我直接大吃一惊。但其实 Cornell的传播学 PHD 是一个非常小的项目，在录取上来说对中国人也相对比较友好，我翻到不止一两个中国人PHD student。
 
@@ -150,7 +150,7 @@ email: nathan.matias@cornell.edu
 
 关注网络平台，主管了一个 [CAT Lab(Citizen and Technology Lab)](https://citizensandtech.org/about-cat-lab/)，关注技术对Public interest 的影响，做的话题很多，类似 online harassment, online community 等等。这个 lab 招人的时候会倾向于 social psychology 取向的传播学学生。
 
-6. #### University of Michigan-Ann Arbor 密歇根大学-安娜堡
+#### 6. University of Michigan-Ann Arbor 密歇根大学-安娜堡
 
 这是一个很大的项目，方向跨度很大，方法上质化量化兼具。在该校的官网上，说明了该校的主要方向有：Critical media studies, media psychology, 和political communication等等，此外还有一系列的[field of study](https://lsa.umich.edu/comm/people/fields-of-study.html)，里面有一些奇奇怪怪的方向比如睡眠研究、声音研究之类的。与此同时，该校的 China studies 非常强，可以考虑一些合作，作为中国的政治传播研究学者来说是有必要看一下这所学校的。
 
@@ -172,7 +172,7 @@ email: nathan.matias@cornell.edu
 
 做的也是比较传统的政治传播，比如个人如何了解到数字媒体上的政治信息、政党和政治虚假消息之间的关系、情感（特别是愤怒）对于人们暴露于政治内容和效用的影响。他主持了一个 [Politics and Communication Lab](https://sites.lsa.umich.edu/pac-lab/)，组里是有招过中国学生的，他们组做的内容包括一些政治的表达、选择性接触等等，发的期刊都是很优秀的期刊，从过去学生的placement 看起来也都去了 tier2的公立大学。
 
-7. #### University of South California 南加州大学 Annenberg School
+#### 7. University of South California 南加州大学 Annenberg School
 
 西边这所Annenberg School放在最后说吧。作为传播学QS常年Rank1的大学院，自然也是神仙打架。方向上看起来并没有非常押宝计算传播学，同时能看出来还是有很多质化研究打底，我能看出来这是一个挺 GT 控的学校，比如申请上要求托福最好达到114。
 
@@ -214,7 +214,7 @@ USC 这个系里少有的做计算传播学的老师，他有一个比较大的 
 
 下面依然是我自己划分的Tier 2，长期以来学术声誉很好，多为公立大U。没有上tier 1的更多原因也许是区位和综排。
 
-1. #### Univerisity of Illinois at Urbana-Champaign 伊利诺伊大学香槟分校 College of Media
+#### 1. Univerisity of Illinois at Urbana-Champaign 伊利诺伊大学香槟分校 College of Media
 
 UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里有两个并置的学院， department of comm和Institute of Communications Research。两者的区分摘自[网友松间在豆瓣Woman in Social Science小组的分享这一段](https://m.douban.com/group/topic/258742771/?_i=43774724792cdfd&dt_platform=wechat_friends&dt_dapp=1?bid=a-3Ri9yABLU)。
 
@@ -244,7 +244,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 ② [Mira Sotirovic](http://publish.illinois.edu/mirasotirovic/) 这位老师做的主要是关于美国的政治宣传与民主的话题，比较值得一提的是她应该是我在搜索的过程中第一次看到做[political knowledge 的话题](https://psycnet.apa.org/record/2004-14950-014)，感觉是各方面都非常有借鉴意义的。
 
-2. #### University of North Carolina, Chapel Hill 北卡罗来纳大学-教堂山分校
+#### 2. University of North Carolina, Chapel Hill 北卡罗来纳大学-教堂山分校
 
 同样是我非常喜欢的学校和项目，喜欢的理由有两点：1）北卡蓝，谁不想穿北卡蓝学士服呢？2）议程设置研究发源地，传播学经典理论打卡地。
 
@@ -266,7 +266,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 ⑤ [Zhao Xinyan](https://evazhaoxy.wixsite.com/zhao) 这位老师是我今年刚注意到的，是从2020年才来到 UNC 入职，在马里兰传统下必然是主要做 crisis comm，但是会有一些涉及到 crisis 期间的政治传播 framing，如2023年刚刚发表的 [Dynamics of Networked Framing](https://journals.sagepub.com/doi/epub/10.1177/10776990211072508) 这一篇就涉及到了 government media。
 
-3. #### Rutgers University 罗格斯大学 又名 新泽西州立大学
+#### 3. Rutgers University 罗格斯大学 又名 新泽西州立大学
 
 同样是我非常喜欢的学校，一位复旦相熟的语言学学姐在这里读博之后我了解到了这所学校，她在2019年拿到了$27000的语言学PhDfunding package，再过两年就要毕业了。这所学校很大方，离NY很近（开车30min的距离，过个河的问题），据说是可以给到传播学PhD学生3w刀的funding package，这不赶超康奈尔！
 
@@ -302,7 +302,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 8. UC Davis 加州大学戴维斯分校
 
-9. #### UC Santa Babara 加州大学圣塔芭芭拉分校
+   #### 9. UC Santa Babara 加州大学圣塔芭芭拉分校
 
    我的老师 [Dr. Endacott](https://camilleendacott.com/)毕业于这所学校，然后她每次上课都向我大力推荐办公室门口就是阳光海滩的 UCSB，而且向我承诺自从2022年罢工后，他们的工资已经高很多很多了（但我并不知道确切的数字）。我有印象 UCSB 是人际传播非常牛的学校，在我搜索的过程中也证明确实如此，基本上每个老师都会做一点人际传播的内容。但也并非没有政治传播的老师，如：
 
@@ -314,11 +314,11 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
    ④ [Michael Stohl](https://www.comm.ucsb.edu/people/michael-stohl)这位老师既做 org comm，也做 political comm，在政治传播这部分只做恐怖主义相关的话题。
 
-10. University of Missouri 密苏里大学 Department of Communication
+9. University of Missouri 密苏里大学 Department of Communication
 
-    
+   
 
-    
+   
 
 
 

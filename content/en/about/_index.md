@@ -4,10 +4,6 @@ date: 2023-01-11T13:50:21+08:00
 type : list-single
 toc: false
 ---
-{{<block class="note">}}
-If you don't want your name to appear on the page, please contact me and I'll delete it as soon as possible.
-{{<end>}}
-
 ## Jing(Kristen) Zhang
 
 Department of Communication Studies\

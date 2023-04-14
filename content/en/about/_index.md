@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 date: 2023-01-11T13:50:21+08:00
 type : list-single
-toc: true
+toc: false
 ---
 {{<block class="note">}}
 If you don't want your name to appear on the page, please contact me and I'll delete it as soon as possible.
@@ -21,3 +21,4 @@ Born: 1998, Zhengzhou, Henan Province, China\
 Nationality: Chinese
 
 [Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)
+

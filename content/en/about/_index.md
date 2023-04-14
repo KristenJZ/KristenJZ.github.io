@@ -16,5 +16,5 @@ URL: [kristenjz.github.io](https://kristenjz.github.io/)
 Born: 1998, Zhengzhou, Henan Province, China\
 Nationality: Chinese
 
-[Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)
+**[Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)**
 

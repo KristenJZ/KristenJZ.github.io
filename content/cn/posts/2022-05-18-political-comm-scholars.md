@@ -286,35 +286,81 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 ⑥ [Khadijah White](http://www.khadijahwhite.com/) 是黑人的老师，也主要在做一些政治表达、race and gender inequality 的内容，也涉及到一些黑人的 social movement & activism。
 
-4. Pensylvania State University 宾夕法尼亚州立大学 College of Communications
+#### 4. Pennsylvania State University 宾夕法尼亚州立大学 [College of Communications](https://www.bellisario.psu.edu/graduate/ph-d-in-mass-communications)
 
-这所学校实在是被很多传播学学生忽视！是个很大、很好的项目。
+这所学校实在是被很多传播学学生忽视！ 有两个学院，一个学院是[Donald P. Bellisario College of Communication](https://www.bellisario.psu.edu/graduate/ph-d-in-mass-communications), 从主页来看就有4个 department，包括 Advising/PR, Film productions & media studies, department of journalism, 和department of telecommunications and media industries。另一个学院则是 [Department of Communication](https://cas.la.psu.edu/graduate/ph-d-program/)，相对来说更加关注interpersonal comm， small group comm 和rhetoric 的方向。我目前看起来并没有觉得这两个部分有太多的合作，另外，department of communication 真的是非常修辞取向的一所学院！
 
-5. Ohio State University 俄亥俄州立大学
+1）Donald P. Bellisario College of Communication
+
+① **[Homero Gil de Zúñiga](http://www.homerogdz.com/)** 是我最早做一些算法新闻对政治偏向的影响的文献综述时就屡次看到的大佬！其实我还挺意外的，直到今天搜索才发现他已经到 PSU 了。这位老师主要做的方向就是社交媒体和政治表达的方向，所使用的方法主要就是 Panel survey，他大概在2017年提出了一个非常 sparking 的观点就是"news-finds-me perception"，去讨论了解政治这件事。在目前大多都在使用计算传播方法的传播学界，Gil de Zuniga 实在是用传统方法的很厉害的人。
+
+② [Krishna Jayakar](https://www.bellisario.psu.edu/people/individual/krishna-jayakar) 一位研究 media policy 的老师，经常做的就是 telecommunication policy 的比较研究，看起来经常和中国学术合作，所以有很多关于中国媒介政策的研究。
+
+③ [Anthony Olorunnisola](https://www.bellisario.psu.edu/people/individual/anthony-olorunnisola) 一位主要研究非洲地区的 social movement/activism 的老师，同时也经常用 political economy的视角来研究 media transformation，但是这几年发表量非常低产。
+
+2）Department of communication
+
+① [Stephen H Browne](https://cas.la.psu.edu/people/stephen-browne/) 用修辞的方法讨论公共记忆、公众的情绪等问题，我从他发表的文章看起来觉得有点像历史的取向。
+
+② [Rosa Eberly](https://cas.la.psu.edu/people/rosa-eberly/) 这位老师也是用修辞和历史的取向来讨论公共记忆，以及 Networked identity。
+
+③ [Jeremy D. Engels](https://jeremydavidengels.com/) 看起来已经是一位只出书的老师了，主要也是用修辞的方法来研究单一性/同一性如何导致憎恶、斗争和战争的问题。
+
+④ [John Gastil](https://johngastil.com/) 这位老师看起来也是一位只出书的老师了，主要在做的民主政治和参与的问题，deliberate civic engagement 等。甚至于还写了一些小说。
+
+⑤ [Mary Stuckey](https://cas.la.psu.edu/people/mary-stuckey/) 主要关注的是政治选举的问题，用的方法也是修辞的方法。
+
+⑥ [Kirl Wilson](https://kirtwilson.org/WP/?page_id=121) 这位老师主要做的也是媒介史的研究，关注美国历史、冷战，用的方法也是非常修辞取向的。
+
+#### 5. UW-Madison 威斯康星麦迪逊大学
+
+这所学校实在是政治传播的研究重镇之地，在之前的搜索中已经看到有无数的老师有在这所学校的经历了。在曾经的传播学发展早期，威斯康星麦迪逊实在是不得不出现在每个人的课本上的重镇，但是这几年也是因为区位等原因下落至 tier2，但是依然有非常多厉害的老师！这里也有两个部门，一个是 [department of communication arts](https://commarts.wisc.edu/graduate/)，我感觉这里也是偏向修辞和文化研究传统。另一个部分是department of life sciences communication 和school of journalism and mass communication 合开的 [PHD program in mass communication](https://masscommphd.wisc.edu/)，这个项目里面的老师倒是量化的多。
+
+1）PHD program in mass communication 我的一个观察是因为 Department of Life science comm 有参与这个项目的建设，所以很多老师都会做一点science comm 相关的内容，哪怕是原本只做政治传播的老师，也会涉及到一些气候变化、 emerging tech 相关的内容。
+
+① **[Chen Kaiping](https://www.kaipingchen.com/)** 陈老师是 Jennifer Pan 的学生，也是非常高产的一位 AP，最近的发表中涉及到了不少 nationalism，emotional engagement 等的话题，整体来说做的是集权政府如何information management。
+
+② [Kathryn Mcgarr](https://journalism.wisc.edu/news/staff/mcgarr-kathryn/) 主要做的是史学这一块的政治历史，也关注性别、对外政策和新媒体。目前主要做的是美国的 public opinion 如何影响美国的对外政策这样的内容。
+
+③ [Dhavan Shah](https://journalism.wisc.edu/news/staff/dhavan-v-shah/) 这位老师虽然关注的更多是在新媒体，但确实有关注传播对政治参与的影响，看了这几年的研究里面，也确实有一些政治选举和极化相关的内容，在他的个人主页上也说明这几年越来越使用 NLP 等方法做大数据分析。
+
+④ [Dietram Scheufele](https://scheufele.info//) 年纪轻轻就有了四万多 citation 的大佬级别选手，前几年一直在做 misinformation 的话题，这几年开始做一些极化、公众参与等话题，不仅仅做政治传播，也做了不少政策研究相关的内容。
+
+2）Department of comm arts
+
+① [Jonathan Gray](https://commarts.wisc.edu/staff/gray-jonathan/) 这位老师有做一些政治娱乐相关的内容，比如讽刺电视等。
+
+②  **[潘忠党](https://commarts.wisc.edu/staff/pan-zhongdang/)** department of comm arts 这边坐镇华人大牛潘忠党老师，在他的主页上有提到他在持续做中国的媒介体制改革相关的话题，也在做中国境内的 civic participation 等话题。
+
+#### 6. UC Santa Babara 加州大学圣塔芭芭拉分校
+
+我的老师 [Dr. Endacott](https://camilleendacott.com/)毕业于这所学校，然后她每次上课都向我大力推荐办公室门口就是阳光海滩的 UCSB，而且向我承诺自从2022年罢工后，他们的工资已经高很多很多了（但我并不知道确切的数字）。我有印象 UCSB 是人际传播非常牛的学校，在我搜索的过程中也证明确实如此，基本上每个老师都会做一点人际传播的内容。但也并非没有政治传播的老师，如：
+
+① [Andrew Flanagin](https://www.comm.ucsb.edu/people/andrew-flanagin) 不能纯然说是做政治传播的老师，但确实有关注 collective action 和 social media相关的内容，看了这几年的发表，有不少关于 information sharing和 misinformation 的内容。
+
+② [Daniel Lane](http://www.daniel-lane.com/)这位老师主持了一个 [UCSB Digital Political Inequality Lab](https://www.dpilab.org/), 主要关注青年人在社交媒体上的政治表达，组里应该没有过中国学生，可能有过韩国学生。
+
+③ [Muniba Saleem](https://www.comm.ucsb.edu/people/muniba-saleem) 这位老师以前也是做人际传播的一员，她关于 video game violence 的研究非常高引，这几年有一点做政治传播，已经发表了一些 racial resentment 和政治表达相关的东西，与此同时，她的主页中有写到她在做 social media 对 collective action 的影响，hate speech ，以及 Media exposure 对移民群体的political integration 的影响。
+
+④ [Michael Stohl](https://www.comm.ucsb.edu/people/michael-stohl)这位老师既做 org comm，也做 political comm，在政治传播这部分只做恐怖主义相关的话题。
+
+#### 7. UC Davis 加州大学戴维斯分校
+
+UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区很近的学校，也可以看到这所学校的计算传播学十分见长，我简单看了一下 faculty，基本上每一个 faculty 都对计算方法有一定的掌握。
+
+① **[Cho Jaeho](https://communication.ucdavis.edu/people/jcho06)** 主要做的是两方面的研究，一方面是Mediated political information 如何影响人们对政治的理解和感知，另一方面的研究是人们的日常生活媒介实践如何包含政治信息和讨论。这位老师看起来没有太用计算传播的方法，主要做的还是心理学的那一套内容，这段时间令人耳目一新的研究主要包括[青年人的政治参与研究](https://www.tandfonline.com/doi/abs/10.1080/15205436.2022.2122846)。
+
+② [Magdalena Wojcieszak](https://communication.ucdavis.edu/people/mwojcie1) 这位老师主要做的是对政治信息的选择性接触和态度认知的关系，以及新的信息技术对政治的 tolerance, perceptions, polarization 等的影响。
+
+#### 8. Ohio State University
 
 这个rank3的州立大学的传播学院，非常有名，很大。但是据说录取国际生一定要提交托福成绩且托福口语必须达到28分，让人望而生畏。
 
-6. Michigan State University 密歇根州立大学
 
-7. University of Wisconsin-Madison 威斯康星大学-麦迪逊
 
-   政治传播研究的重镇之地。
 
-8. UC Davis 加州大学戴维斯分校
 
-   #### 9. UC Santa Babara 加州大学圣塔芭芭拉分校
-
-   我的老师 [Dr. Endacott](https://camilleendacott.com/)毕业于这所学校，然后她每次上课都向我大力推荐办公室门口就是阳光海滩的 UCSB，而且向我承诺自从2022年罢工后，他们的工资已经高很多很多了（但我并不知道确切的数字）。我有印象 UCSB 是人际传播非常牛的学校，在我搜索的过程中也证明确实如此，基本上每个老师都会做一点人际传播的内容。但也并非没有政治传播的老师，如：
-
-   ① [Andrew Flanagin](https://www.comm.ucsb.edu/people/andrew-flanagin) 不能纯然说是做政治传播的老师，但确实有关注 collective action 和 social media相关的内容，看了这几年的发表，有不少关于 information sharing和 misinformation 的内容。
-
-   ② [Daniel Lane](http://www.daniel-lane.com/)这位老师主持了一个 [UCSB Digital Political Inequality Lab](https://www.dpilab.org/), 主要关注青年人在社交媒体上的政治表达，组里应该没有过中国学生，可能有过韩国学生。
-
-   ③ [Muniba Saleem](https://www.comm.ucsb.edu/people/muniba-saleem) 这位老师以前也是做人际传播的一员，她关于 video game violence 的研究非常高引，这几年有一点做政治传播，已经发表了一些 racial resentment 和政治表达相关的东西，与此同时，她的主页中有写到她在做 social media 对 collective action 的影响，hate speech ，以及 Media exposure 对移民群体的political integration 的影响。
-
-   ④ [Michael Stohl](https://www.comm.ucsb.edu/people/michael-stohl)这位老师既做 org comm，也做 political comm，在政治传播这部分只做恐怖主义相关的话题。
-
-9. University of Missouri 密苏里大学 Department of Communication
+6. University of Missouri 密苏里大学 Department of Communication
 
    
 
@@ -322,7 +368,15 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 
 
-马里兰大学、普渡大学、UT-Austin、IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+在第二档还有一些学校，我就简单来看。
+
+1）UT-Austin，学院主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
+
+2）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
+
+3）Purdue University 
+
+普渡大学、IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 
 
 

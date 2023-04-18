@@ -376,7 +376,7 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 3）Purdue University 
 
-普渡大学、IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 
 
 

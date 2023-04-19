@@ -1,0 +1,81 @@
+---
+title: "总结：软科专排UStop50含政治传播方向项目与老师总结（part2）"
+date: 2023-04-19T00:17:53-04:00
+author: "KristenJZ"
+slug: ARWU-top50-political-comm-faculty
+draft: false
+toc: true
+---
+
+这份总结是对[软科专排美国 top50](https://www.shanghairanking.cn/rankings/gras/2021/RS0507)做 political communication 的 faculty 的学术总结，第二部分。第一部分的总结[在这里](https://kristenjz.github.io/cn/2022/05/18/arwu-top50-political-comm-faculty/)，主要是 tier1和 tier2的学校，大多为顶级私校和顶级公立学校，花了很长时间，大概整整一年的时间刚总结完。我觉得都放在一份文档里面不够美观，也不方便阅览。于是开了一个 part2。这一份则是对 tier3以及其他地区的顶级学校做政治传播的学者的总结，希望能够帮助到需要的人士。
+
+## Tier3 Universities
+
+以下为软科排名全美TOP50中提到的，但前面一份文档中仍未提到的设有传播学PhD点的大学。
+
+1. University of Utah 犹他大学 Department of Communication
+
+2. University of Colorado 科罗拉多大学 College of Media, Communication and Information
+
+3. University of Arizona
+
+4. Arizona State University
+
+5. University of Kansas-Lawrence
+
+6. Louisiana State University
+
+7. University of Alabama 阿拉巴马大学
+
+   华人学者周树华
+
+8. North Carolina State University 北卡州立大学
+
+   在罗利
+
+9. University of South Carolina - Columbia 南卡罗来纳大学-哥伦比亚
+
+10. American University
+
+11. George Mason University, Department of Communication
+
+12. University of Connecticut, Department of Communication
+
+13. Syracuse University 雪城大学 S.I. Newhouse School of Public Communications
+
+14. Temple University 天普大学
+
+15. University of Pittsburgh 匹兹堡大学
+
+16. UCSD
+
+17. Texas Tech University  College of Media&Communication
+
+18. University of Geogia
+
+    有department of communication和Grady College of Journalism and Mass Communication。但是第二个学院是只给三年的钱。
+
+19. George State University
+
+    博士有两个方向：Media and Society, Persuasion and Politics。
+
+20. University of Miami 迈阿密大学 School of Communication
+
+21. University of South Florida, Department of Communication
+
+22. Florida State University
+
+23. University of Central Florida, Nicholson School of Communication and Media
+
+
+
+## 排名较高的其他地区政治传播相关老师
+
+这些单列出来的原因在于，由于经济下行压力，很多地区的传播学PhD已经不再能够保证给到一个满足basic生活需要的funding package。我确实也见到了新加坡的人文社科博士拿到无奖的AD，虽然可以依靠申grant、进校再去做RA等过活，但是读博本身就是一件心理压力极大的事情，没有稳定的资金来源确实会让心理压力雪上加霜。不过从政治传播的领域，尤其是从中国本土政治传播的领域来看，其实这些学校的老师做的研究反而更加扎实，虽然可能没有那么 fancy，但是也不失为是很好的选择。
+
+1. CUHK
+2. CityU
+3. BUHK
+4. NTU 
+5. NUS,
+6. University of Amsterdam 阿姆斯特丹大学

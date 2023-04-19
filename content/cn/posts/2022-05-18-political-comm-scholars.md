@@ -1,5 +1,5 @@
 ---
-title: "总结：软科专排UStop50含政治传播方向项目与老师总结"
+title: "总结：软科专排UStop50含政治传播方向项目与老师总结（part1）"
 date: 2022-05-18T19:49:21+08:00
 author: "KristenJZ"
 slug: ARWU-top50-political-comm-faculty
@@ -352,11 +352,11 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 ② [Magdalena Wojcieszak](https://communication.ucdavis.edu/people/mwojcie1) 这位老师主要做的是对政治信息的选择性接触和态度认知的关系，以及新的信息技术对政治的 tolerance, perceptions, polarization 等的影响。
 
-#### 8. Ohio State University
+#### 8. Ohio State University – Department of Communcation
 
-这个rank3的州立大学的传播学院，非常有名，很大。但是据说录取国际生一定要提交托福成绩且托福口语必须达到28分，让人望而生畏。
+这个rank3的州立大学的传播学院，非常有名，很大。[Graduate program 的介绍主页](https://comm.osu.edu/graduate)中写到 political communication & public opinion 是他们的四个方向之一，
 
-
+1）Robert M. Bond
 
 
 
@@ -380,82 +380,7 @@ IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都�
 
 
 
-## Tier 3 University
 
-以下为软科排名全美TOP50中提到的，但上文仍未提到的设有传播学PhD点的大学。
-
-1. University of Utah 犹他大学 Department of Communication
-
-   中西部的大学，水质想来不大ok。
-
-2. University of Colorado 科罗拉多大学 College of Media, Communication and Information
-
-3. University of Arizona
-
-4. Arizona State University
-
-5. University of Kansas-Lawrence
-
-6. Louisiana State University
-
-7. University of Alabama 阿拉巴马大学
-
-   华人学者周树华
-
-8. North Carolina State University 北卡州立大学
-
-   在罗利
-
-9. University of South Carolina - Columbia 南卡罗来纳大学-哥伦比亚
-
-10. American University
-
-11. George Mason University, Department of Communication
-
-12. University of Connecticut, Department of Communication
-
-13. Syracuse University 雪城大学 S.I. Newhouse School of Public Communications
-
-14. Temple University 天普大学
-
-15. University of Pittsburgh 匹兹堡大学
-
-16. UCSD
-
-17. Texas Tech University  College of Media&Communication
-
-18. University of Geogia
-
-    有department of communication和Grady College of Journalism and Mass Communication。但是第二个学院是只给三年的钱。
-
-19. George State University
-
-    博士有两个方向：Media and Society, Persuasion and Politics。
-
-20. University of Miami 迈阿密大学 School of Communication
-
-21. University of South Florida, Department of Communication
-
-22. Florida State University
-
-23. University of Central Florida, Nicholson School of Communication and Media
-
-
-
-
-
-
-
-## 排名较高的其他地区政治传播相关老师
-
-这些单列出来的原因在于，由于经济下行压力，很多地区的传播学PhD已经不再能够保证给到一个满足basic生活需要的funding package。我确实也见到了新加坡的人文社科博士拿到无奖的AD，虽然可以依靠申grant、进校再去做RA等过活，但是读博本身就是一件心理压力极大的事情，没有稳定的资金来源确实会让心理压力雪上加霜。
-
-1. CUHK
-2. CityU
-3. BUHK
-4. NTU 
-5. NUS,
-6. University of Amsterdam 阿姆斯特丹大学
 
 
 

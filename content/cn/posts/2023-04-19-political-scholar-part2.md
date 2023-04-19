@@ -9,6 +9,8 @@ toc: true
 
 这份总结是对[软科专排美国 top50](https://www.shanghairanking.cn/rankings/gras/2021/RS0507)做 political communication 的 faculty 的学术总结，第二部分。第一部分的总结[在这里](https://kristenjz.github.io/cn/2022/05/18/arwu-top50-political-comm-faculty/)，主要是 tier1和 tier2的学校，大多为顶级私校和顶级公立学校，花了很长时间，大概整整一年的时间刚总结完。我觉得都放在一份文档里面不够美观，也不方便阅览。于是开了一个 part2。这一份则是对 tier3以及其他地区的顶级学校做政治传播的学者的总结，希望能够帮助到需要的人士。
 
+另外如果你看到结尾都没有看到合适的项目，不妨看一看郝鸿涛总结的[全美设有传播学博士点的项目](https://hongtaoh.com/cn/2021/01/10/us-comm-phd/)，或许能够在专排top50之外的学校转角遇到爱。
+
 ## Tier3 Universities
 
 以下为软科排名全美TOP50中提到的，但前面一份文档中仍未提到的设有传播学PhD点的大学。
@@ -77,5 +79,5 @@ toc: true
 2. CityU
 3. BUHK
 4. NTU 
-5. NUS,
+5. NUS
 6. University of Amsterdam 阿姆斯特丹大学

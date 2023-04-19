@@ -356,27 +356,37 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 这个rank3的州立大学的传播学院，非常有名，很大。[Graduate program 的介绍主页](https://comm.osu.edu/graduate)中写到 political communication & public opinion 是他们的四个方向之一，
 
-1）Robert M. Bond
+1）[Robert M. Bond](http://robertmbond.net/) 
 
 
 
-6. University of Missouri 密苏里大学 Department of Communication
+#### 9. University of Missouri 密苏里大学 Department of Communication
 
-   
 
-   
+
+
+
+#### 10. Michigan State University 
+
+也是老牌项目了，他们有两个学院，一个是 [department of media and information](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media)，另一个是 [department of communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)，都分别设有 phd 项目。
+
+
+
+#### 11. Boston University
+
+有一个很小很精致的 PHD 项目，是 [PhD in Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)，之前华人大牛老师[郭蕾](https://www.leiguo.net/)在这里，但是最近回复旦任教了。
 
 
 
 在第二档还有一些学校，我就简单来看。
 
-1）UT-Austin，学院主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
+1）UT-Austin的 Moody College of Communication，他们有四个方向的phd，advertising|comunication studies|journalism and media|radio-television-film，我只看了communication studies 的项目，主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
 
 2）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
 
 3）Purdue University 
 
-IUB、UMN、U Washington、U of Florida、Boston U、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+IUB、UMN、U Washington、U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 
 
 

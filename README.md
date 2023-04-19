@@ -1,2 +1,2 @@
 # KristenJZ.github.io
-用Hugo搭建的个人网站
+A personal website made with Hugo.

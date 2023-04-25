@@ -262,6 +262,8 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 ③ **[Deen Freelon](http://dfreelon.org/)** 常和上文的 Dr. Kreiss 合作的 Dr. Freelon 也应该同步出现在这里。非常喜欢两人2020年的研究——发表于*Science*的 [Online activism from left to right](http://dfreelon.org/publications/2020_False_equivalencies_Online_activism_from_left_to_right.pdf)，其中关于 clickactivism 的一些讨论是非常发人深省的。除此之外，从这几年的研究可以看出，非常关注 disinformation 的问题，以及authoritarian国家媒体（特别是Russia）的政治形象等等的问题。
 
+重磅更新一下 Deen 老师的去向，他将于2023年7月加入Upenn 的安妮伯格传播学院。
+
 ④ [Shannon McGregor](http://www.shannoncmcgregor.com/) 主要研究社交媒体平台如何影响人们的政治行为，方法上也是偏大数据多一些，看起来和上面两位大佬（特别是 Kreiss）有很多的合作，值得一提的是她有很多关于 platform 的讨论，也是非常有价值的。
 
 ⑤ [Zhao Xinyan](https://evazhaoxy.wixsite.com/zhao) 这位老师是我今年刚注意到的，是从2020年才来到 UNC 入职，在马里兰传统下必然是主要做 crisis comm，但是会有一些涉及到 crisis 期间的政治传播 framing，如2023年刚刚发表的 [Dynamics of Networked Framing](https://journals.sagepub.com/doi/epub/10.1177/10776990211072508) 这一篇就涉及到了 government media。
@@ -356,9 +358,21 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 这个rank3的州立大学的传播学院，非常有名，很大。[Graduate program 的介绍主页](https://comm.osu.edu/graduate)中写到 political communication & public opinion 是他们的四个方向之一，
 
-1）[Robert M. Bond](http://robertmbond.net/) 
+1）**[Robert M. Bond](http://robertmbond.net/)** Bond 老师主要做的是社交媒体政治选举、意识形态划分、和公众参与等的影响，主要用的是计算传播学的方法，发表很勤奋，而且从publication 看起来比较倾向于让学生做一作。这几年有确立一个比较独特的概念——[political homophily，来研究political discussion](https://journals.sagepub.com/doi/abs/10.1177/0093650218813655)，做了很多关于 reddit 的研究，让我觉得眼前一亮的是他发现人们在社交媒体中如果是讨论政治相关的帖子，这个 homophily 就特别强，但是如果是别的，就没有那么强。
 
+除了政治传播之外，Bond 老师还有做一些[科学传播](https://robertmbond.github.io/reddit_scientist_AMA.pdf)和[青少年视频使用](https://robertmbond.github.io/screen_time.pdf)的研究，我都很喜欢。
 
+2）[Jason Coronel](https://sites.google.com/site/jasoncoronel/home) 这位老师的方法很特别，基本上是在用实验的方法研究政治信息在个体之间的了解和使用，他主持了一个实验室[The communication and cognitive systems lab](https://www.commcogsystems.com/)，这个实验室做了很多眼动实验，来研究 political decision making，以及人们个体和个体之间是如何传播准确/不准确的政治信息的，这应该是我看到目前为止唯一用实验方法来进行政治传播研究的老师，真的可以说是非常独树一帜。真的非常心理学取向，也研究了很多有趣的话题，比如 [humor 如何引起大脑里面的一个区域共鸣从而来影响政治信息/知识的传播](https://www.commcogsystems.com/papers/Political_humor_sharing_and_remembering.pdf)的。
+
+3）[William Chip Eveland](https://comm.osu.edu/people/eveland.6) 做人际传播和政治传播的结合，最近研究了一些人际传播如何影响对不同政见的政党的 exposure。
+
+4）[Kelly Garrett](http://rkellygarrett.com/) 和上述提到的 Bond老师有不少的合作，他则是会做 panel survey，online experiment比较多，主要做对政治的 misperception。
+
+5）[Gerald Kosicki](https://comm.osu.edu/people/kosicki.1) 大概在上个世纪的时候做了很多对 Political news 的了解的研究，方向很偏向 information processing。但是这个世纪基本上没有发过研究了。
+
+6）[Hillary Shulman](https://comm.osu.edu/people/shulman.36) 主要做的是如何促进 underreprensented 群里的 political engagement 的研究，选举之类的，前几年也做了一些和 covid-19有关的。
+
+同时这个学院还有一些巨佬比如 [Brad Bushman](https://u.osu.edu/bushman.20/) 这种会做一点政治传播擦边的，靠近 gun violence 这块的内容，也可以看一看。
 
 #### 9. University of Missouri 密苏里大学 Department of Communication
 

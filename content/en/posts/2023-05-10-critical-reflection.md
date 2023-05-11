@@ -1,5 +1,5 @@
 ---
-title: "Critical review: On digital divide and digital rehabilitatino for formerly incarcerated people"
+title: "Critical review: On digital divide and digital rehabilitation for formerly incarcerated people"
 date: 2023-05-10T19:51:04-04:00
 author: "KristenJZ"
 slug: digital-divide-and-rehabilitation-released-citizens

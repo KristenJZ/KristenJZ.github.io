@@ -6,15 +6,8 @@ toc: false
 ---
 ## Jing(Kristen) Zhang
 
-Department of Communication Studies\
-University of North Carolina, Charlotte/
-Charlotte, NC 28223 USA
-
 Email: jzhang77@charlotte.edu\
 URL: [kristenjz.github.io](https://kristenjz.github.io/)
 
-Born: 1998, Zhengzhou, Henan Province, China\
-Nationality: Chinese
-
-**[Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)**
+Please find my CV here: **[Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)**
 

@@ -168,7 +168,11 @@ email: nathan.matias@cornell.edu
 
 同是政治传播，但整体上做的会比较偏向 civic engagement 的取向，特别是做了很多政治新闻对气候的影响，我个人觉得取向上偏 science comm。
 
-4）[**Brian Weeks**](https://lsa.umich.edu/comm/people/regular-faculty/beweeks.html)
+4）[Yanna Krupnikov](https://www.yannakrupnikov.com/) 
+
+也是一位 political science 出身的老师，主要关注的是美国人的政治生活，话题都非常日常，比如在饭桌上是否应该讨论政治等等，而这位老师经常在纽约时报等媒体发表一些评论文章，是一位比较活跃的老师。与此同时也比较关注用政治取向来讨论美国的新闻，如新闻中的political expertise 如何构建等等。
+
+5）[**Brian Weeks**](https://lsa.umich.edu/comm/people/regular-faculty/beweeks.html)
 
 做的也是比较传统的政治传播，比如个人如何了解到数字媒体上的政治信息、政党和政治虚假消息之间的关系、情感（特别是愤怒）对于人们暴露于政治内容和效用的影响。他主持了一个 [Politics and Communication Lab](https://sites.lsa.umich.edu/pac-lab/)，组里是有招过中国学生的，他们组做的内容包括一些政治的表达、选择性接触等等，发的期刊都是很优秀的期刊，从过去学生的placement 看起来也都去了 tier2的公立大学。
 
@@ -388,7 +392,13 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 #### 11. Boston University
 
-有一个很小很精致的 PHD 项目，是 [PhD in Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)，之前华人大牛老师[郭蕾](https://www.leiguo.net/)在这里，但是最近回复旦任教了。
+有一个很小很精致的 PHD 项目，是 [PhD in Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)，之前华人大牛老师[郭蕾](https://www.leiguo.net/)在这里，但是最近回复旦任教了。目前除了一位 visiting 的老师之外，只有五位老师，但是关注的话题从政治传播到VR 游戏都有，可以说是很好地概括了他们的title - emerging media。不过我看这边的博士生curriculum 里面也只列出的三年的安排，不知道是不是必须要在三年内读完。
+
+1）[**Chris Chao Su**](https://chrischaosu.com/) 苏超老师，是一位经常用计算方法做政治传播研究的年轻华人老师，可能是因为之前也和郭蕾老师有很多合作的原因，可以看到，他过去的发表中有用 social network analysis 的方法做不少的议程设置研究，同时也比较关心中国的政治参与话题。
+
+2)[**Chris Wells**](https://www.bu.edu/com/profile/chris-wells/) 又是一位 Chris 老师，是引用四千多的大牛，这两年主要关注的是两个问题，一个是政治传播中的媒介环境问题，媒介环境如何影响政治参与与 civil society，同时也非常关心种族与性别等相关的 identification 在政治讨论中的影响。
+
+
 
 
 

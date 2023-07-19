@@ -386,19 +386,26 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 #### 10. Michigan State University 
 
-也是老牌项目了，他们有两个学院，一个是 [department of media and information](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media)，另一个是 [department of communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)，都分别设有 phd 项目。
+也是老牌项目了，他们有两个学院，一个是 [department of media and information](https://comartsci.msu.edu/academics/academic-departments/default/graduate/phd-information-and-media)，另一个是 [department of communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)，都分别设有 phd 项目。两个项目里面的老师非常多，我将这两个项目分开来总结。
 
+1）Department of Media & Information 这个学院显然要量化一些，其中的老师方向不一而足，总体来说偏向媒介效果这一块的研究，有不少的实验室，其中也有很多认知科学的内容。看到不少老师在做说服这一块的公关/广告的内容，也有不少老师在做健康传播这一显学。可能是因为和信息学院也并置，所以看起来有不少的老师在做information seeking, risk 等等的话题。以下是我找到的和政治传播相关的老师。
 
+* [Eric Freedman](https://comartsci.msu.edu/our-people/eric-freedman) 是新闻学院的老师，可能是因为做过记者的新闻学背景，所以有不少的 public affairs 相关的研究。这几年看起来也不太做这方面的内容了，转向了AI 和 misinformation 等等的话题。
+* [Rachel Mourão](https://comartsci.msu.edu/our-people/rachel-mourao-phd)也是一位来自新闻学院的老师，这两年关注的主要有记者如何报道政治事件、少数群体如何被报道（如 BLM）、政治党派对新闻报道的影响等等。
+* [Marisa Smith](https://comartsci.msu.edu/our-people/marisa-smith) 主要关注种族和性别相关的 activism以及 discourse，主要语境放在了 social media 上。
+* [Tim P. Vos](https://comartsci.msu.edu/our-people/tim-p-vos) 主要关注新闻的把关人作用，这几年不少的研究都是关于新闻和参与式民主、新闻叙事、假新闻等等的话题。
+
+2）Department of Communication 这个学院的老师看起来更加关注心理取向的传播学研究，但是话题比较多也比较杂，我没看出来什么分布特点，而且似乎要比上一个学院小很多，老师也少很多。
+
+- [Dustin Carnahan](https://comartsci.msu.edu/our-people/dustin-carnahan) 很高产的一位 AP，主要关注政治信息环境以及政治信息环境对公民信仰、态度等的影响，我认为比较能代表他的风格的作品是[研究事实核查信息对改变false belief 的影响](https://www.researchgate.net/publication/354129269_Correcting_the_Misinformed_The_Effectiveness_of_Fact-checking_Messages_in_Changing_False_Beliefs)，不过 AP 的风格还远远没有形成
 
 #### 11. Boston University
 
 有一个很小很精致的 PHD 项目，是 [PhD in Emerging Media Studies](https://www.bu.edu/com/academics/emerging-media-studies/phd-in-emerging-media-studies/)，之前华人大牛老师[郭蕾](https://www.leiguo.net/)在这里，但是最近回复旦任教了。目前除了一位 visiting 的老师之外，只有五位老师，但是关注的话题从政治传播到VR 游戏都有，可以说是很好地概括了他们的title - emerging media。不过我看这边的博士生curriculum 里面也只列出的三年的安排，不知道是不是必须要在三年内读完。
 
-1）[**Chris Chao Su**](https://chrischaosu.com/) 苏超老师，是一位经常用计算方法做政治传播研究的年轻华人老师，可能是因为之前也和郭蕾老师有很多合作的原因，可以看到，他过去的发表中有用 social network analysis 的方法做不少的议程设置研究，同时也比较关心中国的政治参与话题。
+1)[**Chris Chao Su**](https://chrischaosu.com/) 苏超老师，是一位经常用计算方法做政治传播研究的年轻华人老师，可能是因为之前也和郭蕾老师有很多合作的原因，可以看到，他过去的发表中有用 social network analysis 的方法做不少的议程设置研究，同时也比较关心中国的政治参与话题。
 
 2)[**Chris Wells**](https://www.bu.edu/com/profile/chris-wells/) 又是一位 Chris 老师，是引用四千多的大牛，这两年主要关注的是两个问题，一个是政治传播中的媒介环境问题，媒介环境如何影响政治参与与 civil society，同时也非常关心种族与性别等相关的 identification 在政治讨论中的影响。
-
-
 
 
 

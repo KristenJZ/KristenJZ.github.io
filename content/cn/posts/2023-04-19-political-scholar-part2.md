@@ -33,7 +33,7 @@ toc: true
 
 8. North Carolina State University 北卡州立大学
 
-   在罗利
+   罗利真的是个很好的地方！学校门口就有麻辣烫和上海小吃，华人也多，学校非常漂亮，校车尤其漂亮。
 
 9. University of South Carolina - Columbia 南卡罗来纳大学-哥伦比亚
 
@@ -53,21 +53,23 @@ toc: true
 
 17. Texas Tech University  College of Media&Communication
 
-18. University of Geogia
+18. Texas A&M 德州农工
+
+19. University of Geogia
 
     有department of communication和Grady College of Journalism and Mass Communication。但是第二个学院是只给三年的钱。
 
-19. George State University
+20. George State University
 
     博士有两个方向：Media and Society, Persuasion and Politics。
 
-20. University of Miami 迈阿密大学 School of Communication
+21. University of Miami 迈阿密大学 School of Communication
 
-21. University of South Florida, Department of Communication
+22. University of South Florida, Department of Communication
 
-22. Florida State University
+23. Florida State University
 
-23. University of Central Florida, Nicholson School of Communication and Media
+24. University of Central Florida, Nicholson School of Communication and Media
 
 
 

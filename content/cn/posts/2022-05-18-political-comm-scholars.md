@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 
-这份总结是我一时兴起，对[软科专排美国top50](https://www.shanghairanking.cn/rankings/gras/2021/RS0507)做political communication的faculty的学术进行了总结。给自己和后来者一些学术上的参考。
+这份总结是我一时兴起，对[软科专排美国top50](https://www.shanghairanking.cn/rankings/gras/2021/RS0507)做political communication的faculty的学术进行了总结。给自己和后来者一些学术上的参考。与此同时，第二部分 tier3的总结我放在了另一份文档中，请点击这里查看：[软科专排UStop50含政治传播方向项目与老师总结(part2)](https://kristenjz.github.io/cn/2023/04/19/arwu-top50-political-comm-faculty/)。
 
 政治传播在美国是一个不太好找工作（好找工作还得是health comm, organizational comm, crisis comm），但是非常经典的方向。传播学起家就是在政治传播领域，所以也向来是硬碰硬大牛必争之地。量化的政治传播已经无限接近隔壁的政治科学（political science），计算大数据玩的花；质化的政治传播其实会比较倾向于regional study和public policy, 同时不少质化的政治传播老师也都展现出了对big data的兴趣。
 
@@ -252,7 +252,7 @@ UIUC是我一直以来的梦校，玉米地的风光吸引了我很久。这里�
 
 同样是我非常喜欢的学校和项目，喜欢的理由有两点：1）北卡蓝，谁不想穿北卡蓝学士服呢？2）议程设置研究发源地，传播学经典理论打卡地。
 
-和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化，用的方法大多是民族志或修辞传统，也有一些 critical methods 存在，总体来说没有看到任何量化的痕迹。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。当然这个学院也有慷慨地表示一些学生（每年5个）可以拿到每年20000D 的 stipend（我谢谢他们）。
+和UIUC类似，这里的传播学也分成2个部门，一个是department of comm，很质化，用的方法大多是民族志或修辞传统，也有一些 critical methods 存在，总体来说没有看到任何量化的痕迹。Hussman School of Journalism and Media，这里会量化不少，政治传播也是这里的重要方向。但是这里好像只能三年完成PhD，虽然官网说了“为了冲刺好的placement，一些学生可以延到四年”，但听起来还是很赶。而且我曾在[PhD Stipends](https://www.phdstipends.com/)了解过这里的funding package，那个可怕的1.5w的数字即使在村里也很难过活，大为震惊。为财务状况感到担忧。当然这个学院也有慷慨地表示一些学生（每年5个）可以拿到每年20000D 的 stipend（谢谢他们）。
 
 1）department of communication
 
@@ -380,9 +380,10 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 #### 9. University of Missouri 密苏里大学 Department of Communication
 
+在软科排名美国 TOP5的传播学项目，也一直在国内非常有名。我国内的大学和这所学院有一个 collaborate 的硕士项目。这个学院比较有名的 area 是做 identity&diversity 的，可以看出来也有不少老师是这个方向的。我主要总结了political communication 这个方向下的老师。他们有一个[political communication institute](https://pci.missouri.edu/)，来关注 civic engagement，经常邀请一些大佬来这边做讲座。
 
-
-
+- [Brian Houston](https://communication.missouri.edu/people/houston)这位老师之前做了不少mental health & political consequences of community crises，主要关注的是社区取向的内容，这几年也经常做新媒体在 disaster 中的作用等等的内容。
+- [Benjamin Warner](https://communication.missouri.edu/people/warner) 主要关注政治极化问题，同时也引入了不少 intergroup process, media psychology 的内容来看政治广告和社交媒体相关的内容。
 
 #### 10. Michigan State University 
 
@@ -407,15 +408,29 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 2)[**Chris Wells**](https://www.bu.edu/com/profile/chris-wells/) 又是一位 Chris 老师，是引用四千多的大牛，这两年主要关注的是两个问题，一个是政治传播中的媒介环境问题，媒介环境如何影响政治参与与 civil society，同时也非常关心种族与性别等相关的 identification 在政治讨论中的影响。
 
+#### 12. UT-Austin
+
+这里是一个长篇预警。因为UT-Austin 的 [Moody College of Communication](https://moody.utexas.edu/) 是一个非常非常大的学院，其中有五个 department，Department of Comunication Studies, Department of Radio-Television-Film，Department of Speech, Language, and Hearing Sciences, School of Journalism & Media, School of Advertising and Public Relations, 而且在 PhD 上，一共有五个方向的 PhD program，我们只能一个一个来看。
+
+1） PhD in Communication Studies：主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
+
+2）PhD in Journalism and Media：这个学院主要关注新闻，因此也有两个取向，一是实践的取向，二是 theory & research 的取向，[申请这里的学位也要上传作品集](https://journalism.utexas.edu/graduate/admissions)。但是里面有不少和政治传播相关的老师，是非常值得一看的。
+
+- [Rosental Alves](https://journalism.utexas.edu/faculty/rosental-alves)这位老师做的主要是政治环境对记者的影响，主要关注的是拉丁美洲的新闻产业。
+- [Tom Johnson](https://journalism.utexas.edu/faculty/tom-johnson) 主要关注社交媒体和跨文化传播的内容，但是会涉及到一些政治传播相关的内容，比如对用户的 political activity 的影响，以及 political unfriending 等等的话题。
+- [**Josephine Lukito**](https://www.jlukito.com/)这几年新招的 AP，威斯康星学派毕业过来的，主要用计算方法和量化方法来处理 mass communicated text（比如新闻报道），做过一些英语国家对全球南方和社会运动的报道，也涉及一些对俄罗斯的报道的内容，关注 disinformation 取向。总的来说就是 malicious political language 的作用。
+- [Gina Masullo](https://journalism.utexas.edu/faculty/gina-masullo) 也是主要关注社交媒体和新闻，同时会涉及到一些话题比如 political divisiveness等等，看起来和国内的[梁海老师](https://www.com.cuhk.edu.hk/zh/peoples/%E6%A2%81%E6%B5%B7/)有不少的合作。
+- [**Samuel Woolley**](https://journalism.utexas.edu/faculty/samuel-woolley)  也是一位很厉害的 AP 老师了，年纪轻轻就已经有了2000多的 citation。做的话题主要是宣传、social bot和宣传、disinformation 和宣传等等的话题，从和学生的合作看来，也会关注其他国家的动向，比如和学生合作了巴西的政府如何用 disinformation 宣传等等。
+
+3）PhD in Radio-Television-Film：这个学院的 PhD 强调media studies focus，从第一页来看，他们注重的两个方向主要是media studies 和 production。感觉有不少实践取向的老师。
 
 
-在第二档还有一些学校，我就简单来看。
 
-1）UT-Austin的 Moody College of Communication，他们有四个方向的phd，advertising|comunication studies|journalism and media|radio-television-film，我只看了communication studies 的项目，主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
+第二档还有一些学校，我就简单来看。
 
-2）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
+1）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
 
-3）Purdue University 
+2）Purdue University 
 
 IUB、UMN、U Washington、U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 

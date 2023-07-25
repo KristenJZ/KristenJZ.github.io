@@ -15,7 +15,14 @@ toc: true
 
 以下为软科排名全美TOP50中提到的，但前面一份文档中仍未提到的设有传播学PhD点的大学。
 
-1. University of Utah 犹他大学 Department of Communication
+1. University of Utah 犹他大学 Department of Communication 
+
+   我整体看起来 Utah 这个项目的修辞学取向和critical studies取向是比较强的。
+
+   - [Kevin Coe](https://faculty.utah.edu/u0915886-Kevin_Coe/research/index.hml) 这位老师主要做政治传播三个方向的内容，一是政治精英对新闻报道和公共感知的影响，二是新闻报道如何 cover 政治议题和传达政治信息，三是公共话语如何反映政治考量。
+   - [Danielle Endres](https://faculty.utah.edu/u0488720-Danielle_Endres/hm/index.hml) 这位老师会用修辞学的方法来做一些social movement 的话题，但总的来说不是很多，她还是关注 science comm更加多一点。
+   - [Ben Lyons](https://faculty.utah.edu/u6026357-BEN_LYONS/research/index.hml) 这位老师感觉做的东西比较杂，有一些政治传播的内容，但大多与 science comm结合，比如做的在欧洲地区的打疫苗的elite communication 和public support 的综合。
+   - [Kent A. Ono](https://faculty.utah.edu/u0849982-Kent_A._Ono/research/index.hml) 这位老师也是修辞学方向的老师，这几年陆续有做一些 media representation 和少数群体的内容。
 
 2. University of Colorado 科罗拉多大学 College of Media, Communication and Information
 
@@ -64,6 +71,8 @@ toc: true
     博士有两个方向：Media and Society, Persuasion and Politics。
 
 21. University of Miami 迈阿密大学 School of Communication
+
+    
 
 22. University of South Florida, Department of Communication
 

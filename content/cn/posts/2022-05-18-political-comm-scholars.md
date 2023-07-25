@@ -410,7 +410,7 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 #### 12. UT-Austin
 
-这里是一个长篇预警。因为UT-Austin 的 [Moody College of Communication](https://moody.utexas.edu/) 是一个非常非常大的学院，其中有五个 department，Department of Comunication Studies, Department of Radio-Television-Film，Department of Speech, Language, and Hearing Sciences, School of Journalism & Media, School of Advertising and Public Relations, 而且在 PhD 上，一共有五个方向的 PhD program，我们只能一个一个来看。
+这里是一个长篇预警。因为UT-Austin 的 [Moody College of Communication](https://moody.utexas.edu/) 是一个非常非常大的学院，其中有五个 department，Department of Comunication Studies, Department of Radio-Television-Film，Department of Speech, Language, and Hearing Sciences, School of Journalism & Media, School of Advertising and Public Relations, 而且在 PhD 上，一共有六个方向的 PhD program，除了 PhD in Aud 和 PhD in Speech, Language and Hearing Sciences 外，还有以下四个方向，我们只能一个一个来看。
 
 1） PhD in Communication Studies：主页上说主要是做三个方向的研究，interpersonal comm, org comm and tech, 和 rhetorc languange & political comm，虽然有 Political comm 方向，但是全部都是修辞学传统的老师，可以[自行查看](https://commstudies.utexas.edu/areas)。
 
@@ -424,15 +424,23 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 3）PhD in Radio-Television-Film：这个学院的 PhD 强调media studies focus，从第一页来看，他们注重的两个方向主要是media studies 和 production。感觉有不少实践取向的老师。
 
+- [Wenhong Chen](https://rtf.utexas.edu/faculty/wenhong-chen) 陈文泓老师，看起来似乎不应该放到政治传播这里，因为她主要做的是 political economy 取向的内容，但确实也会涉及到中国语境下的平台和 civic engagement。
 
+4）PhD in Advertising: 这个项目除了PR 方面的研究之外，也有不少的 science comm与 health comm。
+
+- [Isabella Cunningham](https://advertising.utexas.edu/faculty/isabella-cunningham) 这位老师主要还是做广告方面的内容，但也做过不少政治广告方面的研究。
 
 第二档还有一些学校，我就简单来看。
 
 1）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
 
-2）Purdue University 
+2）Purdue University 普渡的 Brian Lamb School of Communication 也是玉米地的工科强校了。这所学校比较有名的要求是口语卡27分且对所有学生均生效。他们主页的几个主要方向里面并没有政治传播，但是一些方向会提到做政治传播的老师。比如在 media technology and society 方向下的[Robert X. Browning](https://cla.purdue.edu/directory/profiles/robert-browning.html)做美国的政治修辞，[Jennifer Hoewe](https://jenniferhoewe.wixsite.com/teachingportfolio)会做政治传播和媒介心理学的交叉，[Diana Zulli](https://dzulli3.wixsite.com/my-site-1?_ga=2.210968341.1233106682.1690245635-160756947.1690245635)会做政府公关和丑闻传播的内容。
 
-IUB、UMN、U Washington、U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+3）IUB的The Media School 比较有名的方向是媒介心理学和实验这一块的内容，政治传播的老师不是很多，有一些老师会涉及到政治传播的内容。比如 [Nicholas Browning](https://mediaschool.indiana.edu/people/profile.html?p=nickphd)会做政府公关的内容，[Nathaniel Geiger](https://nathanielgeiger.wixsite.com/indiana) 会做公民参与与气候变化的内容，[Mike Gruszczynski](https://mediaschool.indiana.edu/people/profile.html?p=mgruszc)会做social movement 与政治议程设置的内容，[Jason Peifer](https://mediaschool.indiana.edu/people/profile.html?p=jpeifer)会做一些政治讽刺和新闻报道的研究。
+
+4）UMN 他们一共有三个 track，critical media studies, rhetorical studies, interpersonal & organizational communication，在第一和第二个 track 中有一些做政治传播的老师。比如做女性和移民政治组织的[Zornitsa Keremidchieva](https://cla.umn.edu/about/directory/profile/zkeremid)。
+
+U Washington、U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 
 
 

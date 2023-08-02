@@ -16,6 +16,10 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/"
     weight = 1
 [[menu.en]]
+    name = "CV"
+    url = "https://kristenjz.github.io/file/Kristen_Academic_CV.pdf"
+    weight = 2
+[[menu.en]]
     name = "Notes&Projects"
     url = "/en/notebooks/"
     weight = 4 

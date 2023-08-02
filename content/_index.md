@@ -10,6 +10,3 @@ I graduated with a Bachelor's degree in Communication from Journalism School, Fu
 
 Email: jzhang77@charlotte.edu\
 URL: [kristenjz.github.io](https://kristenjz.github.io/)
-
-**Please find my CV here**: **[Curriculum Vitae](https://kristenjz.github.io/file/Kristen_Academic_CV.pdf)**
-

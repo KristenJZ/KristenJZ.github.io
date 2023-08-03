@@ -378,12 +378,16 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 同时这个学院还有一些巨佬比如 [Brad Bushman](https://u.osu.edu/bushman.20/) 这种会做一点政治传播擦边的，靠近 gun violence 这块的内容，也可以看一看。
 
-#### 9. University of Missouri 密苏里大学 Department of Communication
+#### 9. University of Missouri 密苏里大学
 
-在软科排名美国 TOP5的传播学项目，也一直在国内非常有名。我国内的大学和这所学院有一个 collaborate 的硕士项目。这个学院比较有名的 area 是做 identity&diversity 的，可以看出来也有不少老师是这个方向的。我主要总结了political communication 这个方向下的老师。他们有一个[political communication institute](https://pci.missouri.edu/)，来关注 civic engagement，经常邀请一些大佬来这边做讲座。
+University of Missouri 有两个和传播学相关的项目，一个是 Department of Communication 中的传播学博士点，另一个是 Missouri School of Journalism。
+
+首先是 Department of Communication, 他们是在软科排名美国 TOP5的传播学项目，也一直在国内非常有名。这个学院比较有名的 area 是做 identity&diversity 的，可以看出来也有不少老师是这个方向的。我主要总结了political communication 这个方向下的老师。他们有一个[political communication institute](https://pci.missouri.edu/)，来关注 civic engagement，经常邀请一些大佬来这边做讲座。
 
 - [Brian Houston](https://communication.missouri.edu/people/houston)这位老师之前做了不少mental health & political consequences of community crises，主要关注的是社区取向的内容，这几年也经常做新媒体在 disaster 中的作用等等的内容。
 - [Benjamin Warner](https://communication.missouri.edu/people/warner) 主要关注政治极化问题，同时也引入了不少 intergroup process, media psychology 的内容来看政治广告和社交媒体相关的内容。
+
+另一个是 Missouri School of Journalism，其中有著名的华人学者周树华老师。我国内本科所在的大学和这所学院有一个 collaborate 的硕士项目。我觉得这个学院的老师看起来整体上偏向新闻实践多一点。
 
 #### 10. Michigan State University 
 
@@ -430,6 +434,16 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 - [Isabella Cunningham](https://advertising.utexas.edu/faculty/isabella-cunningham) 这位老师主要还是做广告方面的内容，但也做过不少政治广告方面的研究。
 
+#### 14. University of Washington, Department of Communication
+
+华盛顿大学的主页一直非常拉好感，会把每年能知道下一届学生的faculty 列在主页上，还会把每年录取学生的平均 GRE 成绩、平均 GPA 成绩等列在主页上，这就让一切变得非常清楚，不会导致一些混乱，同时也能节约很多的时间来看学校。学校的几个大的主要方向上是有 political communication 的，同时该学校还会和 political science 部门（比如研究美国政治民主和 misinformation 的[Mark Alan Smith](http://faculty.washington.edu/masmith/))以及 ischool 部门有很多的合作，看起来可以说是非常理想的去处了。
+
+在 political communication 的方向中，做修辞的老师依然不少，比如 [Leah Ceccarelli](https://com.uw.edu/people/faculty/leah-ceccarelli/)和[Doug Underwood](https://com.uw.edu/people/faculty/doug-underwood/)。其他方法的老师也有，但除了 adjuct 的 Mark Smith 之外我没看到太多用计算方法的老师。
+
+- [Yuan Hsiao](https://com.uw.edu/people/faculty/yuan-hsiao/) 做了不少政治观点对行为影响的研究，也有不少研究涉及到 HK 和 TW 地区的 social movement
+- [Patricia Moy](https://com.uw.edu/people/faculty/patricia-moy/) 这位老师做的研究主要是人际传播如何影响政治观点的研究。
+- [Adrienne Russell](https://com.uw.edu/people/faculty/adrienne-russell/) 这位老师之前有做过不少政治问题和民主参与的话题，但是这几年开始转向写书和做不少的气候变化研究，我看主页上应该是会持续在这个方向发力了。
+
 第二档还有一些学校，我就简单来看。
 
 1）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
@@ -440,7 +454,7 @@ UC Davis 是有一整个area of study 是政治传播的，这是一所离湾区
 
 4）UMN 他们一共有三个 track，critical media studies, rhetorical studies, interpersonal & organizational communication，在第一和第二个 track 中有一些做政治传播的老师。比如做女性和移民政治组织的[Zornitsa Keremidchieva](https://cla.umn.edu/about/directory/profile/zkeremid)。
 
-U Washington、U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
 
 
 

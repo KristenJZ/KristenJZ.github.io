@@ -28,9 +28,11 @@ toc: true
 
    - [Leah Sprain](https://www.colorado.edu/cmci/people/communication/leah-sprain) 这位老师研究了一些 social movement 和activism的内容， 但是也主要是用修辞和话语分析的方法，特别关注 speech领域对democratic action 的影响。
 
-3. University of Arizona
+3. University of Arizona, Department of Communication
 
-4. Arizona State University
+   这所学校的人际传播、家庭传播和公关都属于强项。
+
+4. Arizona State University, [Hugh Downs School of Human Communication](https://humancommunication.asu.edu/)
 
 5. University of Kansas-Lawrence
 
@@ -38,13 +40,17 @@ toc: true
 
 7. University of Alabama 阿拉巴马大学
 
-   华人学者周树华
+   这所学校比较专长的是 interpersonal communication, culture & rhetorical, 以及 organizational leadership 的话题，在 Interpesonal communication 的领域中有做 dating app 与relationship 的著名学者[Dr. Leah LeFebvre](http://lelefebvre.people.ua.edu/);之前我有听闻过这里的 sports communication 比较厉害，大概是被归到了 organizational leadership 这个话题之下。在 rhetorical 的话题下有一些做政治传播的学者，比如做 social movement 的 political discourse 的 [Noor Ghazal Aswad](https://cis.ua.edu/cis-theme-staff/dr-noor-ghazal-aswad/), 但总体看起来是比较偏修辞方向的。用传统方法的老师只有一位。
+
+   - [Cynthia Peacock](http://cpeacock.people.ua.edu/)会做一些媒介使用与选择性接触的研究，做了一些网络上的政治意见表达的内容。
 
 8. [North Carolina State University 北卡州立大学](https://crdm.chass.ncsu.edu/) 罗利真的是个很好的地方！学校门口就有麻辣烫和上海小吃，华人也多，学校非常漂亮，校车尤其漂亮。这个项目的全称叫 Communication, Rhetoric, and Digital Media，顾名思义可以看到不少的做修辞的老师。学院很大，如果我来总结的话会说，这个学院可能整体偏质化和修辞，但是在这下面也分成语言学的方向和 telecomm 的方向，与此同时也有一些做公共关系的老师。
 
 9. University of South Carolina - Columbia 南卡罗来纳大学-哥伦比亚
 
-10. American University
+10. American University, School of Communication
+
+    学校在 DC，有一个博士项目是 [PhD in Communication](https://www.american.edu/soc/communication-studies/phd/index.cfm)
 
 11. George Mason University, Department of Communication
 
@@ -56,7 +62,14 @@ toc: true
 
 15. University of Pittsburgh 匹兹堡大学
 
-16. UCSD
+    他们的 department of communication 项目非常小，只有[11个 research professor](https://www.comm.pitt.edu/people/research-faculty)。与此同时从 faculty 的研究内容来看，这所学校也是修辞传统的学校，比如看到了用修辞方法研究 political identity 的[Paul Elliott Johnson](https://www.comm.pitt.edu/person/paul-elliott-johnson-phd), 用修辞方法研究政治决定的 [David Marshall](https://www.comm.pitt.edu/person/david-l-marshall-phd), 用修辞方法研究 political fragmentation 中的 community resilience 的 [Calum Matheson](https://www.comm.pitt.edu/person/calum-matheson-phd)，总结起来真的蛮多的。整个学院也没有看到用量化方法的老师，基本上都是质化和修辞的老师。
+
+16. UCSD Department of Communication
+
+    可能是因为离湾区比较近吧，这所学校特别关注 communication technology 对传播的影响。[学院主页的研究领域特别多](https://communication.ucsd.edu/research/overview.html)，从 critical studies 的研究，到全球化与劳工，到性别研究，技术研究全都有。学院看起来非常强调跨学科的合作，有一个 lab 叫 democracy lab，做参与式民主的研究。而且这所学院基本上所有的 lab 都是轮年的，每年学生轮着来做 co-director 的工作。但是从 faculty 的研究看起来，其实并不是非常量化的学院，反而有大量的民族志研究方法和 critical studies 的研究方法。
+
+    - [Boatema Boateng](https://communication.ucsd.edu/people/faculty/boateng-boatema.html) 做了一些种族和性别相关的美国民主政治的研究，目前的研究兴趣在非洲黑人和美国黑人的土著性相关联的研究。
+    - [Angela Booker](https://communication.ucsd.edu/people/faculty/booker-angela.html) 做的研究有点像在《独自打保龄》那一批学术的影响下，美国青少年公民如何在社区进行政治参与的研究
 
 17. Texas Tech University  College of Media&Communication
 
@@ -91,6 +104,10 @@ toc: true
 23. Florida State University
 
 24. University of Central Florida, Nicholson School of Communication and Media
+
+25. Washington State University, [Murrow College of Communication](https://murrow.wsu.edu/)
+
+    
 
 
 

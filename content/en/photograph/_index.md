@@ -134,19 +134,7 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/atlanta/coca.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/atlanta/coco.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/atlanta/cola.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/atlanta/mine.jpg">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">

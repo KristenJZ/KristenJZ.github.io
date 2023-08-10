@@ -28,11 +28,17 @@ toc: true
 
    - [Leah Sprain](https://www.colorado.edu/cmci/people/communication/leah-sprain) 这位老师研究了一些 social movement 和activism的内容， 但是也主要是用修辞和话语分析的方法，特别关注 speech领域对democratic action 的影响。
 
-3. University of Arizona, Department of Communication
+3. [University of Arizona, Department of Communication](https://comm.arizona.edu/doctoral-program)
 
-   这所学校的人际传播、家庭传播和公关都属于强项。
+   这所学校的人际传播、家庭传播和公关都属于强项。他们的 PhD还要同时修读一个 minor 的方向，我没有仔细看 minor，但是看课程设置是非常科学的。[能带博士生的老师](https://comm.arizona.edu/core-faculty)并不是很多，只有16位，做政治传播的老师就更少了，我看下来有以下几位：
+
+   - [Kate Kenski](https://comm.arizona.edu/person/kate-kenski) 做公共政策相关的老师，这几年特别关注的有[社交媒体和选举的问题](https://www.tandfonline.com/doi/full/10.1080/15377857.2022.2099585?needAccess=true)，方法上还是做 panel survey 比较多，但也有不少和人合作的 computational methods，和同单位的 Dam Hee Kim 与 Steve Rains 有不少的合作。
+   - [**Dam Hee Kim**](https://damheekim.wixsite.com/website) 就是上面提到的这位老师啦，博士毕业于 UMich，主要关注的三个领域是 media diversity, social media & politics, the business of media。可能因为从 umich 毕业又是Weeks 那个实验室的，所以和 UCSB 的 Daniel Lane 也有不少的合作。做过一些社交媒体的可见性与政治运动、以及新闻分享和政治参与的话题。
+   - [Steve Rains](https://comm.arizona.edu/person/steve-rains)  主要是在做人际传播，且做了不少 infromation seeking 方面的工作，但也涉及到[civil engagement与社交媒体](https://www.tandfonline.com/doi/abs/10.1080/27671127.2023.2195467)方面的话题，也关注了美俄关系，特别是 conspiracy 方面的研究。
 
 4. Arizona State University, [Hugh Downs School of Human Communication](https://humancommunication.asu.edu/)
+
+   这是一个很大的学院，开有一个传播学博士点 [PhD in Communication](https://humancommunication.asu.edu/phd), 学院会把各种 research opportunity 更新在官网上，也会更新[教授们主要在做的项目](https://humancommunication.asu.edu/facultyprojects)。这个学院做 strategic comm 和 organizational comm 的老师非常多，比如大牛 [Sarah J. Tracy](https://search.asu.edu/profile/283948), 人际传播中的 conflict 研究和 Dating app 研究也是这个学院的重点，比如做 cyberdating & sexual culture 的 [Joris](https://search.asu.edu/profile/3701993)。但是我并没有看到什么做政治传播的老师，很遗憾。
 
 5. University of Kansas-Lawrence
 
@@ -46,13 +52,30 @@ toc: true
 
 8. [North Carolina State University 北卡州立大学](https://crdm.chass.ncsu.edu/) 罗利真的是个很好的地方！学校门口就有麻辣烫和上海小吃，华人也多，学校非常漂亮，校车尤其漂亮。这个项目的全称叫 Communication, Rhetoric, and Digital Media，顾名思义可以看到不少的做修辞的老师。学院很大，如果我来总结的话会说，这个学院可能整体偏质化和修辞，但是在这下面也分成语言学的方向和 telecomm 的方向，与此同时也有一些做公共关系的老师。
 
-9. University of South Carolina - Columbia 南卡罗来纳大学-哥伦比亚
+9. University of South Carolina - Columbia
+
+   这个学校有好几个传播学的博士点，都放在 [college of information and communication ](https://sc.edu/study/colleges_schools/cic/index.php)下面，分别叫[Communication Sciences and Disorders Ph.D.](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/communication-sciences-and-disorders-phd/index.php)和[Journalism and Mass Communications Ph.D.](https://sc.edu/study/colleges_schools/graduate_school/apply/degree_programs-application-requirements/journalism-mass-communications-phd/index.php), 前者很奇怪，说是全年随时都可以接受申请，后者也挺奇怪，说是春秋季都可以接受申请。而且这个学院的录取要求里面，特别写了要求有一年及以上在 Journalism 或者 mass comm领域有工作经验的人，然后还 prefer 有学过统计学的。mass comm 的项目和信息学院并置，老师基本上也有很多合作。学院页面非常不友好，我找了很久才找到[传播学的 faculty ](https://sc.edu/study/colleges_schools/cic/journalism_and_mass_communications/faculty/index.php)在哪里。
+
+   学院老师非常多，但是看起来做 PR 和health comm 的才是多数，和 University of Florida & Purdue 看起来有很多联系，不少老师出自这两个学校。除了一位老师是在政治传播领域做研究：
+
+   - [Jacob Long](https://jacob-long.com/) 做了一些political satire 影响政治讨论、政治 comedy 之类的话题，同时也关注 political polarization 和 partisan identity 的话题，Ohio State University出来的学生，在方法上有很多拓展，做了一些 [R 的工具](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=fi-oVkIAAAAJ&sortby=pubdate&citation_for_view=fi-oVkIAAAAJ:W7OEmFMy1HYC)应用于social network。
 
 10. American University, School of Communication
 
-    学校在 DC，有一个博士项目是 [PhD in Communication](https://www.american.edu/soc/communication-studies/phd/index.cfm)
+    有一个博士项目是 [PhD in Communication](https://www.american.edu/soc/communication-studies/phd/index.cfm)
 
-11. George Mason University, Department of Communication
+    这个项目首页就写了是研究 intersection of media, technology, and democracy，比较神奇的是这是一个加速的项目，首页直接写了会在三年之内完成这个项目，所以每年要上11个月的学习，老师们也集体要工作11个月，phd 第三年的时候必须要赶紧找工作、面试工作，听起来十分可怕，但他们的主页说有超过一半的学生是可以完成三年毕业这件事的。项目非常交叉学科，要求 committe里面至少有一位 outside the department 的老师，同时上的选修课也必须和outside department 的课程搭配。
+
+    学院有不少相关的实验室，比如 [internet governance lab](https://internetgovernancelab.org/)，关注平台治理和公共权力的问题。
+
+    
+
+11. George Mason University, [Department of Communication](https://communication.gmu.edu/programs/la-phd-com)
+
+    这所学院首页写的是，注重健康传播和 strategic comm，[能带博士生的有20位老师](https://communication.gmu.edu/people/tenure_line_faculty)，其中就有大名鼎鼎做 information seeking & health comm 的 [Gary Kreps](https://communication.gmu.edu/people/gkreps)，此外做climate change 相关的环境传播的学者相当多。在研究中涉及到政治传播的老师有以下：
+
+    - [Chris Clarke](https://communication.gmu.edu/people/cclark27): 整体上是做technology risk comm，但是在讨论这些话题时会加上 political identitity 的元素，比如研究 political identity 如何影响对[oil gas development](https://www.sciencedirect.com/science/article/abs/pii/S0301421516303925)的意见等等。
+    - [Samuel Robert Lichter](https://communication.gmu.edu/people/slichter)这位老师的主页上有一些做政府公关的内容，但是他可能把 google scholar关掉了，所以我没有找到太多有用的信息，只看到[他 supervise 的学生有做过 uncivil online comments 方面的内容](https://communication.gmu.edu/defenses/1361)
 
 12. University of Connecticut, Department of Communication
 

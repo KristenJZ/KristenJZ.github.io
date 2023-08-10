@@ -7,6 +7,10 @@ draft: false
 toc: true
 ---
 
+{{<block class="caution" >}}
+截止于2023年8月10日，这份 part1文档中的老师不再更新，老师们可能会换学校或者去各种别的去处，但是一个一个更新起来太累了，所以如果有更新的话，欢迎各位传播学学子在评论区留下自己的声音。感激不尽！
+{{< end >}}
+
 这份总结是我一时兴起，对[软科专排美国top50](https://www.shanghairanking.cn/rankings/gras/2021/RS0507)做political communication的faculty的学术进行了总结。给自己和后来者一些学术上的参考。与此同时，第二部分 tier3的总结我放在了另一份文档中，请点击这里查看：[软科专排UStop50含政治传播方向项目与老师总结(part2)](https://kristenjz.github.io/cn/2023/04/19/arwu-top50-political-comm-faculty/)。
 
 政治传播在美国是一个不太好找工作（好找工作还得是health comm, organizational comm, crisis comm），但是非常经典的方向。传播学起家就是在政治传播领域，所以也向来是硬碰硬大牛必争之地。量化的政治传播已经无限接近隔壁的政治科学（political science），计算大数据玩的花；质化的政治传播其实会比较倾向于regional study和public policy, 同时不少质化的政治传播老师也都展现出了对big data的兴趣。
@@ -454,7 +458,11 @@ University of Missouri 有两个和传播学相关的项目，一个是 Departme
 
 4）UMN 他们一共有三个 track，critical media studies, rhetorical studies, interpersonal & organizational communication，在第一和第二个 track 中有一些做政治传播的老师。比如做女性和移民政治组织的[Zornitsa Keremidchieva](https://cla.umn.edu/about/directory/profile/zkeremid)。
 
-U of Florida、U Baffolo、IOWA大概都应该在这个part，但是有没有政治传播的faculty...
+U of Florida、U Baffolo、IOWA大概都应该在这个tier，但是我没有仔细看这些学校，希望有同学会愿意在下面补充！
+
+
+
+
 
 
 

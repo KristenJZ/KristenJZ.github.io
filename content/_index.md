@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/image/Myself.jpg" caption="World Erotic Arts Museum, Miami. Photo by myself in December 2022. ">}}
+{{<figure src="/image/Myself.jpg">}}
 
 Welcome to my homepage! My name is Jing (Kristen) Zhang. I am now a second-year master's student in the [Department of Communication Studies at the University of North Carolina, Charlotte](https://communication.charlotte.edu/), supervised by [Prof. Min Jiang](https://pages.charlotte.edu/min-jiang/). Prior to embarking on my graduate study, I obtained a B.A. degree in communication studies from [the School of Journalism at Fudan University](http://www.xwxy.fudan.edu.cn/n1339/index.html) in 2021, advised by [Prof. Baohua Zhou](http://www.xwxy.fudan.edu.cn/dm/Show.aspx?info_lb=4&flag=4&info_id=7) and [Prof. Di Cui](https://www.researchgate.net/profile/Di-Cui-9). 
 

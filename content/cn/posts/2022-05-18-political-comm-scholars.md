@@ -440,7 +440,7 @@ University of Missouri 有两个和传播学相关的项目，一个是 Departme
 
 #### 14. University of Washington, Department of Communication
 
-华盛顿大学的主页一直非常拉好感，会把每年能知道下一届学生的faculty 列在主页上，还会把每年录取学生的平均 GRE 成绩、平均 GPA 成绩等列在主页上，这就让一切变得非常清楚，不会导致一些混乱，同时也能节约很多的时间来看学校。学校的几个大的主要方向上是有 political communication 的，同时该学校还会和 political science 部门（比如研究美国政治民主和 misinformation 的[Mark Alan Smith](http://faculty.washington.edu/masmith/))以及 ischool 部门有很多的合作，看起来可以说是非常理想的去处了。
+华盛顿大学的主页一直非常拉好感，会把每年能知道下一届学生的faculty 列在主页上，还会把每年录取学生的平均 GRE 成绩、平均 GPA 成绩等列在主页上，这就让一切变得非常清楚，不会导致一些混乱，同时也能节约很多的时间来看学校。学校的几个大的主要方向上是有 political communication 的，同时该学校还会和 political science 部门（比如研究美国政治民主和 misinformation 的[Mark Alan Smith](http://faculty.washington.edu/masmith/)以及 political science 部门的究极大牛 [Lance Bennett](https://www.polisci.washington.edu/people/w-lance-bennett))以及 ischool 部门有很多的合作，看起来可以说是非常理想的去处了。
 
 在 political communication 的方向中，做修辞的老师依然不少，比如 [Leah Ceccarelli](https://com.uw.edu/people/faculty/leah-ceccarelli/)和[Doug Underwood](https://com.uw.edu/people/faculty/doug-underwood/)。其他方法的老师也有，但除了 adjuct 的 Mark Smith 之外我没看到太多用计算方法的老师。
 

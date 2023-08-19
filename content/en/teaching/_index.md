@@ -24,6 +24,8 @@ toc: false
 - Managed online quizzes, exams, and discussions on Canvas.
 - Facilitate supplemental instruction sessions twice a week. More information about the SI sessions can be found here: [link](https://kristenjz.github.io/en/comm_2100/)
 
+{{<column>}}
+
 {{<endcolumn>}}
 
 #### ***COMM 3100: Communication Research Methods (Spring 2023)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 78 students)
@@ -33,14 +35,18 @@ toc: false
 - Mentored student literature review assignments.
 - Managed online discussions and grading on Canvas.
 
+{{<column>}}
+
 {{<endcolumn>}}
 
-#### COMM 1101: Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
+#### COMM 1101: ***Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
 
 {{<column>}}
 
 - Mentored student speech video assignments and managed grading on Canvas. 
 - Created [a playlist of tutorial videos](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) on Youtube to introduce and explain public speaking strategies: Attention-getting strategies, Using support and creating arguments, Media to use for presentation aids, Keynote speaking.
+
+{{<column>}}
 
 {{<endcolumn>}}
 
@@ -52,5 +58,7 @@ toc: false
 
 - Mentored class activity.
 - Organize the online lecture.
+
+{{<column>}}
 
 {{<endcolumn>}}

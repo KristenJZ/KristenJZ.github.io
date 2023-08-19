@@ -22,6 +22,10 @@ posts = "/posts/:year/:month/:day/:slug/"
 [[menu.en]]
     name = "Notes&Projects"
     url = "/en/notebooks/"
+    weight = 3 
+[[menu.en]]
+    name = "Teaching"
+    url = "/en/teaching/"
     weight = 4 
 [[menu.en]]
     name = "Posts"

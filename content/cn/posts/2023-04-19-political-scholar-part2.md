@@ -40,9 +40,28 @@ toc: true
 
    这是一个很大的学院，开有一个传播学博士点 [PhD in Communication](https://humancommunication.asu.edu/phd), 学院会把各种 research opportunity 更新在官网上，也会更新[教授们主要在做的项目](https://humancommunication.asu.edu/facultyprojects)。这个学院做 strategic comm 和 organizational comm 的老师非常多，比如大牛 [Sarah J. Tracy](https://search.asu.edu/profile/283948), 人际传播中的 conflict 研究和 Dating app 研究也是这个学院的重点，比如做 cyberdating & sexual culture 的 [Joris](https://search.asu.edu/profile/3701993)。但是我并没有看到什么做政治传播的老师，很遗憾。
 
-5. University of Kansas-Lawrence
+5. [University of Kansas-Lawrence](https://coms.ku.edu/)
+
+   这所学校也是以修辞见长的学校，项目不是很大，[program overview](https://coms.ku.edu/phd) 中提到，这边录取的博士生要最两个方面的内容，一是 relationship & social interaction, 二是 rhetoric & political communication，以下是 political communication 这个方向的老师：
+
+   - [Mary Banwart](https://coms.ku.edu/people/mary-banwart) 这位老师做一些政治选举和选举印象方面的研究，特别是做了 gender in campaign 中的影响相关的研究。方法上应该是偏量化一点。
+   - [Jay P. Childers](https://coms.ku.edu/jay-p-childers-cv) 主要做了一些青年人政治参与方面的内容，特别是在选举中的 engagement
+   - [Ashley Muddiman](https://coms.ku.edu/people/ashley-muddiman) 是 tier1的 UT-Austin 中的 Centerfor Media Engagement出身的老师，目前也是那个 lab 的 affiliated researcher, 这几年做了一些 covid-19期间的 misinformation 与 civic engagement 方面的内容，前几年有关注一些 clickbait, backlash 等影响 civic engagement 方面的内容。方法上偏向量化。
+   - [Alcided Velasquez](https://coms.ku.edu/people/alcides-velasquez) 这位老师的主页上，着重说了自己研究的两个核心方向，一是communication technology 的使用如何成为另一种制造不平等的工具，二是 social media 的社会和政治使用。用的是传统量化方法，看起来做了蛮多自己的故乡哥伦比亚的话题，也做了一些 immigration 相关的内容。
 
 6. Louisiana State University
+
+   这所学校和传播学有关的博士点有两个，一个是 [PhD in Media & Public Affairs](https://www.lsu.edu/manship/graduate-programs/degrees/media-public-affairs.php)，开在 [Manship School of Communication](https://www.lsu.edu/manship/index.php) 下面，另一个是开在 department of communication studies 下面的博士点 [PhD in communication studies](https://www.lsu.edu/hss/cmst/graduate/prospective_students.php)。第一个项目和 law school 并置，相对偏strategic comm；第二个项目比较偏向传统的传播学。
+
+   我将两个学院中涉及到政治传播的老师分开列出：
+
+   首先是 Manship 这个学院中的：
+
+   - [Nichole Bauer](https://www.lsu.edu/manship/people/faculty-staff/bauer.php) 这位老师做一些性别和政治选举方面的研究，比如经典的[性别刻板印象和支持女性候选人方面的研究](https://onlinelibrary.wiley.com/doi/abs/10.1111/pops.12186)，今年也发了 JOC，做的是[gendered context 对 campaign messages of female candidates 的塑造](https://academic.oup.com/joc/article-abstract/73/4/329/6982618)，方法上就是传统的量化。
+   - [**Ruth Moon**](http://www.ruthmoon.com/) 毕业于 UW 的年轻 AP，虽然有慢慢开始做公关的倾向，但是过去的几年一直有在做强政府+有限 technology infrastructure 国家的政治报道问题，也关注过中国，虽然只是做了[书评](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=wX3kv5gAAAAJ&sortby=pubdate&citation_for_view=wX3kv5gAAAAJ:3fE2CSJIrl8C)
+   - [Kathleen Searles](https://www.lsu.edu/manship/people/faculty-staff/searles.php) 同时隶属于Manship school 和 department of political science，和 Nichole 老师相似，都做过性别对政治 perception 影响的研究，看起来比较喜欢用panel survey和实验的方法进行研究。
+
+   其次是 department of communication ，该学院的首页写到他们着重的三个方向是Interpersonal Communication, Performance Studies, and Rhetoric and Cultural Studies。整个学院非常质化。我没有看到做政治传播相关的老师。
 
 7. University of Alabama 阿拉巴马大学
 
@@ -136,7 +155,7 @@ toc: true
 
 ## 排名较高的其他地区政治传播相关老师
 
-这些单列出来的原因在于，由于经济下行压力，很多地区的传播学PhD已经不再能够保证给到一个满足basic生活需要的funding package。我确实也见到了新加坡的人文社科博士拿到无奖的AD，虽然可以依靠申grant、进校再去做RA等过活，但是读博本身就是一件心理压力极大的事情，没有稳定的资金来源确实会让心理压力雪上加霜。不过从政治传播的领域，尤其是从中国本土政治传播的领域来看，其实这些学校的老师做的研究反而更加扎实，虽然可能没有那么 fancy，但是也不失为是很好的选择。
+这些单列出来的原因在于，由于经济下行压力，很多地区的传播学PhD已经不再能够保证给到一个满足basic生活需要的funding package。我确实也见到了新加坡的人文社科博士拿到无奖的AD，虽然可以依靠申grant、进校再去做RA等过活，但是读博本身就是一件心理压力极大的事情，没有稳定的资金来源确实会让心理压力雪上加霜。不过从政治传播的领域，尤其是从中国本土政治传播的领域来看，其实这些学校的老师做的研究反而更加扎实，不失为是很好的选择。
 
 1. CUHK
 2. CityU

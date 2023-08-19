@@ -1,6 +1,6 @@
 ---
 title: "COMM 2100 with Kristen"
-date: 2023-08-18T13:50:21+08:00
+date: 2023-08-11T13:50:21+08:00
 type : list-single
 toc: true
 ---
@@ -87,3 +87,4 @@ If you have any feedback or questions, please leave your review or comments here
         crossorigin="anonymous"
         async>
 </script>
+

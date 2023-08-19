@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2023-08-18T13:50:21+08:00
+date: 2023-08-11T13:50:21+08:00
 type : list-single
 toc: false
 ---
@@ -15,8 +15,8 @@ toc: false
 
 {{<figure-a src="/image/hello.png" link="https://kristenjz.github.io/en/comm_2100/" >}}
 
-- [Slides]()
-- [Student Feedback]()
+- [Slides](https://kristenjz.github.io/en/comm_2100/#slides)
+- [Student Feedback](https://kristenjz.github.io/en/comm_2100/#any-comment)
 
 {{<column>}}
 

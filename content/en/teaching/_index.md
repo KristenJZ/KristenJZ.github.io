@@ -28,8 +28,6 @@ toc: false
 
 {{<endcolumn>}}
 
-{{<endcolumns>}}
-
 #### ***COMM 3100: Communication Research Methods (Spring 2023)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 78 students)
 
 {{<column>}}

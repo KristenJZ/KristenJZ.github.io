@@ -30,7 +30,7 @@ toc: false
 
 #### ***COMM 3100: Communication Research Methods (Spring 2023)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 78 students)
 
-{{<column>}}
+{{<columns>}}
 
 - Mentored student literature review assignments.
 - Managed online discussions and grading on Canvas.
@@ -41,7 +41,7 @@ toc: false
 
 #### COMM 1101: ***Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
 
-{{<column>}}
+{{<columns>}}
 
 - Mentored student speech video assignments and managed grading on Canvas. 
 - Created [a playlist of tutorial videos](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) on Youtube to introduce and explain public speaking strategies: Attention-getting strategies, Using support and creating arguments, Media to use for presentation aids, Keynote speaking.
@@ -54,7 +54,7 @@ toc: false
 
 #### ***JOUR 120008: Introduction to Journalism (Spring 2020)*** (Undergraduate level; Instructor: [Dr. Di Cui](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/n1339/n1340/n1344/n1370/n1372/u1ai112758.html); Size: 75 students)
 
-{{<column>}}
+{{<columns>}}
 
 - Mentored class activity.
 - Organize the online lecture.

@@ -72,11 +72,13 @@ The order of these slide shows is only for reference. The organization of our SI
 - Week 15 (Nov 27 - Dec 3): Cultivation Theory + Agenda Setting
 - Week 16 (Dec 4 - Dec 7): Farewell.
 
-{{<endcolumn>}}
+{{<column>}}
 
-
+## Any Comment?
 
 If you have any feedback or questions, please leave your review or comments here! Any comment is welcome.
+
+{{<endcolumn>}}
 
 <script src="https://utteranc.es/client.js"
         repo="KristenJZ/KristenJZ.github.io"

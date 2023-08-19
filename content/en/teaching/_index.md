@@ -37,7 +37,7 @@ toc: false
 
 {{<column>}}
 
-#### COMM 1101: ***Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
+#### ***COMM 1101: Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
 
 {{<column>}}
 

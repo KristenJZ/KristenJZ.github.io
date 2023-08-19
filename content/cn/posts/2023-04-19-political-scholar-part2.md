@@ -115,7 +115,9 @@ toc: true
 
 17. Texas Tech University  College of Media&Communication
 
-18. Texas A&M 德州农工
+18. [Texas A&M 德州农工](https://liberalarts.tamu.edu/communication/?_ga=2.37574818.301819977.1692414974-241547816.1691593353&_gl=1%2A1exl1wx%2A_ga%2AMjQxNTQ3ODE2LjE2OTE1OTMzNTM.%2A_ga_SJ5GMN0ZQL%2AMTY5MjQxNDk3My4xLjEuMTY5MjQxNTA4NS4yNy4wLjA.)
+
+    
 
 19. University of Geogia
 

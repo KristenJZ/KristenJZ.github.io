@@ -24,8 +24,6 @@ Office hours: Tuesdays, 2 - 4 PM. Appointment ahead of time would be better.
 
 {{<endcolumn>}}
 
-{{<endcolumns>}}
-
 ## Short Syllabus for SI Sessions
 
 {{<column>}}

@@ -10,17 +10,17 @@ toc: true
 
 {{<figure-a src="/image/hello.png">}}
 
-{{<column>}}
-
-Welcome to the website for of session - *COMM 2100: Introduction to Comm Theory (Fall 2023)*. My name is Kristen (Jing) Zhang. I am your GTA for COMM 2100 this fall. You can find all information about our SI session here. During the sessions, I encourage you to express your opinions on every question and discuss with your peers. 
-
-SI session: Mondays, 11 AM - 12 PM, CHHS 161; Thursdays, 3:30 - 4:30 PM, CHHS 380. 
-
 Contact me: jzhang77@charlotte.edu
 
 Office: COLVARD 5043
 
 Office hours: Tuesdays, 2 - 4 PM. Appointment ahead of time would be better. 
+
+{{<column>}}
+
+Welcome to the website for of session - *COMM 2100: Introduction to Comm Theory (Fall 2023)*. My name is Kristen (Jing) Zhang. I am your GTA for COMM 2100 this fall. You can find all information about our SI session here. During the sessions, I encourage you to express your opinions on every question and discuss with your peers. 
+
+SI session: Mondays, 11 AM - 12 PM, CHHS 161; Thursdays, 3:30 - 4:30 PM, CHHS 380. 
 
 {{<endcolumn>}}
 
@@ -47,7 +47,7 @@ Other GTA policies:
 - I am not responsible for grading. If you have any questions regarding assignment, discussion, or exam grading, I'd be happy to help you get in touch with [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/).
 - If you require a response to your email, please allow me at least 24 hours to reply. I typically respond promptly. If you haven't received a response after 48 hours, please send a follow-up.
 
-{{<endcolumn>}}
+{{<column>}}
 
 ## Slides
 

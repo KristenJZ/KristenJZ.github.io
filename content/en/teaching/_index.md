@@ -37,8 +37,6 @@ toc: false
 
 {{<column>}}
 
-{{<endcolumn>}}
-
 #### COMM 1101: ***Public Speaking (Fall 2022)*** (Undergraduate level; Instructor: [Dr. Brandy Stamper](https://pages.charlotte.edu/brandy-stamper/); Size: 22 students)
 
 {{<column>}}
@@ -47,8 +45,6 @@ toc: false
 - Created [a playlist of tutorial videos](https://www.youtube.com/watch?v=XqDUNo9Qy5E&list=PL_Q8KSxkpW2XvVG8qvH9NMsRqXuXDYMsj) on Youtube to introduce and explain public speaking strategies: Attention-getting strategies, Using support and creating arguments, Media to use for presentation aids, Keynote speaking.
 
 {{<column>}}
-
-{{<endcolumn>}}
 
 ### 2) [Journalism School](http://www.xwxy.fudan.edu.cn/n1339/index.html), Fudan University, Shanghai, China
 

@@ -38,7 +38,7 @@ Session policies:
 
 - Bring your textbook, supplementary materials, and notes to SI sessions. Reading the session slides before class can generate insightful discussions.
 - Show respect, whether it's towards your classmates or your TA. Pay attention and actively participate in discussions when they speak. Most importantly, don't let your phone and social media disrupt you during the session!
-- Attendence: Students are required to attend four SI Sessions throughout the semester for a participation grade, worth 5 points each session. Be prepared to show your Student ID Card (physical or mobile). However, students are strongly encouraged to attend SI sessions more frequently to gain maximum comprehension and application benefits.
+- Attendance: Students are required to attend four SI Sessions throughout the semester for a participation grade, worth 5 points each session. Be prepared to show your Student ID Card (physical or mobile). However, students are strongly encouraged to attend SI sessions more frequently to gain maximum comprehension and application benefits.
 - Generally, the content discussed in the sessions on Tuesday and Thursday is the same. So, if you want to participate, please choose either one to attend. There's no need to come on both Tuesday and Thursday.
 
 Other GTA policies:
@@ -55,7 +55,7 @@ Other GTA policies:
 
 The order of these slide shows is only for reference. The organization of our SI sessions is flexible, and we can decide on the day whether to discuss the topics of the current week or the topics from the previous or following weeks.
 
-- Week 1 (Aug 21 - Aug 27): Kick off and What is Theory?
+- Week 1 (Aug 21 - Aug 27): [Kick off and What is Theory?](https://kristenjz.github.io/file/comm_2100/week_1.pdf)
 - Week 2 (Aug 28 - Sept 3): Theory Traditions
 - Week 3 (Sept 4 - Sept 10): Symbolic Interactionism + Expectancy Violations Theory
 - Week 4 (Sept 11 - Sept 17): Social Penetration Theory + Uncertainty Reduction Theory
@@ -87,4 +87,3 @@ If you have any feedback or questions, please leave your review or comments here
         crossorigin="anonymous"
         async>
 </script>
-

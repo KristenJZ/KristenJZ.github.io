@@ -1,11 +1,11 @@
 ---
 title: "Teaching"
 date: 2023-08-11T13:50:21+08:00
-type : list-single
+type : nolisting
 toc: false
 ---
 
-## 1. Teaching Assistant Experience
+## Teaching Assistant Experience
 
 ### 1) [Department of Communication Studies](https://communication.charlotte.edu/), University of North Carolina at Charlotte, Charlotte, NC
 

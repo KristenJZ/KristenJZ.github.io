@@ -96,7 +96,13 @@ toc: true
     - [Chris Clarke](https://communication.gmu.edu/people/cclark27): 整体上是做technology risk comm，但是在讨论这些话题时会加上 political identitity 的元素，比如研究 political identity 如何影响对[oil gas development](https://www.sciencedirect.com/science/article/abs/pii/S0301421516303925)的意见等等。
     - [Samuel Robert Lichter](https://communication.gmu.edu/people/slichter)这位老师的主页上有一些做政府公关的内容，但是他可能把 google scholar关掉了，所以我没有找到太多有用的信息，只看到[他 supervise 的学生有做过 uncivil online comments 方面的内容](https://communication.gmu.edu/defenses/1361)
 
-12. University of Connecticut, Department of Communication
+12. [University of Connecticut, Department of Communication](https://comm.uconn.edu/graduate/overview/phd/)
+
+    这个项目在各种程度上都是挺注重量化的一个项目，在录取要求中明确写到需要有 quantitative competency 的证明，比如上过统计课程等等。在项目的首页中，列出了六个主要的 track：interpersonal comm, marketing comm, mass comm, new communication technology track, nonverbal comm track, & persuasion track. 每个 track 的选课设置有所不同，另外还有两个主要的 specility area: health comm, 和political comm。
+
+    [学院的老师](https://comm.uconn.edu/faculty/)并不多，目前一共是24位老师，大概看了一眼[graduate student](https://comm.uconn.edu/grad-students/)觉得中国学生还挺多，有五六个。
+
+    
 
 13. Syracuse University 雪城大学 S.I. Newhouse School of Public Communications
 

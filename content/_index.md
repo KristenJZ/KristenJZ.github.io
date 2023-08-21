@@ -17,5 +17,5 @@ Currently, I am collaborating with [Prof. Min Jiang](https://pages.charlotte.edu
 
 
 Email: jzhang77@charlotte.edu\
-URL: [kristenjz.github.io](https://kristenjz.github.io/)
+URL: [kristenjz.com](https://kristenjz.com/)
 

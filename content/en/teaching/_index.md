@@ -13,7 +13,7 @@ toc: false
 
 {{<columns>}}
 
-{{<figure-a src="/image/hello.png" link="https://kristenjz.github.io/en/comm_2100/" >}}
+{{<figure-a src="/image/hello.png" link="https://comm2100.kristenjz.com/" >}}
 
 {{<column>}}
 
@@ -21,7 +21,7 @@ toc: false
 - Managed online quizzes, exams, and discussions on Canvas.
 - Facilitate supplemental instruction sessions twice a week. More information about the SI sessions can be found here: [link](https://comm2100.kristenjz.com/)
 
-[Slides](https://kristenjz.github.io/en/comm_2100/#slides) | [Student Feedback](https://kristenjz.github.io/en/comm_2100/#any-comment) | [Code](https://github.com/KristenJZ/comm2100)
+[Slides](https://comm2100.kristenjz.com/slides/) | [Code](https://github.com/KristenJZ/comm2100)
 
 {{<endcolumn>}}
 

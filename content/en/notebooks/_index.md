@@ -12,7 +12,9 @@ toc: true
 
 {{<figure-a src="/image/cc_rise.jpg">}}
 
-[github repository](https://github.com/KristenJZ/Computational-communication-science-note) | [website]()
+- [github repository](https://github.com/KristenJZ/Computational-communication-science-note) 
+
+- [website]()
 
 {{<column>}}
 
@@ -32,7 +34,9 @@ I applied to the computational social science summer program made by SICSS in Ap
 
 {{<figure-a src="/image/collaboration.png">}}
 
-[github repository](https://github.com/hongtaoh/ica_authors) | [data](https://osf.io/8bszj/?view_only=4f7ab87e834045d08eddf4dafb0ceffa) | [pdf](https://kristenjz.github.io/file/ICA2023_CompMethods.pdf)
+- [github repository](https://github.com/hongtaoh/ica_authors) 
+- [data](https://osf.io/8bszj/?view_only=4f7ab87e834045d08eddf4dafb0ceffa)
+- [pdf](https://kristenjz.github.io/file/ICA2023_CompMethods.pdf)
 
 {{<column>}}
 
@@ -43,4 +47,22 @@ I applied to the computational social science summer program made by SICSS in Ap
 The earlier version of this paper which deals with data from 2000 to 2022 was accepted by the 73rd International Communication Association (ICA) Conference in 2023.
 
 {{<endcolumn>}}
+
+## Tutorials
+
+### 1. COMM2100 with Kristen
+
+{{<columns>}}
+
+{{<figure-a src="/image/hello.png" link="https://comm2100.kristenjz.com/" >}}
+
+- [website](https://comm2100.kristenjz.com/)
+- [slides](https://comm2100.kristenjz.com/slides/)
+- [code](https://github.com/KristenJZ/comm2100)
+
+{{<column>}}
+
+This is the class SI session website for my students enrolled in *COMM2100 Introduction to Comm Theory* at the University of North Carolina at Charlotte, 2023 Fall. During the sessions, I lead discussions among students and reinforce the knowledge that students learned on lectures. 
+
+- Class size: 115 students.
 

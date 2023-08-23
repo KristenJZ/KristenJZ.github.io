@@ -121,6 +121,10 @@ toc: true
 
 17. Texas Tech University  College of Media&Communication
 
+    这个学校很神奇，有三个学院都有传播学的博士点。分别是 [college media & communication](https://www.depts.ttu.edu/comc/)，[department of english](https://www.depts.ttu.edu/english/programs_degrees/phd/tcr/index.php)，他们的博士点叫做 phd in technical communication; 还有[Department of Agricultural Education & Communication](https://www.depts.ttu.edu/aged/grad/gen_info.php)下的，提供一个叫 Doctor of Philosophy in Agricultural Communications and Education的学位。
+
+    
+
 18. [Texas A&M 德州农工](https://liberalarts.tamu.edu/communication/?_ga=2.37574818.301819977.1692414974-241547816.1691593353&_gl=1%2A1exl1wx%2A_ga%2AMjQxNTQ3ODE2LjE2OTE1OTMzNTM.%2A_ga_SJ5GMN0ZQL%2AMTY5MjQxNDk3My4xLjEuMTY5MjQxNTA4NS4yNy4wLjA.)
 
     

@@ -106,7 +106,17 @@ toc: true
 
 13. Syracuse University 雪城大学 S.I. Newhouse School of Public Communications
 
+    我初入传播学的时候就有所耳闻，雪城的修辞非常厉害。
+
+    
+
 14. Temple University 天普大学
+
+    Temple一共有两个传播学相关的 phd 项目，一个是 [PhD in Media and Communication](https://www.temple.edu/academics/degree-programs/media-and-communication-phd-co-mdcm-phd),另一个是[PhD in communication sciences and disorders](https://bulletin.temple.edu/graduate/scd/cph/communication-sciences-disorders-phd/)。第二个项目和临床关系很密切，上的课中也要有很多 biostatistics, language speaking、心理学等等的课程。第一个项目则更像传统的我们定义中的传播学学科，位于 [Klein College of Media and Communication](https://klein.temple.edu/about/faculty-staff/doctoral-program-faculty) 之下，主页中写到他们的主要方向有: communication effects and psychological processes, emerging media and technology, global media & social change, journalism studies, media identity and representation, the media industry, political comm, popular comm，实在是一个非常大的项目。我将第一个项目中涉及政治传播的老师列在下面 ：
+
+    - [Robert Lance Holbert](https://klein.temple.edu/directory/robert-l-holbert-tuf79463) 关注政治传播中的媒介说服，比如对选举的影响，parasocial relationship intensity 的情况，这几年牵头不少 covid-19的话题，但我没看出来这个和他之前的研究方向的关系。方法上就是传统的 survey。
+    - [Heather Lamarre](https://klein.temple.edu/directory/heather-lamarre-tuf30092) 关注一些政治讽刺和政治娱乐相关的话题，也关注政治讽刺语气等的作用，但是这几年有慢慢往 media psychology 和health comm 的方向去转。
+    - **Clemencia Rodriguez** 你可能不知道她的名字，但一定听过她的citizen media 研究和 alternative media 研究，这几年挺低产了，但是有 citizen media的研究已经挺够吃一辈子了。
 
 15. University of Pittsburgh 匹兹堡大学
 
@@ -127,7 +137,9 @@ toc: true
 
 18. [Texas A&M 德州农工](https://liberalarts.tamu.edu/communication/?_ga=2.37574818.301819977.1692414974-241547816.1691593353&_gl=1%2A1exl1wx%2A_ga%2AMjQxNTQ3ODE2LjE2OTE1OTMzNTM.%2A_ga_SJ5GMN0ZQL%2AMTY5MjQxNDk3My4xLjEuMTY5MjQxNTA4NS4yNy4wLjA.)
 
-    
+    这所学校的传播学中不少老师兴趣点也是在 rhetoric，基本上也都是用修辞的视角来研究政治传播。比如，用修辞来研究政治人物提升自己合法性的研究的[Leroy Dorsey](https://liberalarts.tamu.edu/communication/profile/leroy-g-dorsey/)，用修辞方法研究女性选举和女性政治参与权益的 [Tasha Dubriwny](https://liberalarts.tamu.edu/communication/profile/tasha-n-dubriwny/)，用修辞方法来研究总统和政治稳定的 [Jennifer Mercieca](https://liberalarts.tamu.edu/communication/profile/jennifer-mercieca/)，用修辞方法来研究19世纪美国的公共记忆和社会运动的 [Kristan Poirot](https://liberalarts.tamu.edu/communication/profile/kristan-poirot/)。只有一位 AP 落在了用大数据方法研究政治传播的领域上：
+
+    - [Yunkang Yang](https://www.yangyunkang.com/) 主要做美国右派媒体，misinformation 和社交媒体的话题。看起来年纪轻轻已经开始写书了，对自己的发表要求应该很高，都是顶刊。比如发表在 JOC 的这一篇[visual misinformation on Facebook](https://academic.oup.com/joc/article/73/4/316/7060057?guestAccessKey=feba5002-abd8-45d0-a725-44b8014de067&login=false&utm_source=authortollfreelink&utm_campaign=joc&utm_medium=email)，探讨左倾和右倾的图片总体上来说和和公共人物相关的图片中 misinformation 的含量（右派当然远远高于左派）。
 
 19. University of Geogia
 

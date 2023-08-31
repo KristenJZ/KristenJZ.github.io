@@ -104,11 +104,11 @@ toc: true
 
     
 
-13. Syracuse University 雪城大学 S.I. Newhouse School of Public Communications
+13. Syracuse University 雪城大学 [S.I. Newhouse School of Public Communications](https://newhouse.syracuse.edu/academics/mass-communications/doctoral/)
 
-    我初入传播学的时候就有所耳闻，雪城的修辞非常厉害。
+    我初入传播学的时候就有所耳闻，雪城的修辞非常厉害。他们开的一个传播学项目就是在 S.I. Newhouse School of public communication 之下的。但是课里面并没有看出来对修辞的太多偏好，甚至也要修读6学分的统计课，总体上来说这个项目是很大众传播取向的，做 PR 的老师尤其多。我只发现了一位做政治传播的老师：
 
-    
+    - [Lars Willnat](https://newhouse.syracuse.edu/people/lars-willnat) 做媒体和美国的政治民主的，这几年有做不少对中国的研究，大多是美国的政治媒体如何影响美国人对中国的感知和对 US-China 贸易战的感受的研究，如这几篇：[News exposure and American's perceptions of China](https://www.degruyter.com/document/doi/10.1515/omgc-2022-0067/html), [media use and American's perceptions on immigrants](https://www.tandfonline.com/doi/full/10.1080/08838151.2023.2173196)。方法上就是传统的 survey。 
 
 14. Temple University 天普大学
 
@@ -156,9 +156,11 @@ toc: true
     - [**Itai Himelboim**](https://grady.uga.edu/faculty/itai-himelboim/)这位老师做过不少用大数据的方法来研究社交媒体上的信息流动记忆政治传播的研究，虽然看起来这几年开始讨论一些技术话题了，但是仍然在推动大数据和社交媒体这一块的内容，有一些方法上的讨论。
     - [Wunpini Fatimata Mohammed](https://grady.uga.edu/faculty/mohammed/) 这位老师有关注一些女性主义和去殖民化的话题。
 
-20. George State University
+20. Georgia State University
 
-    博士有两个方向：Media and Society, Persuasion and Politics。
+    位于文理学院下面有一个博士项目：[PhD in public communication](https://cas.gsu.edu/program/communication-studies-phd/)，项目的主页上列了几乎我在这个世界上能想到的关于传播学的所有方向：International media and politics， Health communication，strategic comm，Media effects and psychology等等都有所涉及。主页中还列出了不少的 [research hub](https://cas.gsu.edu/research/hubs/)，看起来很有学术共同体的感觉。[faculty](https://communication.gsu.edu/directory/?wpvrole=faculty&wpv_aux_current_post_id=5266&wpv_view_count=326-TCPID5266) 非常多，真的是大学院的感觉。
+
+    
 
 21. [University of Miami 迈阿密大学 School of Communication](https://com.miami.edu/phd-communication/)  这个学院坐落于几乎是迈阿密市中心的地方，生活可以说是多姿多彩。看起来现有的学生中中国人很多，可能是对华人比较友好的学校。主页上学院列举的方向很多，communication & tech, health comm, environmental comm, intercultural comm, global comm, comm and social change 等等都有。这个学院里面有好几个部门，比如 comm studies, strategic comm，cinema arts，还有人机交互相关的内容，研究和实践方向的老师都有一些。这个学院比较奇怪的是，他们的PhD 申请是没有网申的，全部是邮件或者是线下寄送。
 

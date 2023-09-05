@@ -9,7 +9,7 @@ toc: false
 
 ### 1) [Department of Communication Studies](https://communication.charlotte.edu/), University of North Carolina at Charlotte, Charlotte, NC
 
-#### ***COMM 2100: Introduction to Communication Theory (Fall 2023)*** (Undergraduate level; Instructor: [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/); Size: 115 students)
+#### ***COMM 2100: Introduction to Communication Theory (Fall 2023)*** (Undergraduate level; Instructor: [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/); Size: 125 students)
 
 {{<columns>}}
 
@@ -44,5 +44,4 @@ toc: false
 
 - Mentored class activity.
 - Organize the online lecture.
-
 

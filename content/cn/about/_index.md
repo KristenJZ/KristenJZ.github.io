@@ -16,13 +16,7 @@ toc: true
 ## 我的联系方式
 ### 邮箱
 
-- 目前在国内最常用的邮箱：jingzh_fdu@126.com
-
-- 每天会查看的学校邮箱：jzhang77@uncc.edu
-
-### 微信
-
-- 北京时间的18-20点会回复微信
+- jzhang77@charlotte.edu
 
 ## 我的经历
 

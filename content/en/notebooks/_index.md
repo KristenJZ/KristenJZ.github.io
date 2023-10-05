@@ -66,7 +66,7 @@ The earlier version of this paper which deals with data from 2000 to 2022 was ac
 
 {{<columns>}}
 
-{{<figure-a src="/image/negative_comment">}}
+{{<figure-a src="/image/negative_comment.png">}}
 
 - The github repository, dataset, and document were hidden because this manuscript is under review. 
 

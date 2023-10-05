@@ -24,9 +24,23 @@ I applied to the computational social science summer program made by SICSS in Ap
 
 {{<endcolumn>}}
 
+### 2. Notes on Advanced Statistics in R
+
+{{<columns>}}
+
+{{<figure-a src="/image/rnotes.png">}}
+
+- [github repository](https://github.com/KristenJZ/Advanced-Statistics-within-R)
+
+{{<column>}}
+
+This is a statistics notebook based on RSCH8120: Advanced Statistics instructed by [Dr. Kyle Cox](https://edld.charlotte.edu/directory/kyle-cox/) at UNC Charlotte. I was taking his class during the semester of Fall 2023. The github repository provided my notes on the class and my submitted assignments. Notes covering: ANOVA, ANCOVA, Factorial ANOVA, Repeated ANOVA, Effect size and power, Assumptions, Correlation, Regression, Multiple regression, Logistic regression, SEM, MLM.
+
+{{<endcolumn>}}
+
 ***
 
-## Project
+## Projects
 
 ### 1. Composition of and Collaboration Among Communication Scholars in Seventy Years of ICA Journals (1951-2022)
 
@@ -45,6 +59,22 @@ I applied to the computational social science summer program made by SICSS in Ap
 [Haley R Hatfield](http://haleyrhatfield.com/), [Hongtao Hao](https://hongtaoh.com/), [Jing Zhang](https://kristenjz.github.io/), Matthew S Klein, Yijie Fu, Jaemin Kim, Jongmin Lee, [Sun Joo (Grace) Ahn](https://grady.uga.edu/faculty/sun-joo-grace-ahn/)
 
 The earlier version of this paper which deals with data from 2000 to 2022 was accepted by the 73rd International Communication Association (ICA) Conference in 2023.
+
+{{<endcolumn>}}
+
+### 2. Neighborhood Crime and Safety Discussions on Nextdoor
+
+{{<columns>}}
+
+{{<figure-a src="/image/negative_comment">}}
+
+- The github repository, dataset, and document were hidden because this manuscript is under review. 
+
+{{<column>}}
+
+**Examining Public Emotions and Sentiments in Neighborhood Crime and Safety Discussions on Nextdoor**
+
+[Jing Zhang](https://kristenjz.com/), [Di Zhang](https://zhangdistephen.github.io/), Audrey Curry, [Bianca Reisdorf](https://www.biancareisdorf.com/)
 
 {{<endcolumn>}}
 

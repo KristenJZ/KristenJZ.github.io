@@ -1,0 +1,44 @@
+---
+title: "Synthesis: Memory, Pulling the Past into the Understanding of the Present"
+date: 2023-11-12T19:51:04-04:00
+author: "KristenJZ"
+slug: memory-media-technology
+draft: false
+toc: true
+---
+
+{{<block class="note">}}
+This synthesis was a course assignment in [Dr. Jiang's](https://pages.charlotte.edu/min-jiang/) 2023 Fall COMM6000: Media Technology, Form, Feeling, Force.
+{{<end>}}
+
+## Introduction
+
+​	Schrag (2016) defined memory as “a process of narrating and making sense of experience, of storage and recovery, at both individual and collective levels” (p. 206). This definition underscores memory as not just an individual endeavor but a profoundly social one, where personal recollections are intricately woven into collective narratives, serving as our shared evidence of historical events. Nevertheless, collective memory is never a mere representation of historical facts; instead, it functions as a means to interpret the past in the context of contemporary politics and power dynamics. In this synthesis, I will explore three key facets of this complex interplay: the role of digital media in memory preservation, the global and local dimensions of memory, and the influence of power dynamics on shaping collective memory.
+
+## **Media Carrier: Digital Media and the Stability of Memory**
+
+​	Long before the era of digital media, the externalization of memory within any media carriers, the following cultural products, and its influence on the subjectivity of mankind were discussed by philosophers. Plato, in the era of written records, as well as Adorno and Benjamin, in the era of telecommunication and broadcast, delved into these discussions. Some philosophers, echoing the skepticism articulated by Plato, such as Schrag (2016), expressed doubts about any attempts to externalize memory. Conversely, others, in the vein of Benjamin, maintained optimism about the reproduction of cultural memories, a sentiment shared by Huyssen (2000). The former group believed that the efforts to externalize memory would cause forgetting. In the era of digital media, the proliferation of fast-paced cultural products makes the risk of forgetting memories larger. Here is a dilemma presented in Huyssen’s (2000) work: Since World War II, tons of pop culture products have emerged to reinforce our memory of the Holocaust and World War. However, it appears that the boom of cultural products encouraged the boom of forgetting. Furthermore, the advent of digital media has altered human perceptions of time and space, provoking a sense of tension and discomfort that compels individuals to revisit the past in search of solace, to find an anchor in the increasing instability of time and fractures of life space (Huyssen, 2000). 
+
+​    The use of “musealization” by Huyssen (2000) refers to that everything was stored as a memory in everyday life and the storage happened beyond the institution of museums. However, it is essential to recognize that musealization does not equate to stability. For instance, while social media and the internet may seem like vast archives of memory, the emergence of ephemeral platforms like Snapchat has introduced norms that prioritize fleeting and transitory experiences. In this digital age, the preservation and ephemerality of memory are intricately intertwined within the ever-evolving landscape of media and technology. This dynamic leads us to resonate with Benjamin's perspective, one that Huyssen (2000) also embraces – the idea that memory, in and of itself, is inherently unstable. In the digital space, we must acknowledge and accept the abundance of unstable memories that are constantly in flux.
+
+## **Memory: Global vs. Local**
+
+​	Memory, as Zelizer (2011) aptly points out, originates from the “local setting, local population, and local experience (p. 28). Major historical events like the Holocaust, crises, disasters, and catastrophes, while having their roots in local contexts, have been memorized, represented, and disseminated to a global audience. The advent of digital media has accelerated this process. However, there are growing concerns among scholars about the consequences of memory globalization. No notable tendencies emerge in the globalization of local memory: simplification and symbolization. The simplification is driven by the fast-paced media environment demanding instant memory out of impulse, rather than the accurate reflection of reality (Zelizer, 2011). Furthermore, the hegemony of Western media exacerbates the simplification, because Western media employ past memory to guide today’s news report and future memory construction, which can cause partial and erroneous interpretations of the local memory (Zelizer, 2011). On the other hand, symbolization is formed because some globalized memories, like the Holocaust, could transfer into metaphors, and are applied to understand various forms of trauma, without considering the specific local histories and situations (Huyssen, 2000). The global dissemination of human memory has given rise to a paradox wherein local and national memories risk being marginalized, further exacerbated by global power dynamics.
+
+## **Power Dynamics in Memory**
+
+​	The understanding of power dynamics in memory can harken back to the Adorno-Benjamin debate regarding the role of cultural products in power control or resistance. Adorno believed that cultural products were the tools of hegemonic power, while Benjamin believed that cultural products had the potential to free people from authority and offer them the opportunity to reconstruct and recode culture. This classic relationship within power dynamics, between control and empowerment, remains relevant in contemporary discussions. I will follow the relationship to discuss the power dynamics appearing in the three articles: the role of digital media as an extension or surrogate of human agency and the dynamics surrounding Western media's influence on a global scale.
+
+​    Schrag (2016) delves into the intricacies of technology institutional dynamics. On one hand, the all-encompassing nature of the internet comes with issues of surveillance and data control. On the other, the emergence of ephemeral technologies like Snapchat exemplifies how societal norms, favoring the fleeting nature of records, can shape the design of digital media. When examining the relationship between Western media and others, Zelizer (2011) adopts a pessimistic viewpoint, highlighting the hegemonic influence of Western media in reporting news from various regions in the global flow of information. Zelizer outlines the four stages of the "cannibalization of memory": minimalization, substitution, displacement, and transportation. Throughout these stages, collective memories are formed through the lens of Western media, often conforming to Western expectations. This tension between global and national memory poses challenges for local political contexts (Huyssen, 2000). However, it is important to consider the evolving landscape of media and technology. Contemporary platforms such as TikTok and Twitter have the potential to disrupt the hegemonic status of Western media, granting greater voice to local communities for the representation of their memories and narratives. This evolving landscape suggests a potential shift in power dynamics, as the dynamics of control and empowerment adapt to the digital age.
+
+## Conclusion
+
+​	The discourse surrounding technology and mass communication often commences with a chorus of pessimism, marked by concerns about the reinforcement of existing power structures (e.g., Zelizer, 2011) and the potential for technology to serve as a surrogate for human agency (e.g., Schrag, 2016). In the realm of memory, the inevitable dialogue tends to revolve around the construction and fragility of collective memory, even when flawed, and the surveillance of memories within the digital domain (e.g., Hyussen, 2000; Schrag, 2016; Zelizer, 2011). It echos the classic judgment from 1984, “who controls the past controls the future; who controls the present controls the past”. However, the outlook offered by Hyussen (2000) on the future of digital media adds a unique perspective. Questions have perpetually existed before, during, and after the age of digital media. Instead of fixating solely on the future of memory, perhaps it's worthwhile to consider the future at large.
+
+## References
+
+Huyssen, A. (2000). Present pasts: Media, politics, amnesia. Download Present pasts: Media, politics, amnesia. *Public Culture, 12*(1), 21–38.
+
+Schrag, S. (2016). Memory download memory. In B. Peters (ed.) *Digital keywords* (pp.184–196). Princeton University Press.
+
+Zelizer, B. (2011). Cannibalizing memory in the global flow of news Download Cannibalizing memory in the global flow of news. In M. Neiger, O. Meyers & E. Zandberg (eds.), *On media memory: Collective memory in a new media age* (pp. 27–36). Palgrave Macmillan.

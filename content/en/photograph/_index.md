@@ -4,7 +4,54 @@ date: 2022-05-06T13:50:21+08:00
 type : nolisting
 toc: true
 ---
-# New York, NY, December 2022
+# Washington D.C., November 2023
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1005.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1011.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1016.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1043.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1047.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1059.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1060.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1061.jpeg">}}
+</div>
+
+<div class="row">
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/dc/IMG_1064.jpeg">}}
+</div>
+
+# NY, New York City, December 2022
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">

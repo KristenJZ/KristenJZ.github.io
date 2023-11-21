@@ -20,7 +20,7 @@ toc: true
 
 [1] **Zhang, J.** (Oct 2020). "News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China." *Conference paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China.* {[pdf](https://kristenjz.com/file/ICApost2020_NewMedia.pdf)}
 
-## Topic 4: Publication as Academic Service
+## Topic 4: Publication can be Service
 
 [1] Hatfield, H. R., Hao, H., Klein, M. S., Fu, Y., **Zhang, J.**, Kim, J., Lee, J., Ahn, S. J. (Second-round Review). "Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).” *Journal of Communication.*
 

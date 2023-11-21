@@ -20,25 +20,29 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "https://kristenjz.github.io/file/Kristen_Academic_CV.pdf"
     weight = 2
 [[menu.en]]
+    name = "Research"
+    url = "/en/research/"
+    weight = 3 
+[[menu.en]]
     name = "Notes&Projects"
     url = "/en/notebooks/"
-    weight = 3 
+    weight = 4 
 [[menu.en]]
     name = "Teaching"
     url = "/en/teaching/"
-    weight = 4 
+    weight = 5 
 [[menu.en]]
     name = "Posts"
     url = "/en/posts/"
-    weight = 5
+    weight = 6
 [[menu.en]]
     name = "Photography"
     url = "/en/photograph"
-    weight = 6
+    weight = 7
 [[menu.en]]
     name = "中文"
     url = "/cn/posts/"
-    weight = 7
+    weight = 8
 [[menu.cn]]
     name = "关于"
     url = "/cn/about/"

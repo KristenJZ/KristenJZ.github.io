@@ -4,7 +4,7 @@ date: 2022-05-06T13:50:21+08:00
 type : nolisting
 toc: true
 ---
-## Topic 1: Technology Adoption and Risk
+## Topic 1: Technology Adoption and Media Effects
 
 [2] **Zhang, J.***, Liu, R. 2023. "Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement."  *Telematics and Informatics.* {[doi](https://doi.org/10.1016/j.tele.2023.102075)}
 

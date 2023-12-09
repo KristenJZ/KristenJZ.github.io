@@ -6,7 +6,7 @@ toc: true
 ---
 ## Topic 1: Technology Adoption and Media Effects
 
-[2] **Zhang, J.***, Liu, R. 2023. "Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement."  *Telematics and Informatics.* {[doi](https://doi.org/10.1016/j.tele.2023.102075)}
+[2] **Zhang, J.***, Liu, R. (2023). "Why do Chinese people consume video game live streaming on the platform? An exploratory study connecting affordance-based gratifications, user identification, and user engagement."  *Telematics and Informatics.* {[doi](https://doi.org/10.1016/j.tele.2023.102075)}
 
 [1] **Zhang, J.**, Liu, R., Cui, D., Wu, F. (Jul 2022). "Under what circumstances will people seek scientific information? A structural equation model of communication factors, AI risk-benefit perception and information seeking in China." *Conference paper presented at the 2022 annual conference of the International Association for Media and Communication Research (IAMCR), online, Beijing, China. The Division of Environment, Science and Risk Communication.* {[pdf](https://kristenjz.com/file/IAMCR_2022_ScienceComm.pdf)}
 
@@ -22,7 +22,7 @@ toc: true
 
 ## Topic 4: Publication can be Service
 
-[1] Hatfield, H. R., Hao, H., Klein, M. S., Fu, Y., **Zhang, J.**, Kim, J., Lee, J., Ahn, S. J. (Second-round Review). "Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).” *Journal of Communication.*
+[1] Hatfield, H. R., Hao, H., Klein, M. S., **Zhang, J.**, Fu, Y.,Kim, J., Lee, J., Ahn, S. J. (Second-round Review). "Addressing whiteness in communication scholar composition and collaboration across seven decades of ICA journals (1951-2022).” *Journal of Communication.*
 
 ---
 

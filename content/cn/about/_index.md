@@ -20,11 +20,11 @@ toc: true
 
 ## 我的经历
 
-在河南省郑州市读书读到了18岁，整体是一个曲线上升的过程，小时候成绩一直很好，是优绩主义的胜利者。在[郑州外国语学校](http://www.zzfls.com.cn/)读了三年的高中，第一年感受到了和同龄人智商的差距非常痛苦，最后在文理分科时选了文科试图保留一些智商的优越感。2016年高考去了上海，阴差阳错在[复旦大学新闻学院](http://www.xwxy.fudan.edu.cn/n1339/index.html)度过了本科时光，认识了很多好朋友和优秀的老师。2019年在[悉尼大学](https://www.sydney.edu.au/)进行了为期半年的交换，在那里帮[Joyce Nip](https://www.sydney.edu.au/arts/about/our-people/academic-staff/joyce-nip.html)老师做了一些微不足道的工作。2021年毕业于复旦大学新闻学院，拿了自己的传播学本科学位。2021年12月，在[崔迪](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/jzyg/node816/node904/u1ai107548.html)老师、[苗伟山](https://scholar.google.com/citations?user=e7aipDYAAAAJ&hl=en)老师的帮助下，联系到了[北卡罗来纳夏洛特分校](https://www.charlotte.edu/)的[蒋敏](https://pages.charlotte.edu/min-jiang/)老师，并正在这里度过两年的硕士生活。
+在河南省郑州市读书读到了18岁，整体是一个曲线上升的过程，小时候成绩一直很好，是优绩主义的胜利者。在[郑州外国语学校](http://www.zzfls.com.cn/)读了三年的高中，第一年感受到了和同龄人智商的差距非常痛苦，最后在文理分科时选了文科试图保留一些智商的优越感。2016年高考去了上海，阴差阳错在[复旦大学新闻学院](http://www.xwxy.fudan.edu.cn/n1339/index.html)度过了本科时光，认识了很多好朋友和优秀的老师。2019年在[悉尼大学](https://www.sydney.edu.au/)进行了为期半年的交换，在那里帮[Joyce Nip](https://www.sydney.edu.au/arts/about/our-people/academic-staff/joyce-nip.html)老师做了一些微不足道的工作。2021年毕业于复旦大学新闻学院，拿了自己的传播学本科学位。2021年12月，在[崔迪](http://www.xwxy.fudan.edu.cn/node2/fdxwxy/jzyg/node816/node904/u1ai107548.html)老师、[苗伟山](https://scholar.google.com/citations?user=e7aipDYAAAAJ&hl=en)老师的帮助下，联系到了[北卡罗来纳夏洛特分校](https://www.charlotte.edu/)的[蒋敏](https://pages.charlotte.edu/min-jiang/)老师，并正在这里度过两年的硕士生活。2024年Ph.D.申请中。
 
 ## 关于我自己
 
-- MBTI：INTJ和INFJ反复跳跃者，在非常理性的时刻会是INTJ，大部分正常的时刻是INFJ。I（内倾）的比例非常高，因此非常需要独处的时间，如果独处的时间不够长就会出现心态上的问题，因此非常讨厌国内的一切办公室。会觉得相处是一种内耗。
+- MBTI：INTJ和INFJ反复跳跃者，在非常理性的时刻会是INTJ，大部分正常的时刻是INFJ。I（内倾）的比例非常高，因此非常需要独处的时间，如果独处的时间不够长就会出现心态上的问题，因此非常讨厌国内的一切办公室。
 - 星座：太阳摩羯、月亮天秤、上升天秤，因此有伪装自己的倾向和天秤的粉饰太平感，很擅长陌生人社交，可以快速掌握会场并和不那么熟悉的人交往。但是只限于“不那么熟悉的人”。
 - 喜欢看影视剧，目前在豆瓣上标记的影视剧有700部左右，各个国家的作品都应该有所观看。电视电影是我向外界的一个很好的触角。
 - 性格稍微急躁，做事容易三分钟热度，有目标但是会因为满足感太延迟而难以执行，因此也在不断给自己一些延迟的满足感来克制这种倾向。

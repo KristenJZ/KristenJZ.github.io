@@ -16,7 +16,7 @@ toc: true
 
 ## Topic 3: Social Media, Algorithms, and Public Opinions
 
-[2] **Zhang, J.**, Zhang, D., Curry, A. (Under Review). ”Lower Status, More Pessimism? Examining public emotions and sentiments in neighborhood crime and safety discussions on Nextdoor.” *ICA 2024*.
+[2] **Zhang, J.**, Zhang, D., Curry, A. (Accepted). ”Lower Status, More Pessimism? Examining public emotions and sentiments in neighborhood crime and safety discussions on Nextdoor.” *ICA 2024*.
 
 [1] **Zhang, J.** (Oct 2020). "News-find-me perception and news consumption behavior in an algorithmic environment: an empirical study on algorithmic involvement in China." *Conference paper presented at the 2020 International Communication Association (ICA) – Post Conference: International New Media Forum, Shanghai, China.* {[pdf](https://kristenjz.com/file/ICApost2020_NewMedia.pdf)}
 

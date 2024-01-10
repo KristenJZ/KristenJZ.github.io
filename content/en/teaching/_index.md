@@ -9,7 +9,7 @@ toc: false
 
 ### 1) [Department of Communication Studies](https://communication.charlotte.edu/), University of North Carolina at Charlotte, Charlotte, NC
 
-#### ***COMM 2100: Introduction to Communication Theory (Fall 2023)*** (Undergraduate level; Instructor: [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/); Size: 125 students)
+#### ***COMM 2100: Introduction to Communication Theory (Fall 2023 and Spring 2024)*** (Undergraduate level; Instructor: [Dr. Sayde Brais](https://www.linkedin.com/in/saydejbrais/); Size: 125 (Fall 2023) + 87 (Spring 2024) students)
 
 {{<columns>}}
 

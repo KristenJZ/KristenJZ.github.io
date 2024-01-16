@@ -92,7 +92,7 @@ The earlier version of this paper which deals with data from 2000 to 2022 was ac
 
 {{<column>}}
 
-This is the class SI session website for my students enrolled in *COMM2100 Introduction to Comm Theory* at the University of North Carolina at Charlotte, 2023 Fall. During the sessions, I lead discussions among students and reinforce the knowledge that students learned on lectures. 
+This is the class SI session website for my students enrolled in *COMM2100 Introduction to Comm Theory* at the University of North Carolina at Charlotte, 2023 Fall and 2024 Spring. During the sessions, I led discussions among students to reinforce the knowledge that students learned on lectures. 
 
-- Class size: 125 students.
+- Class size: 125 students in 2023 Fall; 87 students in 2024 Spring.
 

@@ -448,6 +448,23 @@ University of Missouri 有两个和传播学相关的项目，一个是 Departme
 - [Patricia Moy](https://com.uw.edu/people/faculty/patricia-moy/) 这位老师做的研究主要是人际传播如何影响政治观点的研究。
 - [Adrienne Russell](https://com.uw.edu/people/faculty/adrienne-russell/) 这位老师之前有做过不少政治问题和民主参与的话题，但是这几年开始转向写书和做不少的气候变化研究，我看主页上应该是会持续在这个方向发力了。
 
+#### 15. University of Florida, College of Journalism and Communications
+
+这一部分要give credit to UF的硕士生[宇煊](https://twitter.com/YuxuanLawrence)，宇煊给我发了这部分的总结。我印象中 UF 的新闻学院是一个非常广告取向的学院，但是这几年也正在变得百花齐放。下面的文字来自宇煊：
+
+这是一个以大众传播见长的学院，专长广告和公关方向的研究。近年来学院把发展的重点方向放到了AI上，招进了很多做AI方向的老师。在学院列出的研究方向中，有一整个area of study 是政治传播。在做政治传播的老师如下：
+
+- Juliana Fernandes这位老师做一些政治广告相关的研究，也有显示对环境方面civic engagement的关注。
+- Rebecca Frazer这位老师是去年才从OSU毕业入职的AP，专长media psychology和narrative，政治传播上主要做道德和极端主义。
+-  Jay Hmielowski也是用心理学视角来研究政治问题相关的态度和信念，关注trust in media，同时也会做一些政治与环境、科学问题交叉的研究，和下文的Hutchens老师有很多合作。
+- Myiah Hutchens关注selective exposure和political disagreement，和Hmielowski老师做了很多partisan media相关的研究
+- Benjamin Johnson这位老师也关注selective exposure，前几年做了很多和在线政治新闻信息选择的研究，这几年更多地将研究重心放到了广告相关的研究上。
+- Spiro K. Kiousis是agenda-setting的大牛，专长political public relations，探讨political public relations如何影响新闻媒体内容和公众舆论。值得一提的是，他对interactivity的conceptualization实在是很有笔力，很值得一读。
+- Seungahn Nah这位老师主要研究digital communication technologies，尤其是AI在民主中的作用，以及媒体在社区和民主进程和结果中的可信度。
+- Maria Celeste Wagner毕业于 UPenn 的年轻 AP，用混合方法做性别与政治和社会问题的研究，也有展示出对跨文化传播和对比研究的关注。
+
+
+
 第二档还有一些学校，我就简单来看。
 
 1）University of Maryland, 马里兰是一所以 PR 见长的学校，主页上也有讲到主要的三个方向是 Comm science & social cognition, PR & stragetic comm, 与 rhetoric & political culture. 其中第三个方向的成员也大多是做修辞方向的，可以[自行查看](https://communication.umd.edu/academics/graduate/PHD/faculty)。
@@ -458,7 +475,9 @@ University of Missouri 有两个和传播学相关的项目，一个是 Departme
 
 4）UMN 他们一共有三个 track，critical media studies, rhetorical studies, interpersonal & organizational communication，在第一和第二个 track 中有一些做政治传播的老师。比如做女性和移民政治组织的[Zornitsa Keremidchieva](https://cla.umn.edu/about/directory/profile/zkeremid)。
 
-U of Florida、U Baffolo、IOWA大概都应该在这个tier，但是我没有仔细看这些学校，希望有同学会愿意在下面补充！
+
+
+U Baffolo、IOWA大概都应该在这个tier，但是我没有仔细看这些学校，希望有同学会愿意在下面补充！
 
 
 

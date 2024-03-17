@@ -20,41 +20,33 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "https://kristenjz.github.io/file/Kristen_Academic_CV.pdf"
     weight = 2
 [[menu.en]]
-    name = "Research"
-    url = "/en/research/"
-    weight = 3 
-[[menu.en]]
     name = "Notes&Projects"
     url = "/en/notebooks/"
-    weight = 4 
+    weight = 3
 [[menu.en]]
     name = "Teaching"
     url = "/en/teaching/"
-    weight = 5 
+    weight = 4 
 [[menu.en]]
     name = "Posts"
     url = "/en/posts/"
-    weight = 6
+    weight = 5
 [[menu.en]]
     name = "Photography"
     url = "/en/photograph"
-    weight = 7
+    weight = 6
 [[menu.en]]
     name = "中文"
     url = "/cn/posts/"
-    weight = 8
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 1
+    weight = 7
 [[menu.cn]]
     name = "日志"
     url = "/cn/posts/"
-    weight = 2
+    weight = 1
 [[menu.cn]]
     name = "English"
     url = "/"
-    weight = 3
+    weight = 2
 
 [params]
     description = "Peronal website of Your Name"
